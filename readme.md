@@ -1,5 +1,5 @@
-# dataset
-This dataset corresponds to our TSE work (Under review). We provided the benchmarks collected from 499 open source projects for continued research of possible dependencies due to dynamic typing in Python software.
+# Dataset
+This dataset corresponds to our **TSE work (Under review)**. We provided the benchmarks collected from 499 open source projects for continued research of possible dependencies due to dynamic typing in Python software.
 
 We extended our previous tool **ENRE** to extract *possible dependencies* from source code. The version supporting posisble dependency extraction is [**ENRE2.0**](https://github.com/xjtu-enre/ENRE-go-python/tree/v2.0]). 
 
@@ -16,9 +16,9 @@ Next, we removed the repeated or forked projects, and tutorial projects if their
 
 We further excluded small projects where the number of files is smaller than 40 or the number of Python files is smaller than 8. In the end we collected 499 projects as the subjects of our study, which are listed in **ProjectList4-499.csv**.
 
-All these "\*.csv" files list the information of each project, including project name, Url,  Description, the number of files,  Loc (Lines of Code), the number of commits, the numer of issueCommits (issue-related commits), the number of committers, the number of issueCommiters(issue-related committers),  the number of PyFiles (python files), PyLoc (Python Loc), and the average python Loc per file (AvgLoCPerFile). The summary of these information corresponds to *Table 2* and *Figure 6* in our paper draft.
+All these "\*.csv" files list the information of each project, including project ***name***, ***Url***,  ***Description***, the number of ***files***,  ***Loc*** (Lines of Code), the number of ***commits***, the numer of ***issueCommits*** (issue-related commits), the number of ***committers***, the number of ***issueCommiters*** (issue-related committers),  the number of ***PyFiles*** (python files), ***PyLoc*** (Python Loc), and the average python Loc per file (***AvgLoCPerFile***). The summary of these information corresponds to *Table 2* and *Figure 6* in our paper draft.
 
-To analyze the domain of these 499 projects, we recruited five research volunteers (including one PhD student and four other graduate students) to label the domain of each Python project, following the  application domain categories introduced in Python official community (\url{https://legacy.python.org/about/apps/}). To mitigate any subjectivity threat, they cross-validated their results and reached consensus after an independent labeling step.  The domain information is listed in **ProjectList4-499-domain.xlsx**.  The summary of domain distribution corresponds to *Table 3* in our paper draft.
+To analyze the domain of these 499 projects, we recruited five research volunteers (including one PhD student and four other graduate students) to label the domain of each Python project, following the  application domain categories introduced in Python official community ({https://legacy.python.org/about/apps/}). To mitigate any subjectivity threat, they cross-validated their results and reached consensus after an independent labeling step.  The domain information is listed in **ProjectList4-499-domain.xlsx**.  The summary of domain distribution corresponds to *Table 3* in our paper draft.
 
 
 ## 2. project_analysis
