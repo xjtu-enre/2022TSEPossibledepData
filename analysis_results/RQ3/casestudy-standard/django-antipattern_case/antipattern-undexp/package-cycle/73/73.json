@@ -1,0 +1,25 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "73",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/sql/conversion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/sql/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/functions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/__init__.py"
+    } ]
+  } ]
+}

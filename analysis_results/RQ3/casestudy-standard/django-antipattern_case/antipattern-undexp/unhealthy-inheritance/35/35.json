@@ -1,0 +1,26 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "35",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/base/creation.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/creation.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    } ]
+  } ]
+}

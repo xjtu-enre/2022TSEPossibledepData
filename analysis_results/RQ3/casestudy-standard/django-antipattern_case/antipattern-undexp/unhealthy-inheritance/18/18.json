@@ -1,0 +1,29 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "18",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/apps/registry.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/state.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/migrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/makemigrations.py"
+    } ]
+  } ]
+}

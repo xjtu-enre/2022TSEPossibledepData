@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "21",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/base_session.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/middleware.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/file.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/signed_cookies.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/db.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/cached_db.py"
+    } ]
+  } ]
+}

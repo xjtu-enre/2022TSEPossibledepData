@@ -1,0 +1,25 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "78",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/files/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/uploadhandler.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/http/multipartparser.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/request.py"
+    } ]
+  } ]
+}

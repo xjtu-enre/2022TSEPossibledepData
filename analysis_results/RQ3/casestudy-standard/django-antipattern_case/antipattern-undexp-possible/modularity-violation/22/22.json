@@ -1,0 +1,34 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "22",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/defaultfilters.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/templatetags/l10n.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader_tags.py"
+    } ]
+  } ]
+}

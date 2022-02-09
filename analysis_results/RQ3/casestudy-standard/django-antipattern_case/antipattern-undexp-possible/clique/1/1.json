@@ -1,0 +1,681 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/mixins.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/messages/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/color.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/module_loading.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/urls/conf.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/_os.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/dispatch/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/ipv6.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/paginator.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/urls/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/text.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/dispatch/dispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/version.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/urls/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/generic/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/cache/backends/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/dateparse.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/timezone.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/deconstruct.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/move.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/uploadedfile.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/temp.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/images.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/aggregates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/proxy.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/comparison.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/cache/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/model_checks.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/registry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/messages.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/numberformat.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/safestring.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/tree.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/hashable.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/template.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/validators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/validators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/password_validation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/html.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/hashers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/crypto.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/python.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/files.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/storage.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/finders.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/storage.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/mail/backends/smtp.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/mail/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/mail/message.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/encoding.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/six.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/django.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sites/requests.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sites/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sites/shortcuts.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/multipartparser.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/files/uploadhandler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/decorators/debug.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/tests.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/selenium.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/decorators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/response.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/request.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/signing.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/generic/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/flatpages/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/exception.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/debug.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/testing.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/handlers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/wsgi.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/servers/basehttp.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/renderers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/jinja2.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/urls/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/defaults.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/decorators/csrf.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/csrf.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/decorators/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/i18n.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/wsgi.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/urls/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/urls/resolvers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/urls.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/apps/config.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/apps/registry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/sql.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/introspection.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/tokens.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/base_user.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/backends.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/datetime.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related_lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/datastructures.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/reverse_related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/validation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/indexes.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/state.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/graph.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/migration.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/constraints.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related_descriptors.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/expressions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/executor.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/loader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/recorder.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/formsets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/boundfield.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/templatetags/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaultfilters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/library.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/formats.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/dateformat.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/dates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/reloader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/autoreload.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/__main__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/apps.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/views/autocomplete.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/filters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_urls.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/admin.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/checks.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_list.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/views/main.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/admin.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/decorators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/sites.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/response.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/json.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/log.py"
+    } ]
+  } ]
+}

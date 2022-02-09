@@ -1,0 +1,46 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "27",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/datastructures.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/reverse_related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related_lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/mixins.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    } ]
+  } ]
+}

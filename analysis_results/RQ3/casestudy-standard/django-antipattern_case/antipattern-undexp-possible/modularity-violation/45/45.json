@@ -1,0 +1,22 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "45",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/point.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/mutable_list.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/polygon.py"
+    } ]
+  } ]
+}

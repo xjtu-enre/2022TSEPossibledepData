@@ -1,0 +1,56 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/utils.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/transaction.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/exceptions.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/sqlmigrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/migrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/migrations/0011_update_proxy_permissions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/squashmigrations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    } ]
+  } ]
+}

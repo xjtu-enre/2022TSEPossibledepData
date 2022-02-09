@@ -1,0 +1,67 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "7",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/generation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/geom.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/raster.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/ds.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/srs.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/prototypes/errcheck.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/feature.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/envelope.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/geometries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/datasource.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/driver.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/srs.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/field.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/layer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/error.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/libgdal.py"
+    } ]
+  } ]
+}

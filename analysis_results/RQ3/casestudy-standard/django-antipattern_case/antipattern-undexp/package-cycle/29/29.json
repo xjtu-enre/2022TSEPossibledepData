@@ -1,0 +1,43 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "29",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/log.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/timezone.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/crypto.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/deprecation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/formats.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/numberformat.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/conf/__init__.py"
+    } ]
+  } ]
+}

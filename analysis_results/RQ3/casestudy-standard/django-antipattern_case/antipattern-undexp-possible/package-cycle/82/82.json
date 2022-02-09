@@ -1,0 +1,22 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "82",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/apps.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/management/__init__.py"
+    } ]
+  } ]
+}

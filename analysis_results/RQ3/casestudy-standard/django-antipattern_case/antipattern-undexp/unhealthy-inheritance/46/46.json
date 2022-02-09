@@ -1,0 +1,26 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "46",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/reverse_related.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    } ]
+  } ]
+}

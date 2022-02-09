@@ -1,0 +1,32 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "17",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    } ]
+  } ]
+}

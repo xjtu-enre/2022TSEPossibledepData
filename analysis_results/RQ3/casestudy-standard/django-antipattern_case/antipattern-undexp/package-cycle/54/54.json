@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "54",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/redirects/middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/redirects/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/sites/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sites/shortcuts.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sites/middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sites/__init__.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,28 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "71",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/base/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/operations.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    } ]
+  } ]
+}

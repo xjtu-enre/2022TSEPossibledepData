@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "69",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/http/response.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/multipartparser.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/request.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/shortcuts.py"
+    } ]
+  } ]
+}

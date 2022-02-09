@@ -1,0 +1,52 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "15",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/dumpdata.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/loaddata.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/createcachetable.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/test.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/migrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/python.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/flush.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/makemigrations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/shell.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/runserver.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/sqlsequencereset.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/inspectdb.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/sql.py"
+    } ]
+  } ]
+}

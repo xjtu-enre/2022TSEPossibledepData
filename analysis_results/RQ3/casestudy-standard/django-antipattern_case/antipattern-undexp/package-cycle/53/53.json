@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "53",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/base/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/base/operations.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/functions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/aggregates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/__init__.py"
+    } ]
+  } ]
+}

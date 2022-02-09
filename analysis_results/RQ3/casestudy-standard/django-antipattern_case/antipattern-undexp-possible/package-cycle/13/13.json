@@ -1,0 +1,55 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "13",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/checks.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/apps.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/admin.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query_utils.py"
+    } ]
+  } ]
+}

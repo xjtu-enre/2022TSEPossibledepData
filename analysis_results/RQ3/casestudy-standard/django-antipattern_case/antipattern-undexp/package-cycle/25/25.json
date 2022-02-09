@@ -1,0 +1,46 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "25",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/admin.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/admin/decorators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/sites.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/options.py"
+    } ]
+  } ]
+}

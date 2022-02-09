@@ -1,0 +1,46 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "21",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/middleware/common.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/wsgi.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/decorators/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/locale.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/redirects/middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/global_settings.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/csrf.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,41 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "10",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/management/commands/createsuperuser.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/migrations/0011_update_proxy_permissions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    } ]
+  } ]
+}

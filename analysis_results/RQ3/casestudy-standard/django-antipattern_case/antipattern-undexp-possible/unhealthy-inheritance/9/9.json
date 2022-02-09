@@ -1,0 +1,41 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "9",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/geometry.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/linestring.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/polygon.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/point.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/collections.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/geometry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/geometries.py"
+    } ]
+  } ]
+}

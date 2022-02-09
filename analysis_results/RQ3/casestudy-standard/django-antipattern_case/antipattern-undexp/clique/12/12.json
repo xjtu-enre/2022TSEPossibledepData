@@ -1,0 +1,15 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "12",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/threadsafe.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/libgeos.py"
+    } ]
+  } ]
+}

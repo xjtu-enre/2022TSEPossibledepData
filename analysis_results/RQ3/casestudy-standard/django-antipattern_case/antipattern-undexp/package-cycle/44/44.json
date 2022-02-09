@@ -1,0 +1,37 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "44",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/geometry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/point.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/geometries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/srs.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/layer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/error.py"
+    } ]
+  } ]
+}

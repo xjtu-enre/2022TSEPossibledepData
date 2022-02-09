@@ -1,0 +1,29 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "25",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/base_user.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    } ]
+  } ]
+}

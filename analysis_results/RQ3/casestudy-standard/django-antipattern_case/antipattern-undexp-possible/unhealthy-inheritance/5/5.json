@@ -1,0 +1,53 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "5",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/http/request.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/handlers/wsgi.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/admin/sites.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/syndication/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context_processors.py"
+    } ]
+  } ]
+}

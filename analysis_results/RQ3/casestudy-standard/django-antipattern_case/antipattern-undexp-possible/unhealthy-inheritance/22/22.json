@@ -1,0 +1,32 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "22",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/lookups.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/functions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related_lookups.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/sitemaps/views.py"
+    } ]
+  } ]
+}

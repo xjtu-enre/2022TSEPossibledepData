@@ -1,0 +1,52 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "16",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/shortcuts.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/library.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/response.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context_processors.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaultfilters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader_tags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    } ]
+  } ]
+}

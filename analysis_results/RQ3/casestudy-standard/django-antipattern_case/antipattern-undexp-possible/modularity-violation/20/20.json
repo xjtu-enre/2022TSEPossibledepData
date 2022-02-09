@@ -1,0 +1,43 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "20",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/aggregates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/datastructures.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    } ]
+  } ]
+}

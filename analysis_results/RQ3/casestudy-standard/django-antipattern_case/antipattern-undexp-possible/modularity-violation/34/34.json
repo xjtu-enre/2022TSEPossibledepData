@@ -1,0 +1,25 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "34",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/cache.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/file.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/db.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/backends/cached_db.py"
+    } ]
+  } ]
+}

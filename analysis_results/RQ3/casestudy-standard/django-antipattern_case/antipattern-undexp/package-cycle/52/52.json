@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "52",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/apps/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/apps/registry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/apps/config.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/module_loading.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/autoreload.py"
+    } ]
+  } ]
+}

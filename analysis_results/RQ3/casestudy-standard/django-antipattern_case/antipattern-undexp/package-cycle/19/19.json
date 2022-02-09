@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "19",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/introspection.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/adapter.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/operations.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/introspection.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/base.py"
+    } ]
+  } ]
+}

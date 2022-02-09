@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "67",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/reverse_related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/files.py"
+    } ]
+  } ]
+}

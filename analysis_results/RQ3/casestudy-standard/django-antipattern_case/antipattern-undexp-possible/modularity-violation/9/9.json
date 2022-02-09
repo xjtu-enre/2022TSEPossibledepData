@@ -1,0 +1,73 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "9",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/flush.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/loaddata.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/makemessages.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/management/commands/createsuperuser.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/migrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/sqlflush.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/makemigrations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/shell.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/runserver.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/dumpdata.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/loader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/inspectdb.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/testserver.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/dbshell.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/createcachetable.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/test.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/management/commands/collectstatic.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/diffsettings.py"
+    } ]
+  } ]
+}

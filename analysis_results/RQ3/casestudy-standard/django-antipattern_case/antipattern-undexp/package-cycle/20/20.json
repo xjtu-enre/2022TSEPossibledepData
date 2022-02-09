@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "20",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/library.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/jinja2.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/django.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/backends/dummy.py"
+    } ]
+  } ]
+}

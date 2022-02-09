@@ -1,0 +1,37 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "46",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/sql.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/color.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/templates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/utils.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/__main__.py"
+    } ]
+  } ]
+}

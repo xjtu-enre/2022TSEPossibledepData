@@ -1,0 +1,19 @@
+﻿project,pythonfile,linenumber,exp,fromname,toname,resolvedset,P1 benchmarks,Pn benchmarks
+glance,amps_list.py,60,"if ""monitor"" in self.config.sections()",amps_list.py,sections,config,Y,Y
+glance,amps_list.py,65,for s in self.config.sections(),amps_list.py,sections,config,Y,Y
+glance,folder_list.py,64,if self.config is not None and self.config.has_section('folders'),folder_list.py,has_section,config,Y,Y
+glance,glances_cloud.py,68,self.OPENSTACK.start(),glances_cloud.py,start,threading,N,Y
+glance,glances_docker.py,39,"logger.warning(""Missing Python Lib ({}), Docker plugin is disabled"".format(e))",glances_docker.py,warning,__init__,Y,Y
+glance,glances_gpu.py,31,"logger.warning(""Missing Python Lib ({}), Nvidia GPU plugin is disabled"".format(e))",glances_gpu.py,warning,__init__,Y,Y
+glance,glances_ip.py,167,t.start(),glances_ip.py,start,threading,N,Y
+glance,glances_ip.py,35,"logger.warning(""Missing Python Lib ({}), IP plugin is disabled"".format(e))",glances_ip.py,warning,__init__,Y,Y
+glance,glances_plugin.py,497,if config.has_section('global'),glances_plugin.py,has_section,config,Y,Y
+glance,glances_plugin.py,502,if config.has_section(self.plugin_name),glances_plugin.py,has_section,config,Y,Y
+glance,glances_plugin.py,507,"self._limits[limit] = config.get_float_value(self.plugin_name, level)",glances_plugin.py,get_float_value,config,Y,Y
+glance,main.py,271,for s in self.config.sections(),main.py,sections,config,Y,Y
+glance,main.py,272,if self.config.has_section(s) \,main.py,has_section,config,Y,Y
+glance,main.py,273,"and (self.config.get_bool_value(s, 'disable', False))",main.py,get_bool_value,config,Y,Y
+glance,main.py,252,args = self.init_args().parse_args(),main.py,init_args,main,Y,Y
+glance,ports_list.py,59,elif not config.has_section(self._section),ports_list.py,has_section,config,Y,Y
+glance,stats.py,210,self._plugins[p].load_limits(config),stats.py,load_limits,glances_plugin,N,Y
+glance,web_list.py,49,elif not config.has_section(self._section),web_list.py,has_section,config,Y,Y

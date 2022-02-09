@@ -1,0 +1,70 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "7",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/constants.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/datastructures.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/expressions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/constants.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/indexes.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/constraints.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/aggregates.py"
+    } ]
+  } ]
+}

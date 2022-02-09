@@ -1,0 +1,85 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "5",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/validators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader_tags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/views/main.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/debug.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/app_directories.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/formsets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admindocs/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/cached.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/filesystem.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_modify.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_list.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "29",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/autodetector.py"
+    } ]
+  } ]
+}

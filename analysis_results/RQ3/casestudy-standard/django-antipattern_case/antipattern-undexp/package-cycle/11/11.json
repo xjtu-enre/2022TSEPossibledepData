@@ -1,0 +1,58 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "11",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/views/csrf.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/debug.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/i18n.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/module_loading.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/_os.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/version.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/encoding.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/timezone.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/log.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/formats.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/datastructures.py"
+    } ]
+  } ]
+}

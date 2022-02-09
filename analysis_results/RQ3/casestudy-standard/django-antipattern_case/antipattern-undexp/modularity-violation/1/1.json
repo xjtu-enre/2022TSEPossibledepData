@@ -1,0 +1,133 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/global_settings.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/views/main.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/xml_serializer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/mysql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_list.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/sql.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql_psycopg2/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/spatialite/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/utils/layermapping.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/feedgenerator.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/constants.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/formsets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql_psycopg2/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    } ]
+  } ]
+}

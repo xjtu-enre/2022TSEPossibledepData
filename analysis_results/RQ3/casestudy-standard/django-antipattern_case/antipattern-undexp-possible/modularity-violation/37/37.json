@@ -1,0 +1,25 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "37",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/mysql/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/spatialite/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/base.py"
+    } ]
+  } ]
+}

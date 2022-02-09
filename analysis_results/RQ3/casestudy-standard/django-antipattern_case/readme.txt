@@ -1,0 +1,1 @@
+sometimes, we denote "possible dependency" as "type" or "implicit", since possible dependencies are due to the lack of explicit type declaration.

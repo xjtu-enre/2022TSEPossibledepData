@@ -1,0 +1,35 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "15",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/mixins.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/reverse_related.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related_descriptors.py"
+    } ]
+  } ]
+}

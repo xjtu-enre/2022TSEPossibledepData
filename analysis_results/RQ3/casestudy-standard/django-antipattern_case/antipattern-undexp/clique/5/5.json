@@ -1,0 +1,27 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "5",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/validation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/base.py"
+    } ]
+  } ]
+}

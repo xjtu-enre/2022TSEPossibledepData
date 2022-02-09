@@ -1,0 +1,43 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "31",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/special.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/serializer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/autodetector.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/state.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/migration.py"
+    } ]
+  } ]
+}

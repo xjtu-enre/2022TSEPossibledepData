@@ -1,0 +1,55 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "16",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/safestring.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/dateformat.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/ipv6.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/text.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/dates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/autoreload.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/formats.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/timesince.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/translation/reloader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    } ]
+  } ]
+}

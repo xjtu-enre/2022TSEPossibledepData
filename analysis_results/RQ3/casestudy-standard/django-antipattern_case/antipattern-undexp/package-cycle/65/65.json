@@ -1,0 +1,28 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "65",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/middleware/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/cache.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/csrf.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/response.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context_processors.py"
+    } ]
+  } ]
+}

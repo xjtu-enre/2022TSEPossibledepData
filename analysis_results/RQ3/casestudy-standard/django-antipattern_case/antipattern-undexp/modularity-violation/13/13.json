@@ -1,0 +1,55 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "13",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/views/debug.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/handlers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/global_settings.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admindocs/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/i18n.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/html.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader_tags.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "50",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/timesince.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/dateformat.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "17",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/loader.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/loaders/cached.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/filesystem.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader_tags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/debug.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/app_directories.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "19",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/global_settings.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/backends.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    } ]
+  } ]
+}

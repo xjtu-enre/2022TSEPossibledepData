@@ -1,0 +1,28 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "31",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/global_settings.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/views.py"
+    } ]
+  } ]
+}

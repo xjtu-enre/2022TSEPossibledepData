@@ -1,0 +1,25 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "70",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/test/selenium.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/admin/tests.py"
+    } ]
+  } ]
+}

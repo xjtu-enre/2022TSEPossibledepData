@@ -1,0 +1,34 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "45",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/checks/registry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/messages.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/checks/security/sessions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/security/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/security/csrf.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/checks/security/base.py"
+    } ]
+  } ]
+}

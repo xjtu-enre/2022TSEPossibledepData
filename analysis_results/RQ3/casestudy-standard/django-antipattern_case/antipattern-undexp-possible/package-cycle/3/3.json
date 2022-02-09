@@ -1,0 +1,79 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/ipv6.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/deconstruct.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/deprecation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/_os.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/crypto.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/html.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/module_loading.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/autoreload.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/encoding.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/baseconv.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/log.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/inspect.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/cache.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/paginator.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/signing.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/validators.py"
+    } ]
+  } ]
+}

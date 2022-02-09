@@ -1,0 +1,79 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "4",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/io.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/linestring.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/point.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prepared.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/coordseq.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/error.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/geometry.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/libgeos.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/polygon.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/collections.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/io.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/predicates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/coordseq.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/geom.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/topology.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/threadsafe.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/errcheck.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/prepared.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/prototypes/misc.py"
+    } ]
+  } ]
+}

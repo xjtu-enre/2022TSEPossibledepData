@@ -1,0 +1,50 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "7",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/library.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/templatetags/static.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_list.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/templatetags/staticfiles.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_modify.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    } ]
+  } ]
+}

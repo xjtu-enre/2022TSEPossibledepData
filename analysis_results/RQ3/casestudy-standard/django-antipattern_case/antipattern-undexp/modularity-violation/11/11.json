@@ -1,0 +1,67 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "11",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/conf/global_settings.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/validators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/debug.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/log.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/csrf.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/conf/locale/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/http/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/middleware/common.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/sessions/middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/handlers/wsgi.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/utils.py"
+    } ]
+  } ]
+}

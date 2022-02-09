@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "57",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/base/creation.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/introspection.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/operations.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/sql.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/base.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "32",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/loaders/cached.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/locmem.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/app_directories.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/filesystem.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loaders/base.py"
+    } ]
+  } ]
+}

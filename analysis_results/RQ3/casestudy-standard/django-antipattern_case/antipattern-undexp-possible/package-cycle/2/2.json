@@ -1,0 +1,85 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/template/engine.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/library.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/response.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/context_processors.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaultfilters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/loader_tags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/six.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/timesince.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/timezone.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/safestring.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/decorators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/html.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/module_loading.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/itercompat.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/encoding.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/lorem_ipsum.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/dateformat.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/formats.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/text.py"
+    } ]
+  } ]
+}

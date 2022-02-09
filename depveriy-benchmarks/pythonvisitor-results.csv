@@ -1,0 +1,13 @@
+﻿project,pythonfile,linenumber,exp,fromname,toname,resolvedset,P1 benchmarks,Pn benchmarks
+pythonvisitor,Body.py,5,visitor.visitBody(self),Body.py,visitBody,CarElementVisitor,Y,Y
+pythonvisitor,Car.py,15,visitor.visitCar(self),Car.py,visitCar,CarElementVisitor,Y,Y
+pythonvisitor,CarElementDoVisitor.py,6,body.operateBody(),CarElementDoVisitor.py,operateBody,Body,Y,Y
+pythonvisitor,CarElementDoVisitor.py,15,engine.operateEngine(),CarElementDoVisitor.py,operateEngine,Engine,Y,Y
+pythonvisitor,CarElementDoVisitor.py,12,wheel.operateWheel(),CarElementDoVisitor.py,operateWheel,Wheel,Y,Y
+pythonvisitor,CarElementDoVisitor.py,9,car.operateCar(),CarElementDoVisitor.py,operateCar,Car,Y,Y
+pythonvisitor,CarElementPrintVisitor.py,6,body.printBody(),CarElementPrintVisitor.py,printBody,Body,Y,Y
+pythonvisitor,CarElementPrintVisitor.py,15,engine.printEngine(),CarElementPrintVisitor.py,printEngine,Engine,Y,Y
+pythonvisitor,CarElementPrintVisitor.py,12,wheel.printWheel(),CarElementPrintVisitor.py,printWheel,Wheel,Y,Y
+pythonvisitor,CarElementPrintVisitor.py,9,car.printCar(),CarElementPrintVisitor.py,printCar,Car,Y,Y
+pythonvisitor,Engine.py,5,visitor.visitEngine(self),Engine.py,visitEngine,CarElementVisitor,Y,Y
+pythonvisitor,Wheel.py,7,visitor.visitWheel(self),Wheel.py,visitWheel,CarElementVisitor,Y,Y

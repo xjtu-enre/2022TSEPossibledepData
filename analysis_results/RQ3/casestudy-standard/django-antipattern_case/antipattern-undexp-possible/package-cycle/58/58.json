@@ -1,0 +1,34 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "58",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/translation/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/translation/trans_real.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/paginator.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/signals.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/validators.py"
+    } ]
+  } ]
+}

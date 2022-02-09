@@ -1,0 +1,40 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "39",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/serializers/pyyaml.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/python.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/xml_serializer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/__init__.py"
+    } ]
+  } ]
+}

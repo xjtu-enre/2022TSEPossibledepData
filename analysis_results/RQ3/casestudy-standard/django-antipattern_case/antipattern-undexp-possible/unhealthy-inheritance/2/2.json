@@ -1,0 +1,95 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/files.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/state.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/checks.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admindocs/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_list.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/flatpages/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/redirects/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/filters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/reverse_related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related_descriptors.py"
+    } ]
+  } ]
+}

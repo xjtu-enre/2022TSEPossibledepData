@@ -1,0 +1,22 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "40",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/optimizer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/operations/special.py"
+    } ]
+  } ]
+}

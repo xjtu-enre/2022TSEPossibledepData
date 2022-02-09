@@ -1,0 +1,32 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "23",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/base/introspection.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/introspection.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/introspection.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/base.py"
+    } ]
+  } ]
+}

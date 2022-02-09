@@ -1,0 +1,15 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "10",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geoip2/resources.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geoip2/base.py"
+    } ]
+  } ]
+}

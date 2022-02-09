@@ -1,0 +1,67 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "10",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/forms/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/utils/html.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/templatetags/admin_list.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/autodetector.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/views/main.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaultfilters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/deletion.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/filters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/state.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/forms/fields.py"
+    } ]
+  } ]
+}

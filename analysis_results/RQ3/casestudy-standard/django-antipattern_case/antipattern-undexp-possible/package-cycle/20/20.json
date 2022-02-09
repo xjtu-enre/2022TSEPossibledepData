@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "20",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/functions/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/datetime.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/text.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/mixins.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/comparison.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/math.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/functions/window.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/expressions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/aggregates.py"
+    } ]
+  } ]
+}

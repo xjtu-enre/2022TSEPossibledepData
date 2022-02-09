@@ -1,0 +1,58 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "12",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/expressions.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/tree.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/base/features.py"
+    } ]
+  } ]
+}

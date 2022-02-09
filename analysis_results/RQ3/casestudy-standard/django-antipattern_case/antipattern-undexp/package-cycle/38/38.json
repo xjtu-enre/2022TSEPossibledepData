@@ -1,0 +1,37 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "38",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/signals.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/finders.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/testing.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/storage.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/staticfiles/handlers.py"
+    } ]
+  } ]
+}

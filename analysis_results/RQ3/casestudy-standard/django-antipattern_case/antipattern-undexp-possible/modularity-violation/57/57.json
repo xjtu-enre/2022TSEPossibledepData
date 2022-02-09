@@ -1,0 +1,19 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "57",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/models.py"
+    } ]
+  } ]
+}

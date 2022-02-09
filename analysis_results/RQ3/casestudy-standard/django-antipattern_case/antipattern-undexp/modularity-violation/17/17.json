@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "17",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/migrate.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/core/management/commands/loaddata.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/makemigrations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/runserver.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/dumpdata.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/sqlmigrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/flush.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/inspectdb.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/showmigrations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/createcachetable.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/squashmigrations.py"
+    } ]
+  } ]
+}

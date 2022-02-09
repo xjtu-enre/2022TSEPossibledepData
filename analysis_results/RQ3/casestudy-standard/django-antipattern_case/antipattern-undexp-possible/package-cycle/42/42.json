@@ -1,0 +1,40 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "42",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/raster/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/raster/band.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/raster/source.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/raster/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/srs.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/driver.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/gdal/error.py"
+    } ]
+  } ]
+}

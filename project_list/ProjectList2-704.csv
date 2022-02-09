@@ -1,0 +1,705 @@
+project,Url,Description,Files,Loc,Commit,IssueCommit,Committer,IssueCommiter,PyFiles,PyLoc,AvgLoCPerFile
+12306,https://github.com/testerSunshine/12306,12306智能刷票，订�?2306,51,3395,316,4,30,3,49,3342,68.20408163
+acme-tiny,https://github.com/diafygi/acme-tiny,A tiny script to issue and renew TLS certs from Let's Encryptacme-tiny,6,690,125,22,39,2,6,690,115
+Agriculture_KnowledgeGraph,https://github.com/qq547276542/Agriculture_KnowledgeGraph,农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策Agriculture_KnowledgeGraph,251,651103,136,0,7,0,95,13563,142.7684211
+AidLearning-FrameWork,https://github.com/aidlearning/AidLearning-FrameWork,AidLearning-FrameWork,38,6835,427,0,5,0,28,1692,60.42857143
+aiohttp,https://github.com/aio-libs/aiohttp,Asynchronous HTTP client/server framework for asyncio and Pythonaiohttp,159,43589,5014,1715,559,437,131,41341,315.5801527
+airavata-django-portal,https://github.com/apache/airavata-django-portal,Mirror of Apache Airavata Django Portalairavata-django-portal,381,124654,578,0,8,0,158,87893,556.2848101
+airflow,https://github.com/apache/airflow,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflowsairflow",942,116840,4163,2086,874,706,836,93232,111.5215311
+akshare,https://github.com/jindaxiang/akshare,"AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库akshare",292,53574,2003,0,18,0,281,40282,143.3523132
+albumentations,https://github.com/albumentations-team/albumentations,Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125albumentations,64,12342,564,327,104,91,43,11585,269.4186047
+algo,https://github.com/trailofbits/algo,Set up a personal VPN in the cloudalgo,119,6037,779,487,144,137,8,1560,195
+algorithm-exercise,https://github.com/billryan/algorithm-exercise,Data Structure and Algorithm notes. 数据结构与算�?leetcode/lintcode题解/algorithm-exercise,22,580,405,2,33,1,5,199,39.8
+algorithms,https://github.com/keon/algorithms,algorithms,400,12967,338,195,136,103,397,12905,32.50629723
+allennlp,https://github.com/allenai/allennlp,allennlp,593,64966,1890,1769,199,197,563,58485,103.8809947
+allura,https://github.com/apache/allura,Mirror of Apache Alluraallura,980,130667,7229,6276,68,60,457,78538,171.8555799
+alpha_vantage,https://github.com/RomelTorres/alpha_vantage,A python wrapper for Alpha Vantage API for financial data.alpha_vantage,24,1766,341,20,43,8,20,1697,84.85
+AlphaPose,https://github.com/MVIG-SJTU/AlphaPose,Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking SystemAlphaPose,177,28114,115,6,15,5,140,16866,120.4714286
+altair,https://github.com/altair-viz/altair,Declarative statistical visualization library for Pythonaltair,258,69662,1249,30,107,17,240,21271,88.62916667
+androguard,https://github.com/androguard/androguard,"Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)androguard",172,129822,1237,73,81,17,82,25232,307.7073171
+angr,https://github.com/angr/angr,A powerful and user-friendly binary analysis platform!angr,1130,241478,4189,1005,185,100,1117,238373,213.4046553
+anki,https://github.com/ankitects/anki,Anki for desktop computersanki,780,79169,4084,80,73,16,285,33723,118.3263158
+anomaly-detection-resources,https://github.com/yzhao062/anomaly-detection-resources,"Anomaly detection related books, papers, videos, and toolboxesanomaly-detection-resources",2,42,192,6,11,1,2,42,21
+ansible,https://github.com/ansible/ansible,ansible,8004,1053096,18876,11281,2837,1971,3636,774125,212.9056656
+ansible-for-devops,https://github.com/geerlingguy/ansible-for-devops,ansible-for-devops,135,3330,337,145,23,2,3,363,121
+apex,https://github.com/NVIDIA/apex,A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorchapex,336,54153,669,172,82,58,220,23543,107.0136364
+apistar,https://github.com/encode/apistar,The Web API toolkit. 🛠apistar,115,10132,349,75,52,35,29,2530,87.24137931
+apprise,https://github.com/caronc/apprise,Apprise - Push Notifications that work with just about every platform!apprise,158,34232,435,222,26,19,149,34007,228.2348993
+apscheduler,https://github.com/agronholm/apscheduler,Task scheduling library for Pythonapscheduler,58,5804,393,41,17,12,54,5675,105.0925926
+ArchiveBox,https://github.com/ArchiveBox/ArchiveBox,"🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...ArchiveBox",176,17414,1986,6,60,5,115,9548,83.02608696
+arrow,https://github.com/arrow-py/arrow,Better dates & times for Pythonarrow,21,12816,825,214,240,79,21,12816,610.2857143
+arxiv-sanity-preserver,https://github.com/karpathy/arxiv-sanity-preserver,"Web interface for browsing, search and filtering recent arxiv submissionsarxiv-sanity-preserver",10,1102,174,0,23,0,10,1102,110.2
+asciinema,https://github.com/asciinema/asciinema,Terminal session recorder 📹asciinema,28,1461,420,13,28,5,28,1461,52.17857143
+asm-dude,https://github.com/HJLebbink/asm-dude,Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly windowasm-dude,249,124493,714,1,9,1,28,45038,1608.5
+ASRT_SpeechRecognition,https://github.com/nl8590687/ASRT_SpeechRecognition,ASRT_SpeechRecognition,25,3584,144,0,12,0,24,3578,149.0833333
+astroquery,https://github.com/astropy/astroquery,astroquery,450,163940,3662,58,94,19,323,27366,84.7244582
+asyncpg,https://github.com/MagicStack/asyncpg,A fast PostgreSQL Database Client Library for Python/asyncio.asyncpg,68,17890,631,145,57,31,48,12616,262.8333333
+attention-is-all-you-need-pytorch,https://github.com/jadore801120/attention-is-all-you-need-pytorch,"A PyTorch implementation of the Transformer model in ""Attention is All You Need"".attention-is-all-you-need-pytorch",14,1249,168,2,9,2,13,1237,95.15384615
+attrs,https://github.com/python-attrs/attrs,Python Classes Without Boilerplateattrs,47,10125,719,307,97,91,40,8663,216.575
+bitbake,https://github.com/openembedded/bitbake,The official bitbake Git is at https://git.openembedded.org/bitbake/. Do not open issues or file pull requests here.bitbake,373,83082,5222,1083,225,84,224,50876,227.125
+boto,https://github.com/boto/boto,"For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Servicesboto",674,82429,5052,384,647,95,665,80160,120.5413534
+calibre,https://github.com/kovidgoyal/calibre,The official source code repository for the calibre ebook managercalibre,2089,539568,24119,3967,231,21,1297,335425,258.616037
+cassandra-dtest,https://github.com/apache/cassandra-dtest,Mirror of Distributed test suite for Apache Cassandracassandra-dtest,182,58804,2902,194,87,38,139,58219,418.8417266
+celery,https://github.com/celery/celery,Distributed Task Queue (development branch)celery,348,53521,6797,1239,749,312,322,49038,152.2919255
+cerbero,https://github.com/pitivi/cerbero,Cerbero build system used to build the official upstream GStreamer 1.0 SDK binariescerbero,129,15818,2672,6,51,4,104,11647,111.9903846
+certbot,https://github.com/certbot/certbot,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.certbot,417,48951,3117,1064,308,173,316,39457,124.8639241
+ChatterBot,https://github.com/gunthercox/ChatterBot,"ChatterBot is a machine learning, conversational dialog engine for creating chat botsChatterBot",136,15116,1034,29,55,8,122,8629,70.7295082
+cheetah,https://github.com/cheetahtemplate/cheetah,a very fast brute force webshell password toolcheetah,71,9692,547,6,13,2,64,8693,135.828125
+cherrypy,https://github.com/cherrypy/cherrypy,"CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.devcherrypy",125,31838,2597,589,111,39,109,16546,151.7981651
+cobbler,https://github.com/cobbler/cobbler,Cobbler is a versatile Linux deployment servercobbler,153,20870,3376,149,204,29,120,16540,137.8333333
+codespeed,https://github.com/tobami/codespeed,A web application to monitor and analyze the performance of your codecodespeed,84,6597,388,24,30,9,42,3547,84.45238095
+d2l-en,https://github.com/d2l-ai/d2l-en,d2l-en,13,6534,3444,826,181,168,6,5851,975.1666667
+dagster,https://github.com/dagster-io/dagster,"An orchestration platform for the development, production, and observation of data assets.dagster",2586,311231,5772,1019,124,106,1982,272135,137.3032291
+DAIN,https://github.com/baowenbo/DAIN,Depth-Aware Video Frame Interpolation (CVPR 2019)DAIN,103,9157,144,1,9,1,80,5483,68.5375
+DALLE-pytorch,https://github.com/lucidrains/DALLE-pytorch,"Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in PytorchDALLE-pytorch",21,2575,403,18,25,8,18,2546,141.4444444
+darkflow,https://github.com/Hydragon516/darkflow,"Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devicesdarkflow",41,2882,245,1,27,1,35,2607,74.48571429
+dash,https://github.com/plotly/dash,"Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.dash",631,225569,1959,125,83,27,216,26193,121.2638889
+dask,https://github.com/dask/dask,Parallel computing with task schedulingdask,269,85444,4844,2781,444,415,229,83791,365.8995633
+data-science-blogs,https://github.com/rushter/data-science-blogs,A curated list of data science blogsdata-science-blogs,2,37,304,51,90,47,2,37,18.5
+data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,data-science-ipython-notebooks,43,4190,397,17,11,4,38,3818,100.4736842
+dataset,https://github.com/pudo/dataset,"Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.dataset",10,1355,293,40,46,7,10,1355,135.5
+datasets,https://github.com/huggingface/datasets,"🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation toolsdatasets",1653,128345,1856,1541,311,306,899,116681,129.7897664
+datasette,https://github.com/simonw/datasette,An open source multi-tool for exploring and publishing datadatasette,132,19893,1616,1025,58,55,74,17163,231.9324324
+ddia,https://github.com/Vonng/ddia,《Designing Data-Intensive Application》DDIA中文翻译ddia,5,134,238,9,67,3,2,49,24.5
+deap,https://github.com/DEAP/deap,Distributed Evolutionary Algorithms in Pythondeap,155,20195,991,12,70,4,127,8613,67.81889764
+DeDRM_tools,https://github.com/apprenticeharper/DeDRM_tools,DeDRM tools for ebooksDeDRM_tools,74,24742,177,2,45,2,62,24346,392.6774194
+DeepCTR,https://github.com/shenweichen/DeepCTR,"Easy-to-use,Modular and Extendible package of deep-learning based CTR models .DeepCTR",121,7266,104,22,15,9,115,7096,61.70434783
+deep-daze,https://github.com/lucidrains/deep-daze,Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoundeep-daze,7,1178,173,3,16,1,6,1154,192.3333333
+DeepFaceLab,https://github.com/iperov/DeepFaceLab,DeepFaceLab is the leading software for creating deepfakes.DeepFaceLab,132,15697,948,18,19,15,130,15664,120.4923077
+DeepLearning.ai-Summary,https://github.com/mbadry1/DeepLearning.ai-Summary,This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.DeepLearning.ai-Summary,1,31,272,0,26,0,1,31,31
+deep-learning-for-image-processing,https://github.com/WZMIAOMIAO/deep-learning-for-image-processing,deep-learning-for-image-processing,281,25819,535,0,3,0,271,25458,93.94095941
+DeepLearningTutorials,https://github.com/lisa-lab/DeepLearningTutorials,Deep Learning Tutorial notes and code. See the wiki for more info.DeepLearningTutorials,36,5434,730,0,54,0,28,5000,178.5714286
+deepo,https://github.com/ACodeRun/deepo,deepo,30,1421,114,21,10,10,25,783,31.32
+DeepPavlov,https://github.com/deepmipt/DeepPavlov,DeepPavlov,559,58105,1145,391,79,60,314,29722,94.65605096
+DeepSpeed,https://github.com/microsoft/DeepSpeed,"DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.DeepSpeed",316,51768,612,524,72,69,206,37651,182.7718447
+deis,https://github.com/deis/deis,"Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. deis",1184,176872,2216,165,147,28,90,11667,129.6333333
+deluge,https://github.com/deluge-torrent/deluge,"Deluge BitTorrent client - Git mirror, PRs onlydeluge",401,110132,3321,357,58,30,262,42970,164.0076336
+deoplete.nvim,https://github.com/Shougo/deoplete.nvim,:stars: Dark powered asynchronous completion framework for neovim/Vim8deoplete.nvim,57,4128,1610,325,95,6,44,2643,60.06818182
+Detectron,https://github.com/facebookresearch/Detectron,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.Detectron",188,16536,114,17,37,15,84,11753,139.9166667
+detectron2,https://github.com/facebookresearch/detectron2,detectron2,652,51569,1229,112,189,56,427,41488,97.16159251
+devicon,https://github.com/devicons/devicon,"Set of icons representing programming languages, designing & development toolsdevicon",40,12504,458,145,58,29,13,843,64.84615385
+devops-exercises,https://github.com/bregman-arie/devops-exercises,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questionsdevops-exercises",24,977,400,50,67,34,13,321,24.69230769
+dev-setup,https://github.com/donnemartin/dev-setup,"macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.dev-setup",21,1343,290,18,13,8,5,13,2.6
+diagrams,https://github.com/mingrammer/diagrams,:art: Diagram as Code for prototyping cloud system architecturesdiagrams,222,15590,363,144,96,79,209,5510,26.36363636
+dirsearch,https://github.com/maurosoria/dirsearch,Web path scannerdirsearch,244,141883,840,16,64,8,239,141629,592.5899582
+discord.py,https://github.com/Rapptz/discord.py,An API wrapper for Discord written in Python.discord.py,143,26814,3452,202,321,23,126,24528,194.6666667
+discover-flask,https://github.com/realpython/discover-flask,discover-flask,28,581,107,0,3,0,20,431,21.55
+django,https://github.com/django/django,django,2600,301936,19724,12717,1827,1373,1942,225157,115.9407827
+django-allauth,https://github.com/pennersr/django-allauth,"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.django-allauth",542,18834,1784,398,537,122,502,17203,34.2689243
+DjangoBlog,https://github.com/liangliangyy/DjangoBlog,DjangoBlog,137,10634,376,33,20,4,78,5415,69.42307692
+django-cms,https://github.com/django-cms/django-cms,The easy-to-use and developer-friendly enterprise CMS powered by Django django-cms,730,96204,7807,894,450,175,304,44064,144.9473684
+django-crispy-forms,https://github.com/django-crispy-forms/django-crispy-forms,The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.django-crispy-forms,166,6269,970,259,182,72,26,3987,153.3461538
+django-extensions,https://github.com/django-extensions/django-extensions,This is a repository for collecting global custom management extensions for the Django Framework. django-extensions,226,16251,2312,251,497,88,202,14859,73.55940594
+django-haystack,https://github.com/django-haystack/django-haystack,Modular search for Djangodjango-haystack,149,26306,1296,135,199,40,128,23614,184.484375
+django-oscar,https://github.com/django-oscar/django-oscar,Domain-driven e-commerce for Djangodjango-oscar,935,63190,2599,316,240,94,647,40741,62.9690881
+django-rest-framework,https://github.com/encode/django-rest-framework,Web APIs for Django. 🎸django-rest-framework,233,36426,4275,1099,871,323,136,24473,179.9485294
+django-tastypie,https://github.com/django-tastypie/django-tastypie,django-tastypie,163,15566,1058,140,200,55,151,14915,98.77483444
+dnsmasq-china-list,https://github.com/felixonmars/dnsmasq-china-list,Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.dnsmasq-china-list,6,464,130396,80,68,15,3,348,116
+doccano,https://github.com/doccano/doccano,Open source annotation tool for machine learning practitioners.doccano,441,16272,799,43,61,13,121,6691,55.29752066
+docker-py,https://github.com/docker/docker-py,A Python library for the Docker Engine APIdocker-py,139,20082,1817,99,352,53,130,19901,153.0846154
+docker-stacks,https://github.com/jupyter/docker-stacks,Ready-to-run Docker images containing Jupyter applicationsdocker-stacks,70,2733,1310,83,205,29,34,1327,39.02941176
+docopt,https://github.com/docopt/docopt,"Pythonic command line arguments parser, that will make you smiledocopt",23,1066,315,17,26,3,23,1066,46.34782609
+docutils,https://github.com/docutils-mirror/docutils,docutils,337,52487,3806,23,32,7,265,34871,131.5886792
+dotbot,https://github.com/anishathalye/dotbot,A tool that bootstraps your dotfiles ⚡️dotbot,87,2615,182,5,28,2,23,859,37.34782609
+dowhy,https://github.com/microsoft/dowhy,"DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. dowhy",104,8085,360,88,43,15,96,7926,82.5625
+dumb-init,https://github.com/Yelp/dumb-init,A minimal init system for Linux containersdumb-init,11,688,186,2,21,1,11,688,62.54545455
+dvc,https://github.com/iterative/dvc,🦉Data Version Control | Git for Data & Models | ML Experiments Managementdvc,481,59006,3910,1838,216,177,454,57609,126.8920705
+dymos,https://github.com/OpenMDAO/dymos,Open Source Optimization of Dynamic Multidisciplinary Systemsdymos,220,24042,109,66,8,7,216,23863,110.4768519
+EasyOCR,https://github.com/JaidedAI/EasyOCR,"Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.EasyOCR",26,3643,288,5,94,5,24,3557,148.2083333
+easytrader,https://github.com/shidenggui/easytrader,"提供同花顺客户端/国金/华泰客户�?雪球的基金、股票自动程序化交易以及自动打新，支持跟�?joinquant /ricequant 模拟交易 �?实盘雪球组合, 量化交易组件easytrader",43,3274,480,69,47,37,35,3182,90.91428571
+edgedb,https://github.com/edgedb/edgedb,The next generation relational database.edgedb,459,190091,2856,937,33,27,399,173867,435.7568922
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,87,744,193,3,130,3,6,76,12.66666667
+Eel,https://github.com/ChrisKnott/Eel,Eel,51,16006,171,21,35,10,21,767,36.52380952
+eht-imaging,https://github.com/achael/eht-imaging,"Imaging, analysis, and simulation software for radio interferometryeht-imaging",77,27626,1371,0,28,0,75,27593,367.9066667
+einops,https://github.com/arogozhnikov/einops,"Deep learning operations reinvented (for pytorch, tensorflow, jax and others)einops",33,3837,260,8,12,1,24,2573,107.2083333
+elastalert,https://github.com/Yelp/elastalert,Easy & Flexible Alerting With ElasticSearchelastalert,56,13168,1381,24,248,19,29,12278,423.3793103
+elasticsearch-dsl-py,https://github.com/elastic/elasticsearch-dsl-py,High level Python client for Elasticsearchelasticsearch-dsl-py,71,9428,837,238,118,45,68,9189,135.1323529
+elasticsearch-py,https://github.com/elastic/elasticsearch-py,Official Elasticsearch client library for Pythonelasticsearch-py,144,18565,555,83,76,30,122,17676,144.8852459
+electrum,https://github.com/spesmilo/electrum,Electrum Bitcoin Walletelectrum,340,85103,5171,697,182,75,291,75757,260.3333333
+emissary,https://github.com/emissary-ingress/emissary,open source Kubernetes-native API gateway for microservices built on the Envoy Proxyemissary,5897,1484007,3613,150,81,20,223,31297,140.3452915
+espnet,https://github.com/espnet/espnet,espnet,2570,181002,7867,86,202,28,798,95177,119.2694236
+esptool,https://github.com/espressif/esptool,esptool,81,21781,644,62,75,11,51,12495,245
+EverydayWechat,https://github.com/sfyc23/EverydayWechat,微信助手�?.每日定时给好友（女友）发送定制消息�?.机器人自动回复好友�?.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）EverydayWechat,56,4806,141,0,14,0,54,2217,41.05555556
+examples,https://github.com/pytorch/examples,"A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.examples",74,5913,377,167,175,123,54,4482,83
+explainshell,https://github.com/idank/explainshell,match command-line arguments to their help textexplainshell,58,30243,215,26,15,6,26,3142,120.8461538
+fabric,https://github.com/fabric/fabric,"Simple, Pythonic remote execution and deployment.fabric",51,4302,1172,65,16,4,45,4241,94.24444444
+face_recognition,https://github.com/ageitgey/face_recognition,The world's simplest facial recognition api for Python and the command lineface_recognition,35,1908,184,11,43,6,30,1451,48.36666667
+faceai,https://github.com/vipstone/faceai,一款入门级的人脸、视频、文字检测以及识别的项目.faceai,26,806,116,0,8,0,25,715,28.6
+face-alignment,https://github.com/1adrianb/face-alignment,:fire: 2D and 3D Face alignment library build using pytorch face-alignment,26,1436,154,20,22,2,24,1366,56.91666667
+facenet,https://github.com/davidsandberg/facenet,facenet,71,7535,223,0,31,0,66,6715,101.7424242
+faceswap,https://github.com/deepfakes/faceswap,faceswap,202,35780,916,189,76,62,186,34737,186.7580645
+fail2ban,https://github.com/fail2ban/fail2ban,Daemon to ban hosts that cause multiple authentication errorsfail2ban,102,21171,2958,177,190,34,84,19789,235.5833333
+fairseq,https://github.com/pytorch/fairseq,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.fairseq,972,114277,1823,943,314,245,748,103730,138.6764706
+faker,https://github.com/joke2k/faker,Faker is a Python package that generates fake data for you.faker,559,98089,1626,411,397,199,547,97465,178.1809872
+falcon,https://github.com/falconry/falcon,"The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.falcon",245,29202,1258,721,162,133,211,27348,129.6113744
+fashion-mnist,https://github.com/zalandoresearch/fashion-mnist,A MNIST-like fashion product database. Benchmark :point_down: fashion-mnist,8,477,144,25,13,2,8,477,59.625
+fastapi,https://github.com/tiangolo/fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for productionfastapi",570,41038,1385,624,233,228,512,36305,70.90820313
+FATE,https://github.com/FederatedAI/FATE,FATE,2080,185379,1924,9,67,6,1162,103972,89.4767642
+faust,https://github.com/robinhood/faust,faust,358,50290,3238,130,83,8,341,46419,136.1260997
+featuretools,https://github.com/alteryx/featuretools,An open source python library for automated feature engineeringfeaturetools,154,23891,655,637,56,55,137,22857,166.8394161
+ffmpeg-python,https://github.com/kkroening/ffmpeg-python,Python bindings for FFmpeg - with complex filtering supportffmpeg-python,39,12410,303,47,23,3,20,2234,111.7
+ffsubsync,https://github.com/smacke/ffsubsync,Automagically synchronize subtitles with video.ffsubsync,39,3518,200,14,8,3,26,3275,125.9615385
+flair,https://github.com/flairNLP/flair,A very simple framework for state-of-the-art Natural Language Processing (NLP)flair,80,26498,2353,44,193,20,69,26196,379.6521739
+Flashlight,https://github.com/nate-parrott/Flashlight,The missing Spotlight plugin systemFlashlight,1459,101102,1160,32,139,6,494,40920,82.8340081
+flask,https://github.com/pallets/flask,The Python micro framework for building web applications.flask,103,10299,1859,282,544,139,71,9769,137.5915493
+flask-admin,https://github.com/flask-admin/flask-admin,flask-admin,418,118146,1618,181,301,47,128,15793,123.3828125
+Flask-AppBuilder,https://github.com/dpgaspar/Flask-AppBuilder,Flask-AppBuilder,407,54464,2919,337,147,69,243,25301,104.1193416
+Flask-SocketIO,https://github.com/miguelgrinberg/Flask-SocketIO,Socket.IO integration for Flask applications.Flask-SocketIO,18,1738,214,50,36,18,9,1373,152.5555556
+flask-sqlalchemy,https://github.com/pallets/flask-sqlalchemy,Adds SQLAlchemy support to Flaskflask-sqlalchemy,49,2305,295,31,67,12,31,1881,60.67741935
+flocker,https://github.com/ClusterHQ/flocker,Container data volume manager for your Dockerized applicationflocker,442,78555,11713,28,49,10,374,64558,172.6149733
+flower,https://github.com/mher/flower,Real-time monitor and web admin for Celery distributed task queueflower,113,17024,869,243,185,93,49,3878,79.14285714
+fluo-muchos,https://github.com/apache/fluo-muchos,Apache Fluo Muchosfluo-muchos,70,2490,102,55,6,4,8,977,122.125
+folium,https://github.com/python-visualization/folium,Python Data. Leaflet.js Maps. folium,105,20552,854,167,117,61,71,4508,63.49295775
+formspree,https://github.com/formspree/formspree,Easy HTML form without PHP or JavaScriptformspree,161,12813,573,9,20,5,42,4071,96.92857143
+freqtrade,https://github.com/freqtrade/freqtrade,freqtrade,251,42788,7645,295,217,37,203,40907,201.5123153
+frida,https://github.com/frida/frida,frida,28,5794,3107,46,40,26,9,2361,262.3333333
+fsociety,https://github.com/Manisso/fsociety,fsociety Hacking Tools Pack �?A Penetration Testing Frameworkfsociety,10,1834,212,3,19,2,1,1420,1420
+full-stack-fastapi-postgresql,https://github.com/tiangolo/full-stack-fastapi-postgresql,"Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.full-stack-fastapi-postgresql",106,2750,101,40,16,16,45,1327,29.48888889
+fuzzDicts,https://github.com/TheKingOfDuck/fuzzDicts,"Web Pentesting Fuzz 字典,一个就够了。fuzzDicts",23,1068,150,0,5,0,22,1059,48.13636364
+fuzzywuzzy,https://github.com/seatgeek/fuzzywuzzy,Fuzzy String Matching in Pythonfuzzywuzzy,11,975,211,10,45,8,11,975,88.63636364
+gajim,https://github.com/gajim/gajim,Mirror of the main Gajim! repo File Bugs at https://dev.gajim.org/gajim/gajimgajim,241,89973,2139,242,63,15,224,89028,397.4464286
+gallery-dl,https://github.com/mikf/gallery-dl,Command-line program to download image galleries and collections from several image hosting sitesgallery-dl,204,30471,3099,1111,50,47,197,30153,153.0609137
+Games,https://github.com/CharlesPikachu/Games,Games,186,12760,131,1,1,1,182,12724,69.91208791
+GamestonkTerminal,https://github.com/GamestonkTerminal/GamestonkTerminal,GamestonkTerminal,553,495978,857,212,52,24,336,51081,152.0267857
+gef,https://github.com/hugsy/gef,GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢gef,37,10204,1712,408,93,36,5,9496,1899.2
+gensim,https://github.com/RaRe-Technologies/gensim,Topic Modelling for Humansgensim,859,209440,2324,769,349,242,720,169999,236.1097222
+geopy,https://github.com/geopy/geopy,Geocoding library for Python.geopy,93,10309,907,99,116,47,88,10021,113.875
+ggpy,https://github.com/yhat/ggpy,ggplot port for pythonggpy,110,5307,205,2,17,2,108,5295,49.02777778
+GHunt,https://github.com/mxrch/GHunt,GHunt,17,1667,149,26,21,6,17,1667,98.05882353
+gibMacOS,https://github.com/corpnewt/gibMacOS,gibMacOS,10,2640,165,0,8,0,10,2640,264
+gitfiti,https://github.com/gelstudios/gitfiti,abusing github commit history for the lulzgitfiti,3,483,102,2,26,2,3,483,161
+GitGutter,https://github.com/jisaacks/GitGutter,A Sublime Text 2/3 plugin to see git diff in gutterGitGutter,34,2803,411,62,72,8,28,2592,92.57142857
+GitHub520,https://github.com/521xueweihan/GitHub520,:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）GitHub520,1,118,3497,0,8,0,1,118,118
+gitpitch,https://github.com/gitpitch/gitpitch,"Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.gitpitch",26,253,151,4,7,4,1,22,22
+gitsome,https://github.com/donnemartin/gitsome,A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-toolsgitsome,360,50344,786,45,29,18,326,46252,141.8773006
+gixy,https://github.com/yandex/gixy,Nginx configuration static analyzergixy,55,4778,110,9,18,1,48,4741,98.77083333
+glance,https://github.com/samuelmeuli/glance,OpenStack Image Management (Glance). Mirror of code maintained at opendev.org.glance,219,47347,2005,382,67,10,102,10595,103.872549
+glances,https://github.com/nicolargo/glances,"Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.glances",234,48964,2387,494,108,15,109,12348,113.2844037
+gluon-cv,https://github.com/dmlc/gluon-cv,gluon-cv,698,133379,739,699,116,112,591,75850,128.3417936
+gmvault,https://github.com/gaubert/gmvault,gmvault,65,9727,959,6,19,3,51,9130,179.0196078
+Gooey,https://github.com/chriskiehl/Gooey,Turn (almost) any Python command line program into a full GUI application with one lineGooey,141,9348,505,69,94,15,115,5811,50.53043478
+google-api-python-client,https://github.com/googleapis/google-api-python-client,🐍 The official Python client library for Google's discovery based APIs.google-api-python-client,4136,2728799,803,417,160,102,86,9526,110.7674419
+google-cloud-python,https://github.com/googleapis/google-cloud-python,Google Cloud Client Library for Pythongoogle-cloud-python,4,173,255,145,54,42,1,112,112
+google-maps-services-python,https://github.com/googlemaps/google-maps-services-python,Python client library for Google Maps API Web Servicesgoogle-maps-services-python,34,2960,293,82,53,26,28,2853,101.8928571
+googler,https://github.com/jarun/googler,:mag: Google from the terminalgoogler,2,2313,705,48,29,9,2,2313,1156.5
+gpodder,https://github.com/gpodder/gpodder,The gPodder podcast client.gpodder,115,17245,2063,94,128,14,102,16561,162.3627451
+gpt-neo,https://github.com/EleutherAI/gpt-neo,An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.gpt-neo,19,2443,581,8,27,4,19,2443,128.5789474
+gradio,https://github.com/gradio-app/gradio,Create UIs for your machine learning model in Python in 3 minutesgradio,107,31195,1554,16,26,5,71,5301,74.66197183
+gramps,https://github.com/gramps-project/gramps,Source code for Gramps Genealogical programgramps,1161,203943,11390,655,172,51,1115,191348,171.6125561
+graphene,https://github.com/graphql-python/graphene,GraphQL framework for Pythongraphene,132,8008,865,155,138,66,121,7647,63.19834711
+graphene-django,https://github.com/graphql-python/graphene-django,graphene-django,128,9215,624,220,178,97,115,8697,75.62608696
+great_expectations,https://github.com/great-expectations/great_expectations,great_expectations,954,254213,4255,1102,200,162,741,180365,243.4075574
+guake,https://github.com/Guake/guake,Drop-down terminal for GNOMEguake,240,10150,1024,119,192,29,36,7320,203.3333333
+gunicorn,https://github.com/benoitc/gunicorn,"gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.gunicorn",163,10766,1819,354,299,88,139,9535,68.5971223
+gym,https://github.com/openai/gym,A toolkit for developing and comparing reinforcement learning algorithms.gym,192,15625,821,467,232,209,154,13315,86.46103896
+h4cker,https://github.com/The-Art-of-Hacking/h4cker,h4cker,72,23922,2217,1,11,1,19,1015,53.42105263
+hackingtool,https://github.com/Z4nzu/hackingtool,ALL IN ONE Hacking Tool For Hackershackingtool,31,1906,141,0,10,0,31,1906,61.48387097
+haipproxy,https://github.com/SpiderClub/haipproxy,":sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redishaipproxy",52,2670,108,2,8,2,49,2638,53.83673469
+HanLP,https://github.com/hankcs/HanLP,中文分词 词性标�?命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似�?新词发现 关键词短语提�?自动摘要 文本分类聚类 拼音简繁转�?自然语言处理HanLP,436,34401,419,0,6,0,418,33134,79.26794258
+Hasklig,https://github.com/i-tu/Hasklig,Hasklig,8,957,265,3,44,3,1,140,140
+haxor-news,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).haxor-news,52,3107,441,97,11,8,43,3047,70.86046512
+healthchecks,https://github.com/healthchecks/healthchecks,A cron monitoring tool written in Python & Djangohealthchecks,694,47087,1660,205,63,5,343,18426,53.72011662
+home-assistant,https://github.com/home-assistant/home-assistant,home-assistant,3802,333067,11374,8053,1244,1145,2537,296498,116.8695309
+horizon,https://github.com/openstack/horizon,OpenStack Dashboard (Horizon). Mirror of code maintained at opendev.org.horizon,2399,162428,5749,2179,709,455,847,93239,110.081464
+horovod,https://github.com/horovod/horovod,"Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.horovod",361,60058,805,800,117,116,223,35845,160.7399103
+httpbin,https://github.com/postmanlabs/httpbin,"HTTP Request & Response Service, written in Python + Flask.httpbin",8,1762,542,46,103,23,8,1762,220.25
+httpie,https://github.com/httpie/httpie,httpie,123,8914,755,214,66,34,76,7590,99.86842105
+http-prompt,https://github.com/httpie/http-prompt,"An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpiehttp-prompt",39,4493,288,37,28,14,33,4396,133.2121212
+httpx,https://github.com/encode/httpx,httpx,74,10976,811,653,129,124,56,10757,192.0892857
+huey,https://github.com/coleifer/huey,a little task queue for pythonhuey,59,7536,656,99,57,7,48,5603,116.7291667
+hug,https://github.com/hugapi/hug,"Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.hug",145,9351,1723,47,115,20,129,8919,69.13953488
+hy,https://github.com/hylang/hy,A dialect of Lisp that's embedded in Pythonhy,43,6287,1915,195,147,44,35,5584,159.5428571
+hydra,https://github.com/facebookresearch/hydra,Hydra is a framework for elegantly configuring complex applicationshydra,624,31671,1296,429,75,52,272,28338,104.1838235
+hyperopt,https://github.com/hyperopt/hyperopt,Distributed Asynchronous Hyperparameter Optimization in Pythonhyperopt,70,11082,791,81,93,58,52,10970,210.9615385
+hypothesis,https://github.com/HypothesisWorks/hypothesis,"Hypothesis is a powerful, flexible, and easy to use library for property-based testing.hypothesis",427,45151,4004,104,189,44,374,41650,111.3636364
+icecream,https://github.com/gruns/icecream,🍦 Never use print() to debug again.icecream,9,791,185,0,19,0,9,791,87.88888889
+igbot,https://github.com/ohld/igbot,igbot,119,12176,1597,22,134,10,111,12043,108.4954955
+ignite,https://github.com/pytorch/ignite,High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.ignite,294,41716,1026,931,145,145,256,39484,154.234375
+imagededup,https://github.com/idealo/imagededup,😎 Finding duplicate images made easy!imagededup,41,4895,277,19,11,7,33,3425,103.7878788
+imbalanced-learn,https://github.com/scikit-learn-contrib/imbalanced-learn, A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learningimbalanced-learn,148,14367,416,236,45,43,120,13023,108.525
+imgaug,https://github.com/aleju/imgaug,Image augmentation for machine learning experiments.imgaug,158,93852,2265,104,34,5,147,93387,635.2857143
+impacket,https://github.com/SecureAuthCorp/impacket,Impacket is a collection of Python classes for working with network protocols.impacket,273,119813,2615,54,160,21,265,119501,450.9471698
+imutils,https://github.com/jrosebr1/imutils,"A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.imutils",44,1178,100,1,19,1,44,1178,26.77272727
+InfoSpider,https://github.com/kangvcar/InfoSpider,InfoSpider,32,5566,169,1,14,1,25,2985,119.4
+infrastructure-puppet,https://github.com/apache/infrastructure-puppet,infrastructure-puppet,1264,94126,7161,10,81,7,109,13938,127.8715596
+insightface,https://github.com/deepinsight/insightface,insightface,649,109063,702,1,24,1,602,79587,132.2043189
+instagram-scraper,https://github.com/arc298/instagram-scraper,Scrapes an instagram user's photos and videosinstagram-scraper,15,1863,261,89,56,29,5,1269,253.8
+instaloader,https://github.com/instaloader/instaloader,Download pictures (or videos) along with their captions and other metadata from Instagram.instaloader,34,4458,686,193,34,29,21,3965,188.8095238
+InstaPy,https://github.com/timgrossmann/InstaPy,📷 Instagram Bot - Tool for automated Instagram interactionsInstaPy,54,13671,2054,183,291,82,38,13259,348.9210526
+inter,https://github.com/rsms/inter,The Inter font familyinter,156,345421,776,99,12,10,58,7627,131.5
+intermediatePython,https://github.com/yasoob/intermediatePython,intermediatePython,1,49,255,52,94,32,1,49,49
+invoke,https://github.com/pyinvoke/invoke,Pythonic task management & command execution.invoke,157,21031,2713,284,47,7,141,20215,143.3687943
+ipython,https://github.com/ipython/ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.ipython",358,37728,6672,406,494,101,342,35617,104.1432749
+isort,https://github.com/PyCQA/isort,A Python utility / library to sort imports.isort,113,16091,1817,293,174,31,95,15825,166.5789474
+jasper-client,https://github.com/jasperproject/jasper-client,Client code for Jasper voice computing platformjasper-client,36,3237,273,15,18,1,36,3237,89.91666667
+jax,https://github.com/google/jax,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and morejax",346,102087,5566,1498,326,150,299,96388,322.367893
+jd-assistant,https://github.com/tychxn/jd-assistant,京东抢购助手：包含登录，查询商品库存/价格，添�?清空购物车，抢购商品(下单)，查询订单等功能jd-assistant,11,1339,135,1,4,1,9,1311,145.6666667
+jedi-vim,https://github.com/davidhalter/jedi-vim,jedi-vim,3,1004,486,101,81,25,3,1004,334.6666667
+jieba,https://github.com/fxsjy/jieba,jieba,66,918626,381,23,50,12,59,194918,3303.694915
+jrnl,https://github.com/jrnl-org/jrnl,Collect your thoughts and notes without leaving the command line.jrnl,115,5909,831,227,67,37,53,3860,72.83018868
+jsonschema,https://github.com/Julian/jsonschema,An implementation of the JSON Schema specification for Pythonjsonschema,215,39328,1270,94,88,9,28,6262,223.6428571
+jumpgate,https://github.com/softlayer/jumpgate,A simple library to make more clouds compatible with OpenStack.jumpgate,106,7265,200,6,21,3,101,7191,71.1980198
+jumpserver,https://github.com/jumpserver/jumpserver,JumpServer 是全球首款开源的堡垒机，是符�?4A 的专业运维安全审计系统。jumpserver,1118,129287,2909,436,83,36,869,41944,48.26697353
+jupyter,https://github.com/jupyter/jupyter,"Jupyter metapackage for installation, docs and chatjupyter",11,613,288,10,46,7,3,114,38
+jupytext,https://github.com/mwouts/jupytext,"Jupyter Notebooks as Markdown Documents, Julia, Python or R scriptsjupytext",288,19030,1771,516,62,18,223,15744,70.60089686
+kafka-python,https://github.com/dpkp/kafka-python,Python client for Apache Kafkakafka-python,143,21460,1445,412,182,113,136,20943,153.9926471
+kaggle-api,https://github.com/Kaggle/kaggle-api,kaggle-api,26,7518,133,3,35,3,24,6287,261.9583333
+KaraKara,https://github.com/calaldees/KaraKara,Karaoke Event System - Attendees can view and queue tracks from their mobile phonesKaraKara,138,18100,1174,1,5,1,95,6467,68.07368421
+keras,https://github.com/keras-team/keras,Deep Learning for humanskeras,211,44305,3567,1560,754,634,180,41154,228.6333333
+Keras-GAN,https://github.com/eriklindernoren/Keras-GAN,Keras implementations of Generative Adversarial Networks.Keras-GAN,29,3004,141,2,17,1,27,2982,110.4444444
+keras-retinanet,https://github.com/fizyr/keras-retinanet,Keras implementation of RetinaNet object detection.keras-retinanet,58,4706,778,26,100,16,54,4606,85.2962963
+keras-rl,https://github.com/keras-rl/keras-rl,Deep Reinforcement Learning for Keras.keras-rl,46,3930,236,50,39,24,43,3842,89.34883721
+kibble,https://github.com/apache/kibble,kibble,173,39604,569,3,4,1,70,8091,115.5857143
+kinto,https://github.com/Kinto/kinto,kinto,218,69791,4352,611,123,39,168,24162,143.8214286
+kitty,https://github.com/kovidgoyal/kitty,kitty,360,185697,6720,970,162,21,191,43359,227.0104712
+kivy,https://github.com/kivy/kivy,"Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOSkivy",567,105522,8128,870,551,157,454,76057,167.5264317
+knowledge-repo,https://github.com/airbnb/knowledge-repo,A next-generation curated knowledge sharing platform for data scientists and other technical professions.knowledge-repo,178,16023,385,116,64,40,103,7440,72.23300971
+koalas,https://github.com/databricks/koalas,Koalas: pandas API on Apache Sparkkoalas,109,38487,1402,1321,60,58,98,37938,387.122449
+kornia,https://github.com/kornia/kornia,Open Source Differentiable Computer Vision Librarykornia,323,43611,1019,475,124,100,287,42701,148.7839721
+kube-hunter,https://github.com/aquasecurity/kube-hunter,Hunt for security weaknesses in Kubernetes clusterskube-hunter,76,5642,235,113,59,42,66,5252,79.57575758
+labelImg,https://github.com/tzutalin/labelImg,🖍�?LabelImg is a graphical image annotation tool and label object bounding boxes in imageslabelImg,35,3420,298,30,92,21,26,3231,124.2692308
+labelme,https://github.com/wkentaro/labelme,"Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).labelme",73,10471,747,11,49,7,42,5021,119.547619
+label-studio,https://github.com/heartexlabs/label-studio,Label Studio is a multi-type data labeling and annotation tool with standardized output formatlabel-studio,610,187923,745,566,53,45,218,20879,95.77522936
+Lasagne,https://github.com/Lasagne/Lasagne,Lightweight library to build and train neural networks in TheanoLasagne,60,11926,741,25,72,11,57,11755,206.2280702
+LaZagne,https://github.com/AlessandroZ/LaZagne,LaZagne,175,20239,500,28,38,6,174,20277,116.5344828
+lbry-sdk,https://github.com/lbryio/lbry-sdk,lbry-sdk,282,70647,2374,51,82,22,266,65208,245.1428571
+legit,https://github.com/frostming/legit,"Git for Humans, Inspired by GitHub for Mac�?legit",10,880,383,24,55,11,10,880,88
+lektor,https://github.com/lektor/lektor,The lektor static file content management systemlektor,171,31630,728,89,88,33,79,12875,162.9746835
+libcloud,https://github.com/apache/libcloud,Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use APIlibcloud,2473,321526,4838,972,350,249,608,125215,205.9457237
+librosa,https://github.com/librosa/librosa,Python library for audio and music analysislibrosa,82,16393,2154,289,82,33,71,15674,220.7605634
+lightfm,https://github.com/lyst/lightfm,"A Python implementation of LightFM, a hybrid recommendation algorithm.lightfm",31,38387,241,5,43,5,22,3442,156.4545455
+Lihang,https://github.com/SmirkCao/Lihang,Lihang,37,3079,402,9,3,3,35,2940,84
+linkchecker,https://github.com/linkchecker/linkchecker,check links in web documents or full websiteslinkchecker,336,33786,3809,3,3,1,281,28566,101.658363
+linux-insides,https://github.com/0xAX/linux-insides,A little bit about a linux kernellinux-insides,2,78,799,9,224,9,1,58,58
+livestreamer,https://github.com/chrippa/livestreamer,"Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.livestreamer",172,19781,1060,120,84,10,157,14750,93.94904459
+localstack,https://github.com/localstack/localstack,💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!localstack,352,55809,2177,1470,370,333,260,50622,194.7
+locust,https://github.com/locustio/locust,Scalable user load testing tool written in Pythonlocust,125,17833,2299,175,200,44,89,15391,172.9325843
+loguru,https://github.com/Delgan/loguru,Python logging made (stupidly) simpleloguru,150,10827,535,113,30,26,141,10588,75.09219858
+luigi,https://github.com/spotify/luigi,luigi,291,42816,2303,644,473,272,247,36700,148.582996
+lutris,https://github.com/lutris/lutris,lutris,245,28948,5219,593,230,40,218,25944,119.0091743
+MachineLearning_Python,https://github.com/lawlite19/MachineLearning_Python,机器学习算法python实现MachineLearning_Python,14,965,108,0,4,0,13,955,73.46153846
+machine-learning-course,https://github.com/instillai/machine-learning-course,:speech_balloon: Machine Learning Course with Python: machine-learning-course,82,16738,229,6,12,4,37,1383,37.37837838
+mackup,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux)mackup,20,1178,1366,377,368,192,12,1074,89.5
+macOS-Security-and-Privacy-Guide,https://github.com/drduh/macOS-Security-and-Privacy-Guide,Guide to securing and improving privacy on macOSmacOS-Security-and-Privacy-Guide,3,71,395,88,85,6,1,69,69
+magenta,https://github.com/magenta/magenta,Magenta: Music and Art Generation with Machine Intelligencemagenta,318,44882,936,592,134,86,307,44402,144.6319218
+magic-wormhole,https://github.com/magic-wormhole/magic-wormhole,"get things from one computer to another, safelymagic-wormhole",97,18041,808,65,50,9,86,16900,196.5116279
+mailinabox,https://github.com/mail-in-a-box/mailinabox,"Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.mailinabox",78,12193,1427,425,190,115,23,4635,201.5217391
+Mailpile,https://github.com/mailpile/Mailpile,"A free & open modern, fast email client with user-friendly encryption and privacy featuresMailpile",509,89227,3318,401,155,34,178,44681,251.0168539
+maltrail,https://github.com/stamparm/maltrail,maltrail,101,33634,45346,340,31,4,90,5463,60.7
+manim,https://github.com/3b1b/manim,manim,97,15721,1400,45,123,31,92,15816,171.9130435
+Mask_RCNN,https://github.com/matterport/Mask_RCNN,Mask R-CNN for object detection and instance segmentation on Keras and TensorFlowMask_RCNN,11,3274,112,11,34,8,11,3274,297.6363636
+maskrcnn-benchmark,https://github.com/facebookresearch/maskrcnn-benchmark,"Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.maskrcnn-benchmark",220,16700,203,172,87,74,135,11046,81.82222222
+material-theme,https://github.com/equinusocio/material-theme,"Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorinomaterial-theme",92,17345,840,133,68,8,9,618,68.66666667
+matplotlib,https://github.com/matplotlib/matplotlib,matplotlib: plotting with Pythonmatplotlib,1167,199185,15850,2098,732,191,855,121009,141.5309942
+maya,https://github.com/timofurrer/maya,Datetimes for Humans™maya,8,1462,165,16,39,8,8,1462,182.75
+MechanicalSoup,https://github.com/MechanicalSoup/MechanicalSoup,A Python library for automating interaction with websites.MechanicalSoup,26,2361,428,78,50,19,20,1956,97.8
+meshroom,https://github.com/alicevision/meshroom,meshroom,223,29756,1843,11,45,10,105,15874,151.1809524
+mesh-transformer-jax,https://github.com/kingoflolz/mesh-transformer-jax,mesh-transformer-jax,37,3734,128,36,21,20,26,3546,136.3846154
+metaflow,https://github.com/Netflix/metaflow,:rocket: Build and manage real-life data science projects with ease!metaflow,185,19996,302,235,44,37,176,20715,117.6988636
+microk8s,https://github.com/ubuntu/microk8s,"MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.microk8s",290,81635,663,583,114,110,45,6623,147.1777778
+microservices-demo,https://github.com/GoogleCloudPlatform/microservices-demo,"Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.microservices-demo",106,20647,478,221,83,71,10,4223,422.3
+mimesis,https://github.com/lk-geimfari/mimesis,"Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.mimesis",316,396546,760,310,78,73,96,32933,343.0520833
+mindsdb,https://github.com/mindsdb/mindsdb,Predictive AI layer for existing databases.mindsdb,187,16045,2081,129,52,16,179,15055,84.10614525
+mininet,https://github.com/mininet/mininet,mininet,105,13887,1684,143,76,14,92,11437,124.3152174
+MITMf,https://github.com/byt3bl33d3r/MITMf,Framework for Man-In-The-Middle attacksMITMf,80,11917,260,17,21,2,72,8249,114.5694444
+mitmproxy,https://github.com/mitmproxy/mitmproxy,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.mitmproxy,661,83736,2635,257,123,43,449,42369,94.36302895
+mkdocs,https://github.com/mkdocs/mkdocs,Project documentation with Markdown.mkdocs,123,20506,903,356,175,90,49,9225,188.2653061
+MLAlgorithms,https://github.com/rushter/MLAlgorithms,Minimal and clean examples of machine learning algorithms implementationsMLAlgorithms,70,3000,114,21,26,14,69,2976,43.13043478
+mlcourse.ai,https://github.com/Yorko/mlcourse.ai,Open Machine Learning Coursemlcourse.ai,16,502,2318,5,158,2,9,416,46.22222222
+mlflow,https://github.com/mlflow/mlflow,Open source platform for the machine learning lifecyclemlflow,990,237092,1907,1879,301,299,476,80269,168.6323529
+ML-From-Scratch,https://github.com/eriklindernoren/ML-From-Scratch,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.ML-From-Scratch,81,4160,203,3,10,1,81,4160,51.35802469
+mlxtend,https://github.com/rasbt/mlxtend,A library of extension and helper modules for Python's data analysis and machine learning libraries.mlxtend,238,23706,855,202,82,50,212,16197,76.4009434
+mmdetection,https://github.com/open-mmlab/mmdetection,OpenMMLab Detection Toolbox and Benchmarkmmdetection,1106,83189,1278,1055,232,217,1024,74261,72.52050781
+MMdnn,https://github.com/microsoft/MMdnn,"MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.MMdnn",182,31116,671,106,86,45,159,28487,179.163522
+mmf,https://github.com/facebookresearch/mmf,mmf,635,48965,597,499,77,63,318,38138,119.9308176
+Mobile-Security-Framework-MobSF,https://github.com/MobSF/Mobile-Security-Framework-MobSF,Mobile-Security-Framework-MobSF,213,65360,612,186,38,27,84,13452,160.1428571
+models,https://github.com/tensorflow/models,Models and examples built with TensorFlowmodels,2108,310192,1394,352,305,113,1401,200420,143.0549607
+modin,https://github.com/modin-project/modin,Modin: Speed up your Pandas workflows by changing a single line of codemodin,301,58240,1125,1001,79,74,320,56649,177.028125
+mongoengine,https://github.com/MongoEngine/mongoengine,A Python Object-Document-Mapper for working with MongoDBmongoengine,91,25956,2126,657,336,94,83,25747,310.2048193
+mongo-python-driver,https://github.com/mongodb/mongo-python-driver,PyMongo - the Python driver for MongoDBmongo-python-driver,1142,224279,3784,306,164,54,172,43371,252.1569767
+monkey,https://github.com/guardicore/monkey,Infection Monkey - An automated pentest toolmonkey,1002,75025,3447,50,39,9,683,30664,44.89604685
+MonkeyType,https://github.com/Instagram/MonkeyType,A system for Python that generates static type annotations by collecting runtime typesMonkeyType,34,5407,265,59,39,28,31,5214,168.1935484
+monoid,https://github.com/larsenwork/monoid,"Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/monoid",10,244,316,11,16,2,2,140,70
+mopidy,https://github.com/mopidy/mopidy,Mopidy is an extensible music server written in Pythonmopidy,134,15884,3213,317,89,28,124,15577,125.6209677
+moto,https://github.com/spulec/moto,A library that allows you to easily mock out tests based on AWS infrastructure.moto,969,241190,4582,1316,815,390,880,223026,253.4386364
+moviepy,https://github.com/Zulko/moviepy,Video editing with Pythonmoviepy,124,11115,773,299,148,76,115,10494,91.25217391
+mps-youtube,https://github.com/mps-youtube/mps-youtube,mps-youtube,46,5430,1320,63,101,16,46,5430,118.0434783
+multi-v2ray,https://github.com/Jrohy/multi-v2ray,multi-v2ray,52,4318,379,9,1,1,26,2946,113.3076923
+musicbox,https://github.com/darknessomi/musicbox,网易云音乐命令行版本musicbox,19,3605,397,58,64,23,19,3605,189.7368421
+mvt,https://github.com/mvt-project/mvt,MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.mvt,78,4339,235,16,32,6,76,4394,57.81578947
+mwlib,https://github.com/pediapress/mwlib,mediawiki parser librarymwlib,168,79041,2714,77,32,9,150,17758,118.3866667
+mycli,https://github.com/dbcli/mycli,A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.mycli,58,6450,1071,43,91,23,57,6397,112.2280702
+mycroft-core,https://github.com/MycroftAI/mycroft-core,"Mycroft Core, the Mycroft Artificial Intelligence platform. mycroft-core",255,25869,2622,353,173,72,209,22295,106.6746411
+mypaint,https://github.com/mypaint/mypaint,MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.mypaint,201,49585,3583,342,186,22,136,40926,300.9264706
+mypy,https://github.com/python/mypy,Optional static typing for Pythonmypy,426,104971,5529,3728,471,436,358,79899,223.1815642
+nameko,https://github.com/nameko/nameko,Python framework for building microservicesnameko,117,13722,1740,62,53,25,113,13677,121.0353982
+nanodet,https://github.com/RangiLyu/nanodet,⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥nanodet,173,15372,248,19,17,3,107,9677,90.43925234
+neon,https://github.com/NervanaSystems/neon,Intel® Nervana�?reference deep learning framework committed to best performance on all hardwareneon,352,79852,791,148,96,42,246,37898,154.0569106
+netbox,https://github.com/netbox-community/netbox,netbox,666,78606,5637,2321,161,82,371,60101,161.9973046
+networkx,https://github.com/networkx/networkx,networkx,624,79216,3458,1026,308,154,539,59466,110.3265306
+neural-doodle,https://github.com/alexjc/neural-doodle,neural-doodle,1,410,111,17,4,2,1,410,410
+newspaper,https://github.com/codelucas/newspaper,"News, full-text, and article metadata extraction in Python 3. Advanced docs:newspaper",191,163379,493,68,100,44,26,3827,147.1923077
+nginx-book,https://github.com/taobao/nginx-book,Nginx开发从入门到精通nginx-book,21,1332,155,0,33,0,14,558,39.85714286
+nginx-proxy,https://github.com/nginx-proxy/nginx-proxy,Automated nginx proxy for Docker containers using docker-gennginx-proxy,96,2334,407,35,118,13,43,1074,24.97674419
+NLP-progress,https://github.com/sebastianruder/NLP-progress,"Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.NLP-progress",4,324,462,291,245,196,1,269,269
+nlp-recipes,https://github.com/microsoft/nlp-recipes,Natural Language Processing Best Practices & Examplesnlp-recipes,161,19162,1106,17,45,6,139,17418,125.3093525
+nltk,https://github.com/nltk/nltk,NLTK Sourcenltk,364,75840,5508,264,292,52,340,75809,222.9676471
+nmt,https://github.com/tensorflow/nmt,TensorFlow Neural Machine Translation Tutorialnmt,29,5162,198,29,26,17,23,4901,213.0869565
+nni,https://github.com/microsoft/nni,"An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.nni",1228,114320,1016,942,111,99,745,77304,103.7637584
+node-gyp,https://github.com/nodejs/node-gyp,Node.js native addon build toolnode-gyp,97,26247,906,111,176,39,49,21745,443.7755102
+nose,https://github.com/nose-devs/nose,nose is nicer testing for pythonnose,281,16684,800,76,93,24,271,16409,60.5498155
+nova,https://github.com/openstack/nova,OpenStack Compute (Nova). Mirror of code maintained at opendev.org.nova,3019,412723,18926,4367,1359,755,1374,375200,273.0713246
+ntfy,https://github.com/dschep/ntfy,"🖥️📱�?A utility for sending notifications, on demand and when commands finish.ntfy",47,2791,421,57,44,14,41,2154,52.53658537
+numba,https://github.com/numba/numba,numba,736,188044,10086,720,241,46,651,169286,260.0399386
+numpy,https://github.com/numpy/numpy,numpy,1019,333086,15596,2015,1206,537,516,141542,274.3062016
+numpy-ml,https://github.com/ddbourgin/numpy-ml,"Machine learning, in numpynumpy-ml",96,16249,131,13,12,8,92,16171,175.7717391
+objection,https://github.com/sensepost/objection,📱 objection - runtime mobile explorationobjection,178,16343,663,98,48,38,108,6665,61.71296296
+OCRmyPDF,https://github.com/jbarlow83/OCRmyPDF,"OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searchedOCRmyPDF",94,11117,1683,140,44,37,88,10764,122.3181818
+OctoPrint,https://github.com/OctoPrint/OctoPrint,OctoPrint is the snappy web interface for your 3D printer!OctoPrint,476,153473,5090,989,205,32,222,60057,270.527027
+ODM,https://github.com/OpenDroneMap/ODM,"A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷ODM",124,12184,1293,30,68,15,88,10680,121.3636364
+offlineimap,https://github.com/OfflineIMAP/offlineimap,offlineimap,67,10224,1494,63,136,17,59,9555,161.9491525
+OneForAll,https://github.com/shmilylty/OneForAll,OneForAll,106,8421,529,15,17,1,97,6375,65.72164948
+onionshare,https://github.com/micahflee/onionshare,onionshare,149,26951,598,14,32,7,60,11710,195.1666667
+openage,https://github.com/SFTtech/openage,Free (as in freedom) open source clone of the Age of Empires II engine :rocket:openage,1113,95431,1734,57,166,28,271,41556,153.3431734
+OpenMDAO-Framework,https://github.com/OpenMDAO/OpenMDAO-Framework,"A python based open-source (Apache 2.0) engineering analysis framework designed to facilitate the use of MDAO.  To add issues, visit our user forums at http://www.openmdao.org/forum .  NOTE: this version is no longer being developed.  The current active version can be found here: https://github.com/OpenMDAO/OpenMDAO.OpenMDAO-Framework",692,133415,6072,24,60,8,559,93157,166.6493739
+OpenNMT-py,https://github.com/OpenNMT/OpenNMT-py,Open Source Neural Machine Translation in PyTorchOpenNMT-py,137,16038,1154,357,132,66,111,14124,127.2432432
+openstack,https://github.com/openstack/openstack,openstack,1,39,180184,39291,2936,1371,1,39,39
+oppia,https://github.com/oppia/oppia,"A free, online learning platform to make quality education accessible for all.oppia",4033,729843,5948,3918,390,345,665,221565,333.1804511
+optuna,https://github.com/optuna/optuna,A hyperparameter optimization frameworkoptuna,285,35987,4803,41,148,19,262,35576,135.7862595
+osmnx,https://github.com/gboeing/osmnx,"OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.osmnx",45,5074,1541,20,51,5,28,3910,139.6428571
+P4wnP1,https://github.com/RoganDawes/P4wnP1,"P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.P4wnP1",47,4814,184,17,13,9,19,2890,152.1052632
+package_control,https://github.com/wbond/package_control,The Sublime Text package managerpackage_control,212,40138,947,18,37,9,202,39448,195.2871287
+Paddle,https://github.com/PaddlePaddle/Paddle,Paddle,5972,909084,15134,9072,554,442,2461,410988,167.0004063
+PaddleDetection,https://github.com/PaddlePaddle/PaddleDetection,PaddleDetection,894,103749,776,773,54,53,377,68569,181.8806366
+PaddleHub,https://github.com/PaddlePaddle/PaddleHub,"Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)PaddleHub",760,93745,828,157,40,20,725,92814,128.0193103
+PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR,"Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）PaddleOCR",329,55003,1703,65,66,13,200,36838,184.19
+pampy,https://github.com/santinic/pampy,Pampy: The Pattern Matching for Python you always dreamed of.pampy,10,990,104,1,9,1,10,990,99
+pandas,https://github.com/pandas-dev/pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much morepandas",972,288721,9616,5591,1293,1062,738,240155,325.4132791
+paperless,https://github.com/the-paperless-project/paperless,"Scan, index, and archive all of your paper documentspaperless",196,20259,923,83,105,18,96,5577,58.09375
+papermill,https://github.com/nteract/papermill,"📚 Parameterize, execute, and analyze notebookspapermill",47,5016,580,60,92,40,38,4859,127.8684211
+paramiko,https://github.com/paramiko/paramiko,The leading native Python SSHv2 protocol library.paramiko,90,17455,2302,383,149,29,84,17360,206.6666667
+ParlAI,https://github.com/facebookresearch/ParlAI,A framework for training and evaluating AI models on a variety of openly available dialogue datasets.ParlAI,1355,233824,2572,1835,155,146,828,90709,109.5519324
+PathPicker,https://github.com/facebook/PathPicker,"PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.PathPicker",42,3635,270,100,45,9,26,2770,106.5384615
+pdfminer,https://github.com/euske/pdfminer,Python PDF Parser (Not actively maintained). Check out pdfminer.six.pdfminer,45,12930,429,7,26,1,35,12103,345.8
+peewee,https://github.com/coleifer/peewee,"a small, expressive orm -- supports postgresql, mysql and sqlitepeewee",123,36925,3531,612,136,6,84,34633,412.297619
+pendulum,https://github.com/sdispater/pendulum,Python datetimes made easypendulum,162,17761,415,68,46,39,150,15671,104.4733333
+persepolis,https://github.com/persepolisdm/persepolis,Persepolis Download Manager is a GUI for aria2.persepolis,73,59017,702,60,42,1,57,36146,634.1403509
+pgcli,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlightingpgcli,61,9116,1495,166,145,67,55,8371,152.2
+Photon,https://github.com/s0md3v/Photon,Incredibly fast crawler designed for OSINT.Photon,17,808,256,26,21,5,17,808,47.52941176
+picard,https://github.com/metabrainz/picard,MusicBrainz Picard audio file taggerpicard,206,48185,4058,138,69,14,175,43202,246.8685714
+pidcat,https://github.com/JakeWharton/pidcat,Colored logcat script which only shows log entries for a specific application package.pidcat,1,286,102,8,39,5,1,286,286
+Pillow,https://github.com/python-pillow/Pillow,The friendly PIL fork (Python Imaging Library)Pillow,420,74007,6054,214,293,43,275,37083,134.8472727
+pip,https://github.com/pypa/pip,The Python package installerpip,446,81375,1946,279,228,104,420,80789,192.3547619
+pipenv,https://github.com/pypa/pipenv, Python Development Workflow for Humans.pipenv,778,176520,3177,256,221,41,705,155688,220.8340426
+pipreqs,https://github.com/bndr/pipreqs,pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.pipreqs,13,773,227,16,51,12,13,773,59.46153846
+pip-tools,https://github.com/jazzband/pip-tools,A set of tools to keep your pinned Python dependencies fresh.pip-tools,57,6671,892,200,131,64,44,6074,138.0454545
+pipx,https://github.com/pypa/pipx,Install and Run Python Applications in Isolated Environmentspipx,70,7226,383,274,57,47,62,6916,111.5483871
+pitivi,https://github.com/pitivi/pitivi,Read-only mirror of https://gitlab.gnome.org/GNOME/pitivipitivi,150,29111,4591,176,243,35,94,26054,277.1702128
+pitivi-pitivi,https://github.com/pitivi/pitivi,pitivi-pitivi,150,29112,4590,176,243,35,94,26055,277.1808511
+pkuseg-python,https://github.com/lancopku/pkuseg-python,pkuseg-python,16,2436,179,0,7,0,13,1509,116.0769231
+PlainTasks,https://github.com/aziz/PlainTasks,PlainTasks,10,2412,290,119,38,11,6,2178,363
+plasma,https://github.com/plasma-disassembler/plasma,plasma,169,16715,371,20,18,4,69,12540,181.7391304
+platformio-core,https://github.com/platformio/platformio-core,PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!platformio-core,192,24431,3811,813,39,31,171,23311,136.3216374
+playwright-python,https://github.com/microsoft/playwright-python,Python version of the Playwright testing and automation library.playwright-python,217,29753,358,324,19,18,142,28152,198.2535211
+poetry,https://github.com/python-poetry/poetry,Python dependency management and packaging made easy.poetry,293,43350,1376,390,193,141,234,31429,134.3119658
+PokemonGo-Bot,https://github.com/PokemonGoF/PokemonGo-Bot,"The Pokemon Go Bot, baking with community.PokemonGo-Bot",145,50475,2220,898,350,256,107,16374,153.0280374
+Pokemon-Terminal,https://github.com/LazoCoder/Pokemon-Terminal,Pokemon terminal themes.Pokemon-Terminal,38,1481,165,4,19,2,36,1442,40.05555556
+poky,https://git.yoctoproject.org/git/poky,Clone of git://git.yoctoproject.org/pokypoky,1177,241958,25927,4196,815,238,549,95709,174.3333333
+posthog,https://github.com/PostHog/posthog,posthog,1132,170911,3405,3077,99,85,640,63135,98.6484375
+powerline,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.powerline",263,28193,1752,415,129,57,170,23028,135.4588235
+powerline-shell,https://github.com/b-ryan/powerline-shell,A beautiful and useful prompt for your shellpowerline-shell,54,2117,244,40,33,5,52,2107,40.51923077
+practical-python,https://github.com/dabeaz-course/practical-python,Practical Python Programming (course by @dabeaz)practical-python,60,1807,174,0,24,0,58,1765,30.43103448
+prefect,https://github.com/PrefectHQ/prefect,The easiest way to automate your dataprefect,576,94363,7216,294,248,102,530,77601,146.4169811
+present,https://github.com/vinayak-mehta/present,A terminal-based presentation tool with colors and effects.present,33,1557,132,14,6,3,12,1087,90.58333333
+pretrained-models.pytorch,https://github.com/Cadene/pretrained-models.pytorch,"Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.pretrained-models.pytorch",37,7342,105,2,19,2,35,7283,208.0857143
+pritunl,https://github.com/pritunl/pritunl,Enterprise VPN serverpritunl,697,115745,9974,54,27,1,261,38022,145.6781609
+professional-programming,https://github.com/charlax/professional-programming,A collection of full-stack resources for programmers.professional-programming,5,92,254,0,22,0,3,50,16.66666667
+prophet,https://github.com/facebook/prophet,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.prophet,105,7803,452,127,92,65,25,4691,187.64
+proselint,https://github.com/amperser/proselint,A linter for prose.proselint,516,51454,606,91,59,30,226,7317,32.37610619
+proxy_pool,https://github.com/jhao104/proxy_pool,Python爬虫代理IP�?proxy pool)proxy_pool,36,1162,203,3,31,1,36,1162,32.27777778
+psutil,https://github.com/giampaolo/psutil,Cross-platform lib for process and system monitoring in Pythonpsutil,148,35223,4004,1000,162,117,73,18618,255.0410959
+ptf,https://github.com/trustedsec/ptf,The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.ptf,311,4197,959,9,127,7,306,3982,13.0130719
+ptpython,https://github.com/prompt-toolkit/ptpython,A better Python REPLptpython,31,4100,447,13,48,12,30,4065,135.5
+public-apis,https://github.com/public-apis/public-apis,A collective list of free APIspublic-apis,2,194,2045,460,1102,296,2,194,97
+pwndbg,https://github.com/pwndbg/pwndbg,pwndbg,183,25305,898,409,124,101,161,24450,151.863354
+pwntools,https://github.com/Gallopsled/pwntools,pwntools,1032,130353,2673,568,170,134,196,46253,235.9846939
+py12306,https://github.com/pjialin/py12306,🚂 12306 购票助手，支持集群，多账号，多任务购票以�?Web 页面管理 py12306,47,3529,165,24,22,1,35,3488,99.65714286
+pyalgotrade,https://github.com/gbeced/pyalgotrade,Python Algorithmic Trading Librarypyalgotrade,191,24159,902,0,11,0,180,17370,96.5
+pyAudioAnalysis,https://github.com/tyiannak/pyAudioAnalysis,"Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and ApplicationspyAudioAnalysis",43,3807,348,6,22,2,16,3353,209.5625
+pyautogui,https://github.com/asweigart/pyautogui,A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.pyautogui,8,2613,276,9,49,7,8,2613,326.625
+PyBoy,https://github.com/Baekalfen/PyBoy,Game Boy emulator written in PythonPyBoy,94,22518,186,54,16,15,69,13899,201.4347826
+PyChecker,https://github.com/akaihola/PyChecker,"PyChecker is a static analysis tool for finding bugs in Python source code. It finds problems that are typically caught by a compiler for less dynamic languages, like C and C++. It is similar to lint. This is my mirror of https://github.com/thomasvs/pycheckerPyChecker",199,10209,1281,80,7,5,190,9825,51.71052632
+pydantic,https://github.com/samuelcolvin/pydantic,Data parsing and validation using Python type hintspydantic,237,28517,913,752,219,218,222,27773,125.1036036
+pydub,https://github.com/jiaaro/pydub,Manipulate audio with a simple and easy high level interfacepydub,13,3219,552,32,90,18,13,3219,247.6153846
+pyecharts,https://github.com/pyecharts/pyecharts,pyecharts,129,25036,668,195,23,17,109,8871,81.3853211
+PyGithub,https://github.com/PyGithub/PyGithub,Typed interactions with the GitHub API v3PyGithub,235,26368,1138,542,273,195,226,26211,115.9778761
+pygments-main,https://github.com/yujinakayama/pygments-main,A copy of Pygments for lexer developmentpygments-main,409,110087,3480,484,399,38,262,71183,271.6908397
+pygorithm,https://github.com/OmkarPathak/pygorithm,A Python module for learning all major algorithmspygorithm,122,7005,318,13,31,10,121,6995,57.80991736
+pyinstaller,https://github.com/pyinstaller/pyinstaller,Freeze (package) Python programs into stand-alone executablespyinstaller,617,34278,3849,1063,279,123,538,22555,41.92379182
+pyinstrument,https://github.com/joerick/pyinstrument,🚴 Call stack profiler for Python. Shows you why your code is slow!pyinstrument,72,36044,446,17,30,3,54,3675,68.05555556
+pyjwt,https://github.com/jpadilla/pyjwt,JSON Web Token implementation in Pythonpyjwt,42,3749,423,177,92,62,21,3348,159.4285714
+pylint,https://github.com/PyCQA/pylint,It's not just a linter that annoys you!pylint,675,37791,2451,838,239,156,597,36852,61.72864322
+pymc3,https://github.com/pymc-devs/pymc,pymc3,178,37642,1443,457,147,97,139,35590,256.0431655
+PyMySQL,https://github.com/PyMySQL/PyMySQL,Pure Python MySQL ClientPyMySQL,53,6806,707,172,107,56,41,6263,152.7560976
+pyod,https://github.com/yzhao062/pyod,pyod,128,9798,1049,31,26,1,119,9472,79.59663866
+PyPDF2,https://github.com/mstamy2/PyPDF2,PyPDF2,17,4016,275,14,79,6,17,4016,236.2352941
+pyppeteer,https://github.com/miyakogi/pyppeteer,Headless chrome/chromium automation library (unofficial port of puppeteer)pyppeteer,127,11875,648,4,25,2,54,10628,196.8148148
+pyprobml,https://github.com/probml/pyprobml,"Python code for ""Machine learning: a probabilistic perspective"" (2nd edition)pyprobml",548,39616,603,167,37,19,531,39201,73.82485876
+pyramid,https://github.com/Pylons/pyramid,Pyramid - A Python web frameworkpyramid,328,43034,5403,176,256,29,314,42700,135.9872611
+pyro,https://github.com/pyro-ppl/pyro,Deep universal probabilistic programming with Python and PyTorchpyro,586,83903,1872,1642,114,110,571,83117,145.5639229
+pysc2,https://github.com/deepmind/pysc2,StarCraft II Learning Environmentpysc2,103,14967,511,0,34,0,103,14967,145.3106796
+pysheeet,https://github.com/crazyguitar/pysheeet,Python Cheat Sheetpysheeet,16,668,771,3,41,1,3,284,94.66666667
+PySimpleGUI,https://github.com/PySimpleGUI/PySimpleGUI,"Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.PySimpleGUI",497,72448,2644,1,14,1,443,62643,141.4063205
+PySnooper,https://github.com/cool-RR/PySnooper,Never use print for debugging againPySnooper,23,4422,287,20,27,7,23,4422,192.2608696
+pyspider,https://github.com/binux/pyspider,pyspider,133,16048,675,62,55,8,99,12817,129.4646465
+pyTelegramBotAPI,https://github.com/eternnoir/pyTelegramBotAPI,Python Telegram bot api.pyTelegramBotAPI,41,7505,1047,46,182,14,39,7470,191.5384615
+pytesseract,https://github.com/madmaze/pytesseract,A Python wrapper for Google Tesseractpytesseract,4,819,195,36,23,13,4,819,204.75
+pytest,https://github.com/pytest-dev/pytest,"The pytest framework makes it easy to write small tests, yet scales to support complex functional testingpytest",176,32580,3336,512,364,112,162,32144,198.4197531
+pytext,https://github.com/facebookresearch/pytext,A natural language modeling framework based on PyTorchpytext,472,60212,1531,1149,205,135,380,53030,139.5526316
+Python,https://github.com/TheAlgorithms/Python,All Algorithms implemented in PythonPython,786,32048,1249,1059,581,492,778,31139,40.02442159
+python-binance,https://github.com/sammchardy/python-binance,Binance Exchange API python implementation for automated tradingpython-binance,14,3519,673,8,116,6,14,3519,251.3571429
+python-cheatsheet,https://github.com/gto76/python-cheatsheet,Comprehensive Python Cheatsheetpython-cheatsheet,32,11352,2030,1,13,1,5,203,40.6
+python-docs-samples,https://github.com/GoogleCloudPlatform/python-docs-samples,python-docs-samples,1207,54467,2884,2707,285,272,947,46950,49.57761352
+python-dotenv,https://github.com/theskumar/python-dotenv,python-dotenv,15,1328,216,37,46,19,15,1328,88.53333333
+pythondotorg,https://github.com/python/pythondotorg,Source code for python.orgpythondotorg,436,39856,1287,254,75,48,276,11441,41.45289855
+python-for-android,https://github.com/kivy/python-for-android,Turn your Python application into an Android APKpython-for-android,349,23239,1668,209,184,53,250,15335,61.34
+python-mini-projects,https://github.com/Python-World/python-mini-projects,A collection of simple python mini projects to enhance your python skillspython-mini-projects,136,45357,351,9,83,7,120,4443,37.025
+python-patterns,https://github.com/faif/python-patterns,A collection of design patterns/idioms in Pythonpython-patterns,65,2591,133,10,39,3,62,2548,41.09677419
+python-phonenumbers,https://github.com/daviddrysdale/python-phonenumbers,Python port of Google's libphonenumberpython-phonenumbers,671,377745,1212,47,22,11,658,331956,504.4924012
+python-pinyin,https://github.com/mozillazg/python-pinyin,汉字转拼�?pypinyin)python-pinyin,60,88918,512,53,18,7,52,88301,1698.096154
+python-prompt-toolkit,https://github.com/prompt-toolkit/python-prompt-toolkit,Library for building powerful interactive command line applications in Pythonpython-prompt-toolkit,285,30656,1967,38,162,28,278,30193,108.6079137
+python-slack-sdk,https://github.com/slackapi/python-slack-sdk,Slack Developer Kit for Pythonpython-slack-sdk,595,187733,720,263,99,52,384,46867,122.0494792
+python-small-examples,https://github.com/jackzhenguo/python-small-examples,告别枯燥，致力于打�?Python 实用小例子，更多Python良心教程�?Python中文�?http://www.zglg.workpython-small-examples,2,37,116,1,3,1,2,37,18.5
+python-spider,https://github.com/Jack-Cherish/python-spider,python-spider,50,4154,256,0,9,0,47,3705,78.82978723
+python-telegram-bot,https://github.com/python-telegram-bot/python-telegram-bot,python-telegram-bot,316,49711,1602,652,163,131,298,45664,153.2348993
+python-twitter,https://github.com/bear/python-twitter,A Python wrapper around the Twitter API.python-twitter,202,12935,553,40,128,10,37,6664,180.1081081
+pytorch,https://github.com/pytorch/pytorch,pytorch,4340,644999,11121,5787,1004,689,894,169366,189.4474273
+pytorch_geometric,https://github.com/rusty1s/pytorch_geometric,Graph Neural Network Library for PyTorchpytorch_geometric,704,41203,3528,103,194,41,681,40245,59.0969163
+pytorch3d,https://github.com/facebookresearch/pytorch3d,pytorch3d,424,62151,569,73,72,45,253,42605,168.3992095
+pytorch-cnn-visualizations,https://github.com/utkuozbulak/pytorch-cnn-visualizations,Pytorch implementation of convolutional neural network visualization techniquespytorch-cnn-visualizations,16,850,143,0,6,0,16,850,53.125
+pytorch-CycleGAN-and-pix2pix,https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix,Image-to-Image Translation in PyTorchpytorch-CycleGAN-and-pix2pix,52,2162,390,2,68,2,36,2020,56.11111111
+PyTorch-GAN,https://github.com/eriklindernoren/PyTorch-GAN,PyTorch implementations of Generative Adversarial Networks.PyTorch-GAN,61,6555,152,4,11,2,59,6530,110.6779661
+pytorch-image-models,https://github.com/rwightman/pytorch-image-models,"PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and morepytorch-image-models",197,29381,828,39,53,3,189,29257,154.7989418
+pytorch-lightning,https://github.com/PyTorchLightning/pytorch-lightning,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.pytorch-lightning",445,56552,3809,3092,431,420,406,54621,134.5344828
+pytorch-metric-learning,https://github.com/KevinMusgrave/pytorch-metric-learning,"The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.pytorch-metric-learning",171,12001,599,13,21,4,157,11572,73.70700637
+PyTorch-YOLOv3,https://github.com/eriklindernoren/PyTorch-YOLOv3,Minimal PyTorch implementation of YOLOv3PyTorch-YOLOv3,16,1902,176,1,11,1,11,1184,107.6363636
+pytorch-YOLOv4,https://github.com/Tianxiaomo/pytorch-YOLOv4,pytorch-YOLOv4,39,6413,148,0,17,0,29,4757,164.0344828
+PyTricks,https://github.com/brennerm/PyTricks,Collection of less popular features and tricks for the Python programming languagePyTricks,51,473,124,9,53,7,51,473,9.274509804
+pytube,https://github.com/pytube/pytube,"A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.pytube",46,5153,878,97,69,26,39,4968,127.3846154
+pytype,https://github.com/google/pytype,A static type analyzer for Python codepytype,472,64111,3384,79,70,39,421,56083,133.2137767
+pywal,https://github.com/dylanaraps/pywal,🎨 Generate and change color-schemes on the fly.pywal,304,2031,745,33,61,6,26,1344,51.69230769
+pyWhat,https://github.com/bee-san/pyWhat,"🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️pyWhat",27,50491,338,19,36,12,18,1735,96.38888889
+pywikibot,https://github.com/wikimedia/pywikibot,A Python library that interfaces with the MediaWiki API. This is a mirror from gerrit.wikimedia.org. Do not submit any patches here. See https://www.mediawiki.org/wiki/Developer_account for contributing.pywikibot,311,78470,6543,109,230,14,290,77201,266.2103448
+pywonderland,https://github.com/neozhaoliang/pywonderland,A tour in the wonderland of math with python.pywonderland,53,4200,169,0,6,0,45,4121,91.57777778
+qqbot,https://github.com/pandolia/qqbot,QQBot: A conversation robot base on Tencent's SmartQQqqbot,41,4193,340,9,22,9,41,4193,102.2682927
+QUANTAXIS,https://github.com/QUANTAXIS/QUANTAXIS,QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视�?多账�?纯本地量化解决方案QUANTAXIS,234,44721,3204,163,73,2,164,41316,251.9268293
+qutebrowser,https://github.com/qutebrowser/qutebrowser,"A keyboard-driven, vim-like browser based on PyQt5.qutebrowser",638,110205,16412,1751,383,101,428,72371,169.0911215
+rainbowstream,https://github.com/orakaro/rainbowstream,A smart and nice Twitter client on terminal written in Python.rainbowstream,21,5048,547,10,45,6,12,4251,354.25
+ranger,https://github.com/ranger/ranger,A VIM-inspired filemanager for the consoleranger,107,13006,2632,213,157,36,100,12701,127.01
+rasa,https://github.com/RasaHQ/rasa,"💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistantsrasa",854,122505,9645,419,294,96,445,98522,221.3977528
+ray,https://github.com/ray-project/ray,"An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.ray",3276,398142,7401,7300,498,496,1671,234150,140.1256732
+Real-Time-Voice-Cloning,https://github.com/CorentinJ/Real-Time-Voice-Cloning,Real-Time-Voice-Cloning,57,4408,129,31,15,6,57,4408,77.33333333
+real-url,https://github.com/wbt5/real-url,real-url,105,25780,199,23,16,2,99,17408,175.8383838
+recommenders,https://github.com/microsoft/recommenders,Best Practices on Recommendation Systemsrecommenders,232,29059,1516,48,61,12,167,25846,154.7664671
+records,https://github.com/kennethreitz/records,SQL for Humans™records,8,567,244,19,35,6,8,567,70.875
+redis-py,https://github.com/andymccurdy/redis-py,Redis Python Clientredis-py,38,10152,1223,274,244,64,30,9768,325.6
+redis-rdb-tools,https://github.com/sripathikrishnan/redis-rdb-tools,"Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSONredis-rdb-tools",22,2830,141,12,23,4,21,2822,134.3809524
+regular-investing-in-box,https://github.com/xiaolai/regular-investing-in-box,定投改变命运 —�?让时间陪你慢慢变�?https://onregularinvesting.comregular-investing-in-box,19,659,1061,0,33,0,3,164,54.66666667
+reinforcement-learning-an-introduction,https://github.com/ShangtongZhang/reinforcement-learning-an-introduction,Python Implementation of Reinforcement Learning: An Introductionreinforcement-learning-an-introduction,27,4545,122,0,21,0,26,4538,174.5384615
+requests-html,https://github.com/psf/requests-html,Pythonic HTML Parsing for Humans™requests-html,5,811,356,12,59,5,5,811,162.2
+responder,https://github.com/taoufik07/responder,A familiar HTTP Service Framework for Python.responder,74,6558,721,19,87,8,25,2257,90.28
+responses,https://github.com/getsentry/responses,A utility for mocking out the Python Requests library.responses,4,2116,221,34,63,19,4,2245,561.25
+reviewboard,https://github.com/reviewboard/reviewboard,An extensible and friendly code review tool for projects and companies of all sizes.reviewboard,1291,235667,4470,136,218,17,728,112824,154.978022
+rich,https://github.com/willmcgugan/rich,Rich is a Python library for rich text and beautiful formatting in the terminal.rich,183,26717,1774,4,125,4,175,23476,134.1485714
+roboto,https://github.com/googlefonts/roboto,The Roboto family of fontsroboto,99,14668,352,10,10,3,51,6354,124.5882353
+RocAlphaGo,https://github.com/Rochester-NRT/RocAlphaGo,RocAlphaGo,45,5999,256,10,16,2,35,4910,140.2857143
+routersploit,https://github.com/threat9/routersploit,Exploitation Framework for Embedded Devicesroutersploit,716,25354,282,146,45,28,703,25246,35.91180654
+rqalpha,https://github.com/ricequant/rqalpha,"A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securitiesrqalpha",171,15317,1912,17,45,11,162,14790,91.2962963
+rtv,https://github.com/michael-lazar/rtv,Browse Reddit from your terminalrtv,232,227030,940,26,65,10,52,11304,217.3846154
+RxPY,https://github.com/ReactiveX/RxPY,"Reactive Extensions for Python, https://rxpy.rtfd.ioRxPY",415,32501,850,150,60,33,407,32296,79.35135135
+s2client-proto,https://github.com/Blizzard/s2client-proto,StarCraft II Client - protocol definitions used to communicate with StarCraft II.s2client-proto,16,35596,130,0,26,0,3,277,92.33333333
+s3cmd,https://github.com/s3tools/s3cmd,Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront servicess3cmd,32,9065,1388,168,191,22,27,8777,325.0740741
+sacred,https://github.com/IDSIA/sacred,"Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.sacred",120,13321,1021,247,97,46,112,12717,113.5446429
+sage,https://github.com/sagemath/sage,sage,934,162104,49849,12185,812,435,706,135315,191.6643059
+sampleproject,https://github.com/pypa/sampleproject,"A sample project that exists for PyPUG's ""Tutorial on Packaging and Distributing Projects""sampleproject",5,61,102,7,44,7,5,61,12.2
+sanic,https://github.com/sanic-org/sanic,Async Python 3.7+ web server/framework | Build fast. Run fast.sanic,192,20954,1220,297,218,100,166,20440,123.1325301
+SASM,https://github.com/Dman95/SASM,"SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languagesSASM",244,60877,265,3,18,1,155,36317,234.3032258
+saws,https://github.com/donnemartin/saws,A supercharged AWS command line interface (CLI).saws,47,2338,812,55,8,2,35,1725,49.28571429
+scalene,https://github.com/plasma-umass/scalene,"Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Pythonscalene",96,12307,1048,5,17,2,67,7360,109.8507463
+scapy,https://github.com/secdev/scapy,Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.scapy,342,114524,3359,515,369,146,320,114604,358.1375
+schedule,https://github.com/dbader/schedule,Python job scheduling for humans.schedule,4,1240,282,32,46,16,4,1240,310
+scikit-image,https://github.com/scikit-image/scikit-image,Image processing in Pythonscikit-image,653,66999,7319,790,497,222,559,50776,90.83363148
+scikit-learn,https://github.com/scikit-learn/scikit-learn,scikit-learn,977,194084,14189,5453,1949,1554,835,175510,210.1916168
+scipy,https://github.com/scipy/scipy,scipy,1981,456881,15727,1662,1124,552,809,198678,245.5846724
+scrapy,https://github.com/scrapy/scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.scrapy",337,36741,4796,512,499,143,314,36019,114.7101911
+scrapy-redis,https://github.com/rmax/scrapy-redis,Redis-based components for Scrapy.scrapy-redis,34,1757,127,12,22,9,29,1220,42.06896552
+scylla,https://github.com/imWildCat/scylla,Intelligent proxy pool for Humans�?(Maintainer needed)scylla,72,2054,287,54,17,8,55,1641,29.83636364
+seaborn,https://github.com/mwaskom/seaborn,Statistical data visualization in Pythonseaborn,108,25414,1773,310,146,48,99,24957,252.0909091
+security_monkey,https://github.com/Netflix/security_monkey,"Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.security_monkey",434,40139,950,240,134,52,300,24374,81.24666667
+segmentation_models.pytorch,https://github.com/qubvel/segmentation_models.pytorch,Segmentation models with pretrained backbones. PyTorch.segmentation_models.pytorch,84,5647,136,65,32,30,78,5543,71.06410256
+semantic-segmentation-pytorch,https://github.com/CSAILVision/semantic-segmentation-pytorch,semantic-segmentation-pytorch,45,3489,194,1,11,1,35,3189,91.11428571
+sentence-transformers,https://github.com/UKPLab/sentence-transformers,sentence-transformers,187,12146,753,24,61,2,175,10464,59.79428571
+sentry,https://github.com/getsentry/sentry,sentry,4081,469586,14281,2604,248,97,3043,332573,109.29116
+seq2seq,https://github.com/google/seq2seq,A general-purpose encoder-decoder framework for Tensorflowseq2seq,98,6698,531,2,15,1,80,5955,74.4375
+serenata-de-amor,https://github.com/okfn-brasil/serenata-de-amor,🕵 Artificial Intelligence for social control of public administrationserenata-de-amor,195,14598,956,47,89,12,174,9610,55.22988506
+SerpentAI,https://github.com/SerpentAI/SerpentAI,Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!SerpentAI,94,8367,169,1,6,1,86,8209,95.45348837
+sh,,Python process launchingsh,3,3947,749,69,67,13,3,3947,1315.666667
+Shadowrocket-ADBlock-Rules,https://github.com/h2y/Shadowrocket-ADBlock-Rules,提供多款 Shadowrocket 规则，带广告过滤功能。用�?iOS 未越狱设备选择性地自动翻墙。Shadowrocket-ADBlock-Rules,7,326,196,22,13,8,5,309,61.8
+shadowsocksr,https://github.com/shadowsocksr-backup/shadowsocksr,shadowsocksr,67,6294,550,24,18,1,33,5682,172.1818182
+sherlock,https://github.com/sherlock-project/sherlock,sherlock,16,3730,568,10,96,3,10,816,81.6
+shinken,https://github.com/naparuba/shinken,,1446,135900,3544,252,156,40,339,43546,128.4542773
+sigma,https://github.com/SigmaHQ/sigma,Generic Signature Format for SIEM Systemssigma,1656,76929,4203,60,307,18,91,12722,139.8021978
+skflow,https://github.com/tensorflow/skflow,Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learningskflow,4,416,135,15,8,3,4,416,104
+skorch,https://github.com/skorch-dev/skorch,scikit-learn interface with pytorchskorch,67,14332,584,207,45,35,60,14832,247.2
+sktime,https://github.com/alan-turing-institute/sktime,A unified framework for machine learning with time seriessktime,431,47829,879,367,116,100,386,42077,109.007772
+SlowFast,https://github.com/facebookresearch/SlowFast,PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.SlowFast,155,18126,161,17,23,12,82,13596,165.804878
+snips-nlu,https://github.com/snipsco/snips-nlu,Snips Python library to extract meaning from textsnips-nlu,129,25283,1055,42,18,7,117,17793,152.0769231
+snorkel,https://github.com/snorkel-team/snorkel,A system for quickly generating training data with weak supervisionsnorkel,130,7911,443,257,41,24,124,7766,62.62903226
+social-engineer-toolkit,https://github.com/trustedsec/social-engineer-toolkit,The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.social-engineer-toolkit,116,14945,687,7,73,5,76,10438,137.3421053
+softlayer-python,https://github.com/softlayer/softlayer-python,,1244,105904,1379,87,90,18,417,37491,89.90647482
+sonnet,https://github.com/deepmind/sonnet,TensorFlow-based neural network librarysonnet,138,13231,434,7,50,4,134,13148,98.11940299
+spaCy,https://github.com/explosion/spaCy,💫 Industrial-strength Natural Language Processing (NLP) in PythonspaCy,807,134592,6892,1671,438,319,648,72491,111.8688272
+speech_recognition,https://github.com/Uberi/speech_recognition,"Speech recognition module for Python, supporting several engines and APIs, online and offline.speech_recognition",18,1637,293,3,43,2,16,1595,99.6875
+speedtest-cli,https://github.com/sivel/speedtest-cli,Command line interface for testing internet bandwidth using speedtest.netspeedtest-cli,3,340,181,24,4,2,3,340,113.3333333
+sphinx,https://github.com/sphinx-doc/sphinx,Main repository for the Sphinx documentation buildersphinx,662,102202,10790,3263,584,161,396,54194,136.8535354
+spiderfoot,https://github.com/smicallef/spiderfoot,SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.spiderfoot,510,50926,2263,384,40,16,482,51793,107.4543568
+splash,https://github.com/scrapinghub/splash,splash,171,19159,1633,40,61,13,96,15717,163.71875
+spleeter,https://github.com/deezer/spleeter,spleeter,45,3032,243,0,17,0,29,2448,84.4137931
+spotipy,https://github.com/plamere/spotipy,A light weight Python library for the Spotify Web APIspotipy,66,4394,417,110,143,61,62,4065,65.56451613
+spyder,https://github.com/spyder-ide/spyder,Official repository for Spyder - The Scientific Python Development Environmentspyder,1832,148614,7930,86,155,33,731,128346,175.5759234
+sqlalchemy,https://github.com/zzzeek/sqlalchemy,The Database Toolkit for Pythonsqlalchemy,591,327379,9919,2194,507,194,446,246571,552.8497758
+sqlmap,https://github.com/sqlmapproject/sqlmap,Automatic SQL injection and database takeover toolsqlmap,473,67700,8398,2138,89,40,409,50568,123.6381418
+sqlparse,https://github.com/andialbrecht/sqlparse,,126,10564,726,81,68,13,35,4646,132.7428571
+ssd.pytorch,https://github.com/amdegroot/ssd.pytorch,A PyTorch Implementation of Single Shot MultiBox Detectorssd.pytorch,19,1629,146,10,15,7,19,1629,85.73684211
+ssh-audit,https://github.com/arthepsy/ssh-audit,"SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)ssh-audit",11,3053,155,6,4,2,11,3053,277.5454545
+sshuttle,https://github.com/apenwarr/sshuttle,Wrong project!  You should head over to http://github.com/sshuttle/sshuttlesshuttle,25,4186,128,19,11,6,25,4186,167.44
+statsmodels,https://github.com/statsmodels/statsmodels,Statsmodels: statistical modeling and econometrics in Pythonstatsmodels,1101,244881,7787,736,327,70,1021,234884,230.0528893
+statuspage,https://github.com/jayfk/statuspage,A statuspage generator that lets you host your statuspage for free on Github.statuspage,3,488,128,8,14,2,3,488,162.6666667
+stellar,https://github.com/fastmonkeys/stellar,Fast database snapshot and restore tool for developmentstellar,11,870,156,9,13,4,11,870,79.09090909
+stock,https://github.com/pythonstock/stock,stock，股票系统。使用python进行开发。stock,117,5620,243,0,8,0,29,2331,80.37931034
+storm,https://github.com/nathanmarz/storm,Manage your SSH like a boss.storm,23,2494,231,12,25,5,12,1204,100.3333333
+Stream-Framework,https://github.com/tschellenbach/Stream-Framework,"Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:Stream-Framework",89,6543,371,2,23,2,85,6130,72.11764706
+streamlink,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video playerstreamlink,476,34043,1788,434,191,113,453,32629,72.02869757
+streamlit,https://github.com/streamlit/streamlit,Streamlit �?The fastest way to build data apps in Pythonstreamlit,902,431906,2113,1224,89,81,377,29388,77.95225464
+SublimeCodeIntel,https://github.com/SublimeCodeIntel/SublimeCodeIntel,💡 Full-featured code intelligence and smart autocomplete for Sublime TextSublimeCodeIntel,6,2591,249,3,19,3,6,2591,431.8333333
+sugar,https://github.com/sugarlabs/sugar,,296,16498,3491,588,108,51,191,31366,164.2198953
+Sunflower,https://github.com/MeanEYE/Sunflower,,276,131420,327,0,20,0,96,17565,182.96875
+superset,https://github.com/apache/superset,Apache Superset is a Data Visualization and Data Exploration Platformsuperset,1506,337086,5205,4960,503,488,746,100270,134.4101877
+supervisor,https://github.com/Supervisor/supervisor,Supervisor process control system for UNIXsupervisor,79,29657,1225,185,146,22,69,28500,413.0434783
+Surprise,https://github.com/NicolasHug/Surprise,A Python scikit for building and analyzing recommender systemsSurprise,70,4313,368,30,36,22,62,3253,52.46774194
+sympy,https://github.com/sympy/sympy,A computer algebra system written in pure Pythonsympy,1475,439072,24354,1205,832,257,1233,356546,289.1695053
+synapse,https://github.com/matrix-org/synapse,Synapse: Matrix homeserver written in Python 3/Twisted.synapse,1098,164260,11013,2939,332,236,740,145651,196.8256757
+sync-engine,https://github.com/nylas/sync-engine,:incoming_envelope: IMAP/SMTP sync system with modern APIssync-engine,608,48155,2807,59,64,17,587,47029,80.11754685
+Synonyms,https://github.com/chatopera/Synonyms,Synonyms,36,917183,114,16,14,2,25,193413,7736.52
+system-design-primer,https://github.com/donnemartin/system-design-primer,system-design-primer,16,697,289,170,109,105,14,655,46.78571429
+tablib,https://github.com/jazzband/tablib,tablib,37,3376,332,67,60,18,30,3107,103.5666667
+taiga-back,https://github.com/taigaio/taiga-back,Agile project management platform. Built on top of Django and AngularJStaiga-back,822,75980,2847,235,71,16,810,74471,91.93950617
+tashi,https://github.com/apache/tashi,,220,27092,399,0,3,0,101,12355,122.3267327
+Tautulli,https://github.com/Tautulli/Tautulli,A Python based monitoring and tracking tool for Plex Media Server.Tautulli,1188,250761,3903,90,71,5,984,190925,194.0294715
+Telethon,https://github.com/LonamiWebs/Telethon,"Pure Python 3 MTProto API Telegram client library, for bots too!Telethon",147,16154,1803,378,108,102,135,15155,112.2592593
+tenacity,https://github.com/tenacityteam/tenacity,Retrying library for Pythontenacity,36,2327,237,64,57,24,17,2098,123.4117647
+tensor2tensor,https://github.com/tensorflow/tensor2tensor,Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.tensor2tensor,489,90270,3160,508,231,119,450,86928,193.1733333
+tensorboardX,https://github.com/lanpa/tensorboardX,"tensorboard for pytorch (and chainer, mxnet, numpy, ...)tensorboardX",120,13795,358,189,65,43,96,10347,107.78125
+tensorflow,https://github.com/tensorflow/tensorflow,,31424,6399734,30265,3291,1543,915,2859,607024,212.3203917
+TensorFlowOnSpark,https://github.com/yahoo/TensorFlowOnSpark,TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.TensorFlowOnSpark,61,6294,265,8,18,2,43,5236,121.7674419
+tensorflow-wavenet,https://github.com/ibab/tensorflow-wavenet,tensorflow-wavenet,10,1821,147,72,30,22,10,1821,182.1
+TensorFlow-World,https://github.com/astorfi/TensorFlow-World,:earth_americas: Simple and ready-to-use tutorials for TensorFlowTensorFlow-World,28,1302,396,0,9,0,19,1198,63.05263158
+tensorflow-yolov3,https://github.com/YunYang1994/tensorflow-yolov3,"🔥 TensorFlow Code for technical report: ""YOLOv3: An Incremental Improvement""tensorflow-yolov3",29,2139,294,0,8,0,28,2129,76.03571429
+tensorlayer,https://github.com/tensorlayer/tensorlayer,Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥tensorlayer,272,32157,2179,275,98,38,253,30944,122.3083004
+tensorpack,https://github.com/tensorpack/tensorpack,"A Neural Net Training Interface on TensorFlow, with focus on speed + flexibilitytensorpack",255,25118,2585,505,55,53,238,24826,104.3109244
+tensortrade,https://github.com/tensortrade-org/tensortrade,"An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.tensortrade",162,8967,318,6,37,5,153,8800,57.51633987
+termtosvg,https://github.com/nbedos/termtosvg,Record terminal sessions as SVG animationstermtosvg,24,6808,142,27,15,12,13,1872,144
+text_classification,https://github.com/brightmart/text_classification,all kinds of text classification models and more with deep learningtext_classification,90,12386,241,0,14,0,89,12372,139.011236
+textgenrnn,https://github.com/minimaxir/textgenrnn,Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.textgenrnn,8,826,130,15,19,2,7,825,117.8571429
+text-to-text-transfer-transformer,https://github.com/google-research/text-to-text-transfer-transformer,text-to-text-transfer-transformer,38,7193,419,37,38,4,36,7221,200.5833333
+textual,https://github.com/willmcgugan/textual,Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.textual,82,6935,259,1,16,1,74,6635,89.66216216
+tflearn,https://github.com/tflearn/tflearn,Deep learning library featuring a higher-level API for TensorFlow.tflearn,113,10580,503,186,136,99,110,10468,95.16363636
+Theano,https://github.com/Theano/Theano,"Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesaraTheano",467,154291,17672,188,349,64,205,74265,362.2682927
+the-blue-alliance,https://github.com/the-blue-alliance/the-blue-alliance,,3928,776194,4395,802,66,49,483,45484,94.16977226
+thefuck,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command.thefuck,405,11970,1144,456,178,91,349,10208,29.24928367
+the-gan-zoo,https://github.com/hindupuravinash/the-gan-zoo,A list of all named GANs!the-gan-zoo,1,57,120,7,22,2,1,57,57
+theHarvester,https://github.com/laramies/theHarvester,theHarvester,73,13541,1090,16,72,9,64,4293,67.078125
+thumbor,https://github.com/thumbor/thumbor,thumbor is an open-source photo thumbnail service by globo.comthumbor,222,312371,1582,148,142,43,182,14906,81.9010989
+tianshou,https://github.com/thu-ml/tianshou,An elegant PyTorch deep reinforcement learning library.tianshou,153,17282,268,188,30,29,132,16889,127.9469697
+tinydb,https://github.com/msiemens/tinydb,TinyDB is a lightweight document oriented database optimized for your happiness :)tinydb,31,2539,480,118,64,42,20,2020,101
+tinygrad,https://github.com/geohot/tinygrad,You like pytorch? You like micrograd? You love tinygrad! ❤️ tinygrad,72,9781,389,103,41,33,47,4248,90.38297872
+toml,https://github.com/toml-lang/toml,"Tom's Obvious, Minimal Languagetoml",1,175,467,62,170,18,1,175,175
+toolz,https://github.com/pytoolz/toolz,A functional standard library for Python.toolz,57,5785,650,46,66,16,51,5436,106.5882353
+torchdiffeq,https://github.com/rtqichen/torchdiffeq,Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.torchdiffeq,32,3205,166,7,21,4,32,3205,100.15625
+tornado,https://github.com/tornadoweb/tornado,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.tornado",145,28122,3133,496,411,52,109,26413,242.3211009
+tpot,https://github.com/EpistasisLab/tpot,tpot,81,13421,1440,96,83,8,51,7154,140.2745098
+tqdm,https://github.com/tqdm/tqdm,tqdm,78,6382,1234,225,97,34,65,5675,87.30769231
+trac,https://github.com/edgewall/trac,,1314,598390,9515,4975,36,21,323,74173,229.6377709
+transitions,https://github.com/pytransitions/transitions,"A lightweight, object-oriented finite state machine implementation in Python with many extensionstransitions",35,7318,726,171,69,13,32,7257,226.78125
+tribler,https://github.com/Tribler/tribler,Privacy enhanced BitTorrent client with P2P content discoverytribler,431,46461,1047,42,36,14,406,38482,94.78325123
+troposphere,https://github.com/cloudtools/troposphere,troposphere - Python library to create AWS CloudFormation descriptionstroposphere,313,39035,2202,796,460,337,312,39613,126.9647436
+truffleHog,https://github.com/trufflesecurity/truffleHog,"Searches through git repositories for high entropy strings and secrets, digging deep into commit historytruffleHog",5,521,105,9,25,9,5,521,104.2
+trump2cash,https://github.com/maxbbraun/trump2cash,A stock trading bot powered by Trump tweetstrump2cash,10,2164,191,9,1,1,10,2164,216.4
+TrumpScript,https://github.com/samshadwell/TrumpScript,TrumpScript,12,2997,148,4,38,2,10,2992,299.2
+tryton,https://github.com/tryton/tryton,,428,91976,3605,4,54,2,117,23680,202.3931624
+trytond,https://github.com/tryton/trytond,,1008,282494,3670,0,66,0,214,37712,176.2242991
+tushare,https://github.com/waditu/tushare,tushare,58,7881,321,6,36,5,57,7859,137.877193
+tvm,https://github.com/apache/tvm,"Open deep learning compiler stack for cpu, gpu and specialized acceleratorstvm",3064,461291,5227,5130,534,528,1538,250494,162.869961
+twint,https://github.com/twintproject/twint,"An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.twint",23,2798,567,159,66,55,23,2798,121.6521739
+twisted,https://github.com/twisted/twisted,Event-driven networking engine written in Python.twisted,1168,212174,3416,185,128,41,1121,188105,167.8010705
+U-2-Net,https://github.com/xuebinqin/U-2-Net,"The code for our newly accepted paper in Pattern Recognition 2020: ""U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.""U-2-Net",13,34489,175,0,15,0,12,1218,101.5
+uds,https://github.com/stewartmcgown/uds,Unlimited Drive Storage by splitting binary files into base64uds,6,589,107,2,22,1,6,589,98.16666667
+Ultra-Light-Fast-Generic-Face-Detector-1MB,https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB,Ultra-Light-Fast-Generic-Face-Detector-1MB,89,9372,136,0,14,0,60,6144,102.4
+umap,https://github.com/lmcinnes/umap,umap,56,109718,1137,104,94,17,40,9417,235.425
+ungoogled-chromium,https://github.com/Eloston/ungoogled-chromium,"Google Chromium, sans integration with Googleungoogled-chromium",38,3115,591,65,45,7,28,3010,107.5
+universe,https://github.com/openai/universe,"Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.universe",118,12747,179,14,23,5,113,11577,102.4513274
+urh,https://github.com/jopohl/urh,Universal Radio Hacker: Investigate Wireless Protocols Like A Bossurh,402,126151,2155,279,23,12,359,121664,338.8969359
+urllib3,https://github.com/urllib3/urllib3,"Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.urllib3",82,17089,1813,450,218,94,69,16629,241
+video2x,https://github.com/k4yt3x/video2x,video2x,25,4086,384,11,14,4,17,3637,213.9411765
+virtualenv,https://github.com/pypa/virtualenv,virtualenv,149,10211,313,224,57,57,134,9663,72.1119403
+visidata,https://github.com/saulpw/visidata,A terminal spreadsheet multitool for discovering and arranging datavisidata,253,70788,3485,432,49,15,137,14309,104.4452555
+vision,https://github.com/pytorch/vision,"Datasets, Transforms and Models specific to Computer Visionvision",426,53716,1847,1737,422,405,221,36312,164.3076923
+vit-pytorch,https://github.com/lucidrains/vit-pytorch,"Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorchvit-pytorch",20,2438,148,2,12,1,20,2438,121.9
+voc,https://github.com/pybee/voc,,702,77900,2117,72,183,34,175,16825,96.14285714
+voila,https://github.com/voila-dashboards/voila,Voilà turns Jupyter notebooks into standalone web applicationsvoila,128,5407,580,51,54,19,68,2883,42.39705882
+volatility,https://github.com/volatilityfoundation/volatility,An advanced memory forensics frameworkvolatility,429,614471,2529,186,63,9,421,611596,1452.72209
+voltron,https://github.com/snare/voltron,A hacky debugger UI for hackersvoltron,62,6490,469,3,31,3,52,5922,113.8846154
+vprof,https://github.com/nvdv/vprof,Visual profiler for Pythonvprof,44,3259,360,56,18,5,23,1850,80.43478261
+vyper,https://github.com/vyperlang/vyper,Pythonic Smart Contract Language for the EVMvyper,352,27234,2173,78,151,26,337,26007,77.17210682
+wafw00f,https://github.com/EnableSecurity/wafw00f,wafw00f,169,3480,694,18,34,11,164,3268,19.92682927
+wagtail,https://github.com/wagtail/wagtail,wagtail,1654,172446,6282,1696,502,268,934,97012,103.8672377
+wal-e,https://github.com/wal-e/wal-e,Continuous Archiving for Postgreswal-e,112,7125,578,10,76,7,110,7081,64.37272727
+walle-web,https://github.com/meolu/walle-web,walle - 瓦力 Devops开源项目代码部署平台walle-web,143,6187,510,25,32,8,92,5753,62.5326087
+WeasyPrint,https://github.com/Kozea/WeasyPrint,The awesome document factoryWeasyPrint,125,40649,1714,239,53,12,110,39490,359
+web2py,https://github.com/web2py/web2py,,1684,269750,6340,233,226,46,381,93542,245.5170604
+weblate,https://github.com/WeblateOrg/weblate,,3184,5806094,16108,1998,489,22,491,57242,116.5824847
+webpy,https://github.com/webpy/webpy,web.py is a web framework for python that is as simple as it is powerful. webpy,29,6287,660,174,80,23,29,6287,216.7931034
+websockets,https://github.com/aaugustin/websockets,Library for building WebSocket servers and clients in Pythonwebsockets,123,13977,543,135,33,10,92,13192,143.3913043
+wechat_jump_game,https://github.com/wangshub/wechat_jump_game,微信《跳一跳》Python 辅助wechat_jump_game,44,2013,201,58,73,35,20,1769,88.45
+WechatSogou,https://github.com/chyroc/WechatSogou,WechatSogou,35,11640,136,85,12,10,21,1622,77.23809524
+weibospider,https://github.com/SpiderClub/weibospider,":zap: A distributed crawler for weibo, building with celery and requests.weibospider",84,3839,559,3,19,3,79,3741,47.35443038
+werkzeug,https://github.com/pallets/werkzeug,The comprehensive WSGI web application library.werkzeug,183,24354,1459,132,267,66,141,23712,168.1702128
+wfuzz,https://github.com/xmendez/wfuzz,Web application fuzzerwfuzz,137,13359,575,34,26,2,121,13148,108.661157
+whoogle-search,https://github.com/benbusby/whoogle-search,"A self-hosted, ad-free, privacy-respecting metasearch enginewhoogle-search",56,3755,348,136,56,51,17,1309,77
+wifiphisher,https://github.com/wifiphisher/wifiphisher,wifiphisher,61,16264,393,40,37,12,30,4648,154.9333333
+wifite2,https://github.com/derv82/wifite2,wifite2,47,5530,157,38,14,2,46,5528,120.173913
+WikiApiary,https://github.com/WikiApiary/WikiApiary,,164,7026,120,10,4,1,58,2280,39.31034483
+word_cloud,https://github.com/amueller/word_cloud,A little word cloud generator in Pythonword_cloud,35,15930,342,25,60,13,24,2938,122.4166667
+wtfpython,https://github.com/satwikkansal/wtfpython,What the f*ck Python? 😱wtfpython,8,460,333,16,69,13,8,460,57.5
+wttr.in,https://github.com/chubin/wttr.in,:partly_sunny: The right way to check the weatherwttr.in,39,5963,787,145,141,8,25,4116,164.64
+wxBot,https://github.com/liuwons/wxBot,Python网页微信APIwxBot,3,1353,120,2,23,2,3,1353,451
+wxpy,https://github.com/youfou/wxpy,微信机器�?/ 可能是最优雅的微信个人号 API ✨✨wxpy,49,2563,231,2,5,2,47,2526,53.74468085
+xadmin,https://github.com/sshwsfc/xadmin,"Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.xadmin",337,50756,648,25,51,6,81,9359,115.5432099
+xmltodict,https://github.com/martinblech/xmltodict,xmltodict,5,1134,150,41,41,19,5,1134,226.8
+xonsh,https://github.com/xonsh/xonsh,xonsh,322,74646,6194,364,243,93,238,50036,210.2352941
+XSStrike,https://github.com/s0md3v/XSStrike,XSStrike,29,3687,287,35,16,3,26,1806,69.46153846
+XX-Net,https://github.com/XX-net/XX-Net,A proxy tool to bypass GFW.XX-Net,1458,370957,894,58,59,13,948,287694,303.4746835
+yapf,https://github.com/google/yapf,A formatter for Python filesyapf,56,9977,908,214,127,43,50,9858,197.16
+yellowbrick,https://github.com/DistrictDataLabs/yellowbrick,Visual analysis and diagnostic tools to facilitate machine learning model selection.yellowbrick,197,21869,642,441,100,86,188,21365,113.643617
+yfinance,https://github.com/ranaroussi/yfinance,Yahoo! Finance market data downloader (+faster Pandas Datareader)yfinance,10,997,234,8,39,2,10,1002,100.2
+yolov5,https://github.com/ultralytics/yolov5,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLiteyolov5,74,6860,1198,814,140,126,27,5300,196.2962963
+YOLOX,https://github.com/Megvii-BaseDetection/YOLOX,"YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/YOLOX",106,9902,128,91,43,36,78,6669,85.5
+YouCompleteMe,https://github.com/ycm-core/YouCompleteMe,A code-completion engine for VimYouCompleteMe,96,14098,1491,143,142,20,51,9760,191.372549
+you-get,https://github.com/soimort/you-get,:arrow_double_down: Dumb downloader that scrapes the webyou-get,130,11405,1672,288,222,28,126,11284,89.55555556
+youtube-dl-gui,https://github.com/MrS0m30n3/youtube-dl-gui,youtube-dl-gui,26,4653,604,37,21,3,23,4579,199.0869565
+yowsup,https://github.com/tgalal/yowsup,yowsup,341,14846,777,97,67,10,339,14809,43.68436578
+YYeTsBot,https://github.com/tgbot-collection/YYeTsBot,🎬 人人影视bot，完全对接人人影视全部无删减资源YYeTsBot,87,33060,157,9,5,4,35,3519,100.5428571
+Zappa,https://github.com/Miserlou/Zappa,Serverless PythonZappa,405,29712,1839,101,240,45,34,8397,246.9705882
+zipline,https://github.com/quantopian/zipline,"Zipline, a Pythonic Algorithmic Trading Libraryzipline",335,74424,3395,96,114,33,278,69547,250.1690647
+Zope,https://github.com/zopefoundation/Zope,,1220,167550,2620,270,91,39,309,31390,101.5857605
+zulip,https://github.com/zulip/zulip,Zulip server and web app—powerful open source team chatzulip,8224,1284524,20346,2110,521,298,907,110293,121.6019846

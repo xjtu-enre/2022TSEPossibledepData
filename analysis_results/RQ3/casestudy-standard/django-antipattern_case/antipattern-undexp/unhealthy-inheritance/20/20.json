@@ -1,0 +1,29 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "20",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/mutable_list.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/geometry.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/polygon.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/geos/collections.py"
+    } ]
+  } ]
+}

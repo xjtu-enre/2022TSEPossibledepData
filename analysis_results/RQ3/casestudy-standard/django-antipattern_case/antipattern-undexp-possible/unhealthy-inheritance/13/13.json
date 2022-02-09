@@ -1,0 +1,38 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "13",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/apps/config.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/migrations/state.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/apps.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/admin/sites.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/commands/migrate.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/management/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/migrations/questioner.py"
+    } ]
+  } ]
+}

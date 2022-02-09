@@ -1,0 +1,38 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "10",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/views/generic/base.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/auth/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admindocs/views.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/views/i18n.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/admindocs/urls.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/sites.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/urls.py"
+    } ]
+  } ]
+}

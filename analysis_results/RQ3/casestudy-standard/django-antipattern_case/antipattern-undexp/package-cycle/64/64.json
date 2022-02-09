@@ -1,0 +1,28 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "64",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/apps/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/apps/registry.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/options.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/signals.py"
+    } ]
+  } ]
+}

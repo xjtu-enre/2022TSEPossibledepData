@@ -1,0 +1,34 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "52",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/schema.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/aggregates.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/lookups.py"
+    } ]
+  } ]
+}

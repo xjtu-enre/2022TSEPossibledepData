@@ -1,0 +1,106 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/db/backends/sqlite3/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/template/defaulttags.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/spatialite/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/python.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/manager.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/where.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/admin.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/forms/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/filters.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/views/main.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/postgresql_psycopg2/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/serializers/xml_serializer.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/expressions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/utils/datastructures.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/mysql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/management/sql.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/widgets.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/subqueries.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/core/validators.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/mysql/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/datastructures.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/test/testcases.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/files.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/admin/utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/contenttypes/models.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/fields.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/auth/forms.py"
+    } ]
+  } ]
+}

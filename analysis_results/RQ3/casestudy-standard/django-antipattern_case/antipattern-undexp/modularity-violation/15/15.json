@@ -1,0 +1,52 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "15",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/spatialite/operations.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/oracle/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/related.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/lookups.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/mysql/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/base/features.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/models/functions.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/contrib/gis/db/backends/postgis/operations.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/backends/oracle/base.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/fields/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/query.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/sql/compiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "django/db/models/query.py"
+    } ]
+  } ]
+}
