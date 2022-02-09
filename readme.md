@@ -1,7 +1,7 @@
 # dataset
 This dataset corresponds to our TSE work (Under review). We provided the benchmarks collected from 499 open source projects for continued research of possible dependencies due to dynamic typing in Python software.
 
-We extended our previous tool **ENRE** to extract *possible dependencies* from source code. The version supporting posisble dependency extraction is **ENRE2.0**(). 
+We extended our previous tool **ENRE** to extract *possible dependencies* from source code. The version supporting posisble dependency extraction is [**ENRE2.0**](https://github.com/xjtu-enre/ENRE-go-python/tree/v2.0]). 
 
 
 ## 1. project_list 
@@ -128,17 +128,22 @@ The benchmarks were collected from execution traces by running testcases. We use
 
 ## Please reference our paper when you use this dataset.
 
-@inproceedings{2020ase-jin,
+    @inproceedings{2020ase-jin,
+        title={Exploring the Architectural Impact of Possible Dependencies in Python Software},
+		
+        author={Jin, Wuxia and Cai, Yuanfang and Kazman, Rick and Zhang, Gang and Zheng, Qinghua and Liu, Ting},
+        booktitle={2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+        pages={1--13},
+        year={2020},
+        organization={IEEE}
+        }
 
-	title={Exploring the Architectural Impact of Possible Dependencies in Python Software},
-	
-	author={Jin, Wuxia and Cai, Yuanfang and Kazman, Rick and Zhang, Gang and Zheng, Qinghua and Liu, Ting},
-	
-	booktitle={2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
-	
-	pages={1--13},
-	
-	year={2020},
-	
-	organization={IEEE}
-}
+    @inproceedings{2019icse-jin,
+      title={ENRE: a tool framework for extensible eNtity relation extraction},
+	  
+      author={Jin, Wuxia and Cai, Yuanfang and Kazman, Rick and Zheng, Qinghua and Cui, Di and Liu, Ting},
+      booktitle={Proceedings of the 41st International Conference on Software Engineering: Companion Proceedings},
+      pages={67--70},
+      year={2019},
+      organization={IEEE Press}
+    }
