@@ -23,7 +23,7 @@ To analyze the domain of these 499 projects, we recruited five research voluntee
 
 ## 2. project_analysis
 
-Each folder under this directory corresponds to  the raw data of  an individual project. The data are obtained from analyzing the source code and revision history by employing diverse tools (i.e., SCITool Understand, ENRE, DV8) used in our study. Since the entire size of all 499 projects' analysis results is more than 200G. We upload the data of 10 projects. You can email us to obtain all the raw data if you are interested. Or, you can obtain these raw data by deploying and employing the tools we used in our study. 
+Each folder under this directory corresponds to  the raw data of  an individual project. The data are obtained from analyzing the source code and revision history by employing diverse tools (i.e., **[SCITool Understand](https://scitools.com/)**, **[ENRE](https://github.com/xjtu-enre/ENRE-go-python/)**, **[DV8](https://archdia.com)**) used in our study. Since the entire size of all 499 projects' analysis results is more than 200G. We upload the data of 10 projects. You can email us to obtain all the raw data if you are interested. Or, you can obtain these raw data by deploying and employing the tools we used in our study. 
 
 Under each sub-folder,
 
