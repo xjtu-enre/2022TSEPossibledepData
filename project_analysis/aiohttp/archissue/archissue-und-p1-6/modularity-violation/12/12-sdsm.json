@@ -1,0 +1,6 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "12",
+  "variables" : [ "tests/test_http_exceptions.py", "tests/test_client_exceptions.py", "tests/test_websocket_parser.py" ],
+  "cells" : [ ]
+}

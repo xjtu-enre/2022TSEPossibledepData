@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Refactor Unstable Interface</title>
+    <style>
+        html {
+            font-family: arial;
+        }
+        header {
+            text-align: center;
+        }
+    </style>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <header>
+        <h1>Refactor Unstable Interface</h1>
+    </header>
+    <div>
+        <ul>
+            <li>Unstable interfaces manifest themselves as one or more high-impact files, and many other files depend on it, while the files themselves have:
+                <ul>
+                    <li>High modification rate.</li>
+                    <li>High defect rate.</li>
+                    <li>It is often modified as a result of modifications to other files.</li>
+                    <li>Their modifications result in a large number of other files that depend on them to be modified.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>Before refactoring, you should examine whether these high-impact files have the following characteristics:
+                <ul>
+                    <li>The file is long and the number of lines of code is longer.</li>
+                    <li>The file assumes a variety of responsibilities.</li>
+                    <li>The file becomes longer due to the addition of new features.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>Refactoring method: Make high-impact files conform to the principle of single responsibility and interface separation.</li>
+        </ul>
+        <ul>
+            <li>Use DV8 to extract the design space led by the refactored file and put all the files into the refactoring branch.
+                <ul>
+                    <li>Do the following in the refactoring branch:
+                        <ul>
+                            <li>Decouple long files into multiple files, each with only one responsibility.</li>
+                            <li>If these files are interface files, make sure that each other file that implements these interfaces can meaningfully implement all the functions defined in the interface file.</li>
+                            <li>If the file becomes longer as a result of adding new features, consider using the appropriate design pattern so that when adding new features, you only need to add new files and but do not need to modify the original files.</li>
+                            <li>Repeat until high-impact files and files that depend on them conform to the principle of single responsibility.</li>
+                            <li>Write the appropriate unit test cases to ensure that the new code is functionally correct.</li>
+                            <li>Make sure the new code doesn't have code smells.</li>
+                            <li>Use DV8 to detect whether the refactored code conforms to the target architecture.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

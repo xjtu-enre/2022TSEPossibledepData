@@ -1,0 +1,31 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "5",
+  "variables" : [ "aiohttp/web_response.py", "aiohttp/web_fileresponse.py", "aiohttp/web_urldispatcher.py" ],
+  "cells" : [ {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Import" : 1.0,
+      "Inherit" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Import From" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  } ]
+}

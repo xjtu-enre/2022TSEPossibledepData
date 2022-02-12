@@ -1,0 +1,49 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "4",
+  "variables" : [ "agency/agency_tools.py", "agency/cdn_utils.py", "myUrllib/httpUtils.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 4.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 2.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 4.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "P1" : 4.0,
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Import From" : 1.0,
+      "Cochange" : 8.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "P1" : 2.0,
+      "Import" : 1.0,
+      "Import From" : 1.0,
+      "Cochange" : 2.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 8.0
+    }
+  } ]
+}

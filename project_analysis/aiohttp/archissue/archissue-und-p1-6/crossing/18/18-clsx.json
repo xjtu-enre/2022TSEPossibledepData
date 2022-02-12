@@ -1,0 +1,59 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "18",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/typedefs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/hdrs.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web_exceptions.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/abc.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_protocol.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_response.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_fileresponse.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_middlewares.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_urldispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_request.py"
+    } ]
+  } ]
+}

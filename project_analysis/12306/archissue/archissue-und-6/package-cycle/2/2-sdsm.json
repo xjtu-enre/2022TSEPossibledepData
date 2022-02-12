@@ -1,0 +1,21 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "variables" : [ "agency/agency_tools.py", "agency/cdn_utils.py", "myUrllib/httpUtils.py" ],
+  "cells" : [ {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  } ]
+}

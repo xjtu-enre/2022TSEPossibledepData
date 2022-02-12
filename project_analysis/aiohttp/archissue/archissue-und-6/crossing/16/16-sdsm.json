@@ -1,0 +1,302 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "16",
+  "variables" : [ "aiohttp/client_reqrep.py", "aiohttp/streams.py", "aiohttp/helpers.py", "aiohttp/hdrs.py", "aiohttp/payload.py", "aiohttp/http.py", "aiohttp/multipart.py", "tests/test_multipart.py", "aiohttp/__init__.py", "aiohttp/web_request.py", "aiohttp/formdata.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0,
+      "Inherit" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 3,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 4,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 5,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 6,
+    "values" : {
+      "Import" : 1.0,
+      "Use" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 10,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 1,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 2,
+    "values" : {
+      "Use" : 1.0,
+      "Import From" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 3,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 5,
+    "dest" : 8,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 1,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 2,
+    "values" : {
+      "Use" : 1.0,
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 3,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 4,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Inherit" : 1.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 5,
+    "values" : {
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 1,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 2,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 3,
+    "values" : {
+      "Use" : 1.0,
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 6,
+    "values" : {
+      "Use" : 1.0,
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 1,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 2,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 3,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 4,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 5,
+    "values" : {
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 6,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 10,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 9,
+    "dest" : 1,
+    "values" : {
+      "Use" : 1.0,
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 9,
+    "dest" : 2,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Inherit" : 1.0
+    }
+  }, {
+    "src" : 9,
+    "dest" : 3,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 9,
+    "dest" : 6,
+    "values" : {
+      "Use" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 10,
+    "dest" : 2,
+    "values" : {
+      "Import From" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 10,
+    "dest" : 3,
+    "values" : {
+      "Use" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 10,
+    "dest" : 4,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 10,
+    "dest" : 6,
+    "values" : {
+      "Use" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  } ]
+}

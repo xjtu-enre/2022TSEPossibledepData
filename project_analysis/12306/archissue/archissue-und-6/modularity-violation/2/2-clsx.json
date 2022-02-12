@@ -1,0 +1,34 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "inter/Query.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "inter/GetRandCode.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/AutoSubmitOrderRequest.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetPassengerDTOs.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/SubmitOrderRequest.py"
+    }, {
+      "@type" : "item",
+      "name" : "init/login.py"
+    }, {
+      "@type" : "item",
+      "name" : "agency/cdn_utils.py"
+    } ]
+  } ]
+}

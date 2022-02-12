@@ -1,0 +1,78 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "variables" : [ "aiohttp/payload.py", "aiohttp/multipart.py", "aiohttp/formdata.py", "aiohttp/client_reqrep.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 18.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 23.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 18.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 8.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 20.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 8.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 23.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 20.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  } ]
+}

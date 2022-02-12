@@ -1,0 +1,6 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "variables" : [ "config/urlConf.py", "inter/CheckUser.py", "init/login.py", "inter/AutoSubmitOrderRequest.py", "myUrllib/httpUtils.py" ],
+  "cells" : [ ]
+}

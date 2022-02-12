@@ -1,0 +1,55 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "variables" : [ "config/urlConf.py", "config/pushbearConf.py", "config/logger.py", "config/serverchanConf.py", "myUrllib/MySocketUtils.py", "myUrllib/httpUtils.py" ],
+  "cells" : [ {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Import" : 1.0,
+      "Use" : 1.0,
+      "Import From" : 1.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 5,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Use" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 5,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 0,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0,
+      "Set" : 1.0,
+      "Use" : 1.0
+    }
+  }, {
+    "src" : 5,
+    "dest" : 2,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Use" : 1.0
+    }
+  } ]
+}

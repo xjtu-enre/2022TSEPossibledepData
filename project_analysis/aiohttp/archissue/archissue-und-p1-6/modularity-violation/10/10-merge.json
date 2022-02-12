@@ -1,0 +1,42 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "10",
+  "variables" : [ "tests/test_formdata.py", "tests/test_helpers.py", "tests/test_multipart.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 12.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 12.0
+    }
+  } ]
+}

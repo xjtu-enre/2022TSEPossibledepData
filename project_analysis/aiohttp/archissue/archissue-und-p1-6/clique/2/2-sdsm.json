@@ -1,0 +1,18 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "variables" : [ "tests/test_worker.py", "aiohttp/worker.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "P1" : 34.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "P1" : 2.0
+    }
+  } ]
+}

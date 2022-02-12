@@ -1,0 +1,28 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "init/select_ticket_info.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "config/urlConf.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/TicketEnmu.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/configCommon.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/getCookie.py"
+    } ]
+  } ]
+}

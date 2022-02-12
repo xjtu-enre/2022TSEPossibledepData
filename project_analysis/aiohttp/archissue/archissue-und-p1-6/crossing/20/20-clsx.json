@@ -1,0 +1,47 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "20",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/multipart.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/hdrs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/payload.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/formdata.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/client_reqrep.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_formdata.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_functional.py"
+    } ]
+  } ]
+}

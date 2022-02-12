@@ -1,0 +1,42 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "4",
+  "variables" : [ "aiohttp/abc.py", "aiohttp/cookiejar.py", "aiohttp/client.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 10.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 10.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 16.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 16.0
+    }
+  } ]
+}

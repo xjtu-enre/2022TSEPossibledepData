@@ -1,0 +1,50 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "19",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/abc.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/test_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/typedefs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/locks.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_urldispatcher.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/cookiejar.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/client_reqrep.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_cookiejar.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/__init__.py"
+    } ]
+  } ]
+}

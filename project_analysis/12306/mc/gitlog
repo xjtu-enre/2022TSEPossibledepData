@@ -1,0 +1,4470 @@
+commit a495af88346a0d794493c6030f6a6207debb5824
+Author: gzldc <shishuai@asiainfo.com>
+Date:   2021-01-04 16:13:09 +0800
+
+    站点信息更新
+
+1	1	station_name.txt
+
+commit d0754e4fcde842ad5cbe0e4b8283d33ffb47d6d3
+Merge: 1d48e51 4836f4c
+Author: renzhi(任智) <vugar828@gmail.com>
+Date:   2019-12-27 09:49:00 +0800
+
+    Merge pull request #633 from hhzrz/master
+    
+    Optimize docker image size
+
+commit 4836f4c38c702dc413a01fb4a59bdba09b097865
+Merge: e315abb ed3928e
+Author: Renzhi <renzhi828@163.com>
+Date:   2019-12-26 17:29:56 +0800
+
+    Merge branch 'master' of https://github.com/hhzrz/12306
+
+commit e315abb586338b20e4a0f4097e85bb6c8e640797
+Author: Renzhi <renzhi828@163.com>
+Date:   2019-12-26 17:28:15 +0800
+
+    code style meet standard
+
+1	1	inter/GetRandCode.py
+
+commit ed3928eb6adfd363c7ac4abfcfd286b0c3f9c662
+Merge: 93c6db4 1d48e51
+Author: renzhi(任智) <vugar828@gmail.com>
+Date:   2019-12-26 16:50:05 +0800
+
+    Merge branch 'master' into master
+
+commit 93c6db471ce520f383bd854a971d76386911a896
+Author: Renzhi <renzhi828@163.com>
+Date:   2019-12-26 16:27:37 +0800
+
+    Optimization: optimize docker images size from over 2.2GB to about 760MB
+
+1	0	.dockerignore
+38	36	Dockerfile37
+1	1	README.md
+2	0	docker-compose.yml
+0	37	docker.sh
+2	1	inter/GetRandCode.py
+7	0	requirements-docker37.txt
+
+commit 1d48e51a6b5b751a7f3204761e941a6aeec2f289
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-21 00:52:29 +0800
+
+    update: do update cdn list before run
+
+1	1	Dockerfile37
+
+commit 565903e0f5c5633ba6c0d4fd914de82664703ad5
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-21 00:50:19 +0800
+
+    fix:python output non-buffered
+
+2	0	docker-compose.yml
+
+commit 9b0dae464a1e22f6d6112bce22e6b3044c8fa986
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-20 22:56:29 +0800
+
+    更新在docker中运行的步骤
+
+10	9	README.md
+23	9	docker-compose.yml
+
+commit eab46652b182ac6fdd3ebb87cc89a8efb3c9b96a
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-20 22:15:29 +0800
+
+    fix:利用docker缓存加速构建
+
+5	0	.dockerignore
+4	2	Dockerfile37
+
+commit e907e968f2141b3e2fd958c65c12cb7d89e28329
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-21 00:52:29 +0800
+
+    update: do update cdn list before run
+
+1	1	Dockerfile37
+
+commit b266700fcdbe08bdf0655fe5b792b96684cdb7f8
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-21 00:50:19 +0800
+
+    fix:python output non-buffered
+
+2	0	docker-compose.yml
+
+commit 33a6d7be73adaa762ce936ca0d66d151a7e0ebef
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-20 22:56:29 +0800
+
+    更新在docker中运行的步骤
+
+10	9	README.md
+23	9	docker-compose.yml
+
+commit 9c39e3dc7502eabd507ac0e41db8531d89d0cc28
+Author: Renzhi <renzhi@163.com>
+Date:   2019-12-20 22:15:29 +0800
+
+    fix:利用docker缓存加速构建
+
+5	0	.dockerignore
+4	2	Dockerfile37
+
+commit 663b07303cb9b5ee75f2e28262b0da469073a9f9
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-20 13:34:03 +0800
+
+    fix #537
+
+2	0	config/getCookie.py
+
+commit 0cfefe239d4c544ff5929c3ef057de770ace8042
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-20 13:06:49 +0800
+
+    下单优化 version update 1.2.004
+
+11	9	TickerConfig.py
+1	1	init/select_ticket_info.py
+15	8	myUrllib/httpUtils.py
+
+commit 04a2716b8e88e0b9bc67569b926730d42f0a9ae1
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-19 13:34:21 +0800
+
+    update version 1.2.003
+
+13	13	TickerConfig.py
+20	4	agency/cdn_utils.py
+4	4	init/select_ticket_info.py
+1	1	inter/GetPassCodeNewOrderAndLogin.py
+3	1	inter/Query.py
+-	-	tkcode.png
+
+commit 008c7ecd420d563a7cfbd825e74560d8ff04adaa
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-19 09:18:11 +0800
+
+    fix 候补 497
+
+2	2	inter/Query.py
+
+commit 88a19416bcfbbd625db04b381adf2b7a00e0b704
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-18 16:25:20 +0800
+
+    add open str
+
+10	10	UnitTest/TestAll.py
+371	376	filter_cdn_list
+15	12	init/select_ticket_info.py
+
+commit 7c9ad86b6c66a6a918cd58f33611d586100e9ca9
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-18 10:40:39 +0800
+
+    增加cdn
+
+2	2	TickerConfig.py
+1	1	agency/cdn_utils.py
+1	1	init/select_ticket_info.py
+
+commit 95931339dbeb2d77eb2602166edb89e784f65072
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-18 09:36:19 +0800
+
+    fix txt
+
+2	0	requirements.txt
+
+commit 4973de33c2c38ad6f0e8b3dbacff7d92201cf3e3
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-18 09:30:06 +0800
+
+    update version 1.2.002
+
+0	3	README.md
+3	3	TickerConfig.py
+5	1	agency/cdn_utils.py
+1759	1786	cdn_list
+564	0	filter_cdn_list
+4	4	init/select_ticket_info.py
+2	2	inter/AutoSubmitOrderRequest.py
+2	2	inter/ChechFace.py
+2	2	inter/GetPassengerDTOs.py
+2	2	inter/Query.py
+2	2	inter/SubmitOrderRequest.py
+
+commit 9d70f8352d024daba2e364bbef7ba72963090440
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-17 19:55:44 +0800
+
+    update version 1.2.001
+
+35	5	README.md
+12	11	TickerConfig.py
+16	0	UnitTest/TestAll.py
+64	71	agency/cdn_utils.py
+42	62	config/urlConf.py
+0	8	init/login.py
+3	38	init/select_ticket_info.py
+2	3	inter/Query.py
+1	5	requirements.txt
+24	15	run.py
+1	1	station_name.txt
+
+commit 05f14860c975c67460da7b3efb59db073d7a635f
+Author: Jingfeng Zhou <908686171@qq.com>
+Date:   2019-12-14 18:41:25 +0800
+
+    动态更新queryUrl
+    
+    初始化的时候，根据初始化的结果，动态设置queryUrl，避免每次12306官网换了queryUrl之后都要手动修改代码
+
+9	2	inter/LiftTicketInit.py
+
+commit 8258d3d910dee305d58e2f03d7b48d67f42b7da6
+Author: liubo <253620987@qq.com>
+Date:   2019-12-12 13:20:11 +0800
+
+    新增了基于Python3.7的Dockerfile
+
+2	2	TickerConfig.py
+
+commit 9bceae4798a33b71ef7c6d2a6d3791e7145b8a3b
+Author: liubo <253620987@qq.com>
+Date:   2019-12-12 13:15:19 +0800
+
+    新增了基于Python3.7的Dockerfile
+
+0	6	Dockerfile37
+
+commit 7ff3ac6d13f7878a7c7ee2fabcf3883272f90ad3
+Author: liubo <253620987@qq.com>
+Date:   2019-12-12 13:07:36 +0800
+
+    新增了基于Python3.7的Dockerfile
+
+53	0	Dockerfile37
+3	0	TickerConfig.py
+9	1	config/getCookie.py
+
+commit 39e777e7e36939241e2742ef1e0659cebae4d74a
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-12-14 17:17:51 +0800
+
+    更新查询
+
+2	2	UnitTest/TestAll.py
+1	1	config/configCommon.py
+0	4	init/login.py
+1	1	init/select_ticket_info.py
+0	1	inter/ConfirmSingleForQueue.py
+17	3	inter/GetQueueCount.py
+7	1	inter/GetQueueCountAsync.py
+8	0	inter/PassengerInitApi.py
+
+commit 1fa45c26b6d8da917b3c792d21a4ca771f59dacf
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-11-07 15:23:31 +0800
+
+    更新station
+
+1	1	station_name.txt
+
+commit 04a4a2604fc12da8fe0658b58fd2a2e49876679c
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-23 12:21:33 +0800
+
+    更新云打码地址
+
+6	6	TickerConfig.py
+
+commit 3708c4d84bf53c028de95903e7b6377252ac19f1
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-17 09:51:16 +0800
+
+    update version 1.1.117
+
+1	0	README.md
+9	10	TickerConfig.py
+2	2	UnitTest/TestAll.py
+1	1	config/getCookie.py
+0	2	inter/ChechFace.py
+12	4	myUrllib/httpUtils.py
+
+commit 0a8ae1dd08c05be06dc2148611a341aad11f9017
+Merge: df61252 96b06d5
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-17 09:36:00 +0800
+
+    Merge branch 'master' of https://github.com/testerSunshine/12306
+
+commit df6125281b57e44789fd54cea5bc3dc38577e036
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-17 09:35:52 +0800
+
+    1
+
+1	1	TickerConfig.py
+
+commit 96b06d552e85b80f6cade6ba0c95203d8a67e7bd
+Merge: 151a9a8 960c9a0
+Author: wenxianping <931128603@qq.com>
+Date:   2019-10-17 09:33:46 +0800
+
+    Merge pull request #460 from YinAoXiong/master
+    
+    使用配置文件配置云打码接口,提供云打码服务代码
+
+commit 960c9a01e7aa43f016a8d9dcf58cfaeed271e752
+Author: YinAoXiong <yinaoxiong@gmail.com>
+Date:   2019-10-17 01:31:17 +0800
+
+    使用配置文件配置云打码接口,提供云打码服务代码
+
+1	0	README.md
+9	0	TickerConfig.py
+4	4	config/urlConf.py
+
+commit 151a9a87a1339df105c94924608f9041c27326b8
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-15 11:52:34 +0800
+
+    更新配置
+
+1	1	TickerConfig.py
+
+commit 264f88a5650b87acdac459bd7ece0300d6c68bce
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-14 10:11:40 +0800
+
+    update version 116
+
+25	16	TickerConfig.py
+10	0	config/getCookie.py
+4	3	inter/AutoSubmitOrderRequest.py
+
+commit 61401f9d2b87091b74f104f67d47ab7a5e67d5e3
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-09 13:46:48 +0800
+
+    查询接口更新
+
+3	2	README.md
+22	21	config/emailConf.py
+4	3	init/select_ticket_info.py
+
+commit 2313c167e4aa91f6a4f94fe5cf137552239225ec
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-10-05 10:47:11 +0800
+
+    update tf version
+
+1	1	requirements.txt
+
+commit 78693cdd14f688c1af7e2e921e81c216517f42fc
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-30 10:06:30 +0800
+
+    云打码时间间隔调长
+
+3	3	config/urlConf.py
+
+commit b2f9ce65f199b33f4441ce8d2e33101336cc080e
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-27 17:00:18 +0800
+
+    update
+
+21	1	UnitTest/TestAll.py
+1	1	config/urlConf.py
+4	1	inter/GetRandCode.py
+2	2	verify/localVerifyCode.py
+
+commit e12a3f3897b661eab75cf698c1112c9250692efd
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-27 12:18:52 +0800
+
+    verify
+
+1	1	config/urlConf.py
+
+commit 824ad682c7e766848d4d506720442ee28ff40b8c
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-26 15:04:17 +0800
+
+    keras version
+
+1	1	requirements.txt
+
+commit d7f1172272b975a326cf8e7008d9a0342f7b2c0d
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-25 10:49:24 +0800
+
+    优化model，改为tf加载
+
+15	0	UnitTest/TestAll.py
+4	2	inter/GetRandCode.py
+73	39	verify/localVerifyCode.py
+
+commit bc337041d55aebdbd495d26d3b56d1b8ad4f9136
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-19 16:25:12 +0800
+
+    update version 1.1.115
+
+25	4	inter/ChechFace.py
+
+commit 3b97e32d96f37892f73bff4d11ef891a7ec8bece
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-18 20:31:11 +0800
+
+    候补逻辑优化
+
+9	12	TickerConfig.py
+1	1	inter/Query.py
+
+commit 0381e09bd99ad9d14476b068677deaba8e9aad01
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-18 12:46:38 +0800
+
+    优化候补逻辑
+
+14	6	inter/Query.py
+
+commit 288eeffb733c57c3b84a1c44c47dc22c4c993b74
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-18 11:47:34 +0800
+
+    删除
+
+12	17	TickerConfig.py
+
+commit 5fd9b8f8c9915e1b09eef414028886b14f431b05
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-18 09:52:55 +0800
+
+    update version 1.1.114
+
+23	18	TickerConfig.py
+4	0	Update.md
+12	2	config/urlConf.py
+9	5	init/select_ticket_info.py
+9	1	inter/GetRandCode.py
+2	2	inter/Query.py
+2	2	myUrllib/httpUtils.py
+9	9	verify/localVerifyCode.py
+11	9	verify/mlearn_for_image.py
+10	8	verify/pretreatment.py
+
+commit 399f9b6626110f929c2f84105950d67c488b9d40
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-15 08:35:31 +0800
+
+    update version 1.1.113
+
+11	7	TickerConfig.py
+5	0	Update.md
+0	1	config/getCookie.py
+3	3	config/urlConf.py
+4	3	init/select_ticket_info.py
+2	2	inter/CheckUser.py
+10	1	inter/Query.py
+2	2	myUrllib/httpUtils.py
+
+commit e200c28a62a0dffde3f97a3d1cc0e5731573c17f
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-12 16:21:37 +0800
+
+    添加群号
+
+2	2	README.md
+1	1	config/urlConf.py
+1	0	init/select_ticket_info.py
+
+commit baf7137ddc466f393571dc05608d6fafdd19a229
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-12 12:36:13 +0800
+
+    add txt
+
+2	1	requirements.txt
+
+commit 0bb941364b9f831bcfb7026d80f087ef102cf276
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-12 12:34:51 +0800
+
+    update version 1.1.112
+
+4	1	TickerConfig.py
+10	0	UnitTest/TestAll.py
+17	6	myUrllib/httpUtils.py
+
+commit fc2028c0cf15e0aa0cebc6244732859c39b8a57f
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-11 19:43:49 +0800
+
+    .
+
+0	1	inter/Query.py
+
+commit 9b97c0e6b95181a3dd979252036e186fed53ed7c
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-11 19:41:09 +0800
+
+    update version 1.1.111
+
+3	2	README.md
+7	5	TickerConfig.py
+4	3	inter/CheckUser.py
+
+commit 7fa578762b9f7cdbd7bd9d4862ac68035cbb48ca
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 20:06:51 +0800
+
+    update version 1.1.110
+
+0	1	.gitignore
+-	-	12306.image.model.h5
+5	7	TickerConfig.py
+-	-	model.v2.0.h5
+
+commit ebe3c721c1eb8ed8d3ab6eac467c44bff50dfc1f
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 15:33:35 +0800
+
+    station_name update
+
+1	1	station_name.txt
+
+commit c9e9392f62c8914bb9e3407fe0867dd02b8b793f
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 14:21:56 +0800
+
+    fix ticket more
+
+1	1	inter/Query.py
+
+commit dad76820cbeb454de6a8fd9d8c15757aa96b3583
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 14:11:15 +0800
+
+    部提交SERVER_CHAN_CONF
+
+5	4	TickerConfig.py
+
+commit 75da2b8c341b2948a91241b26614dda1b0fabb1c
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 13:54:30 +0800
+
+    修复查询302，version 1.1.109
+
+9	11	TickerConfig.py
+5	0	config/getCookie.py
+1	1	config/urlConf.py
+1	1	init/login.py
+4	2	init/select_ticket_info.py
+1	0	inter/Query.py
+4	1	myUrllib/httpUtils.py
+
+commit 6d7728b5a13875cd16e903ddcc22565a0ca2023e
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 10:42:30 +0800
+
+    chrome 去除无头浏览器，会导致devicesID无效
+
+3	3	config/getCookie.py
+
+commit ca7e95b96600bb11e7993919df817322edf75ac1
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-10 10:10:02 +0800
+
+    增加群
+
+2	2	README.md
+2	2	init/select_ticket_info.py
+
+commit 2e1f94dbb9154e48537f3f5c35c37f0d5ccb83dc
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-09 19:33:23 +0800
+
+    删除PushBear
+
+5	5	README.md
+0	6	TickerConfig.py
+0	8	UnitTest/TestAll.py
+0	2	inter/GetQueueCount.py
+0	3	inter/QueryOrderWaitTime.py
+0	5	run.py
+
+commit 823cddaeaf79a80aca515fa676345b358f79b05d
+Merge: 05f9bb1 a89b918
+Author: wenxianping <931128603@qq.com>
+Date:   2019-09-09 16:23:29 +0800
+
+    Merge pull request #328 from jasonqiao36/add-ServerChan
+    
+    Add server chan
+
+commit 05f9bb1bbd61d096c4697ea7611ae0f285ad2cd9
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-09 14:26:18 +0800
+
+    漏提交文件
+
+29	0	inter/PassengerInitApi.py
+
+commit dba8fe0a5394eff5477a93c148bbddaef240eb88
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-09 14:16:51 +0800
+
+    优化候补逻辑
+    version 1.1.108
+
+6	10	TickerConfig.py
+3	0	Update.md
+11	0	config/urlConf.py
+1	1	init/select_ticket_info.py
+3	2	inter/ConfirmHB.py
+4	2	inter/SubmitOrderRequest.py
+
+commit 8db4252d90c85007aa545c31843934d10245ee0f
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-09 11:02:49 +0800
+
+    修改登录频次为3次
+
+1	1	config/urlConf.py
+
+commit 414c9f7d24e6a62d330179a24c8799041e302fec
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-09 11:02:19 +0800
+
+    修改登录频次
+
+2	2	config/urlConf.py
+
+commit 111321f12fd10d3566c97853f9023e864bb4d6f2
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-09 10:54:05 +0800
+
+    修改GD 无座问题
+    version 1.1.107
+
+6	8	TickerConfig.py
+2	0	inter/Query.py
+
+commit a89b918f98ee58c64bccf33294a199088c060569
+Author: jasonqiao36 <jasonqiao36@gmail.com>
+Date:   2019-09-08 18:46:01 +0800
+
+    增加 server酱通知
+
+1	2	UnitTest/TestAll.py
+2	0	inter/GetQueueCount.py
+3	0	inter/QueryOrderWaitTime.py
+
+commit 7a4b56ba91e5b0630ff5264ec68156b12cdd514f
+Author: jasonqiao36 <jasonqiao36@gmail.com>
+Date:   2019-09-08 18:34:45 +0800
+
+    增加 server酱通知
+
+7	0	TickerConfig.py
+10	0	UnitTest/TestAll.py
+36	0	config/serverchanConf.py
+13	0	config/urlConf.py
+6	1	run.py
+
+commit eb42e0d95fe4adb91c9bfdcbda46f0e215ff8ce8
+Merge: 7a26f84 2277c68
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-07 11:37:04 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       TickerConfig.py
+
+commit 7a26f8447a7d6b9fbeead349f2377fb26461b760
+Author: xianping.wen <931128603@qq.com>
+Date:   2019-09-07 11:36:12 +0800
+
+    优化候补逻辑
+
+10	9	TickerConfig.py
+4	0	Update.md
+1	1	config/configCommon.py
+2	2	init/select_ticket_info.py
+6	1	inter/ChechFace.py
+1	1	inter/CheckUser.py
+13	18	inter/Query.py
+
+commit 4f7d9807eb5ceb5e757b46187b915803f7e074aa
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-05 14:51:14 +0800
+
+    2019年09月05日14:51:10
+
+1	1	TickerConfig.py
+
+commit 2277c686cbde31121970f4171b9d7c1dd7770553
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-05 14:51:14 +0800
+
+    2019年09月05日14:51:10
+
+1	1	TickerConfig.py
+
+commit ad55d8f709af8cc67f5cce7ca11fb5727003d0b5
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-05 14:48:00 +0800
+
+    add selenium config
+
+9	5	TickerConfig.py
+162	13	config/getCookie.py
+1	136	init/login.py
+1	1	init/select_ticket_info.py
+3	2	myUrllib/httpUtils.py
+1	0	requirements.txt
+
+commit c97b774e85bf10caff0b71af66658232be44b698
+Merge: f86f487 0b1a72e
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-05 11:45:03 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f86f4877cc31d250fa913262207b0734731c00a5
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-05 11:44:02 +0800
+
+    print 302 log and update version 1.1.105
+
+3	3	TickerConfig.py
+1	1	config/configCommon.py
+1	0	myUrllib/httpUtils.py
+
+commit 0b1a72e09557699c810c73488100f54df0084aec
+Author: wenxianping <931128603@qq.com>
+Date:   2019-09-05 11:19:47 +0800
+
+    Update issue templates
+
+1	1	.github/ISSUE_TEMPLATE/bug_report.md
+
+commit f970b3e73e2591727459148fa624327b8ff563a8
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-04 14:44:33 +0800
+
+    .
+
+2	2	README.md
+10	12	TickerConfig.py
+
+commit fd379e7c8441b00fc611b3090721dff849b085b1
+Merge: ba618e1 00eaf22
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-04 13:10:02 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit ba618e1c43790793f9f723c45ef6e6c73f3325c1
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-04 13:09:46 +0800
+
+    update reademe
+
+12	8	README.md
+9	8	TickerConfig.py
+0	0	utils/__init__.py
+0	14	utils/timeUtil.py
+
+commit 00eaf22be4fb2ecde4915a69e1528f452c45b5ce
+Author: wenxianping <931128603@qq.com>
+Date:   2019-09-04 12:26:51 +0800
+
+    Update issue templates
+
+26	0	.github/ISSUE_TEMPLATE/bug_report.md
+20	0	.github/ISSUE_TEMPLATE/feature_request.md
+
+commit fc546ecadb164e44654579ad32b184952da5b77b
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-04 09:23:14 +0800
+
+    update version 1.1.104
+
+8	8	TickerConfig.py
+1	1	config/configCommon.py
+
+commit fb85c552542f2fa7e8099d4a1b71d0260990ae60
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-04 09:20:25 +0800
+
+    fix module session cache！！！
+
+2	1	verify/localVerifyCode.py
+
+commit b6e1f6d0719a33399d3148564fc102a71599c300
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-03 15:06:37 +0800
+
+    update version 1.1.103
+
+0	4	README.md
+15	16	TickerConfig.py
+0	1	requirements.txt
+
+commit 9c355e22d735a5b8187a2b398f7315ff8c82d114
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-03 15:00:07 +0800
+
+    add model git
+
+1	0	README.md
+
+commit 499f0fbda7e86a0f5433ea0fc51a1285e315f4d7
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-03 14:54:01 +0800
+
+    fix login
+
+16	14	TickerConfig.py
+1	1	config/urlConf.py
+139	0	init/login.py
+3	2	init/select_ticket_info.py
+19	18	inter/Query.py
+3	4	myUrllib/httpUtils.py
+0	78	verify/ruokuai.py
+
+commit 8a68530f38eb8109d0cd7c07552e85af1b535680
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-03 11:49:42 +0800
+
+    fix nate
+
+4	0	inter/ConfirmHB.py
+1	1	inter/GetQueueCount.py
+1	1	myUrllib/httpUtils.py
+
+commit 632c77388c3846bc20d82b5de29073a841eb8fb8
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-03 11:08:53 +0800
+
+    fix image code
+
+5	6	TickerConfig.py
+3	0	inter/GetPassCodeNewOrderAndLogin.py
+
+commit 6d9ebc9b8acf78c55c93127396ed63583abe7353
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-03 09:38:14 +0800
+
+    优化候补逻辑
+
+9	4	TickerConfig.py
+5	0	Update.md
+5	14	init/select_ticket_info.py
+1	1	inter/ChechFace.py
+3	4	inter/Query.py
+1	1	inter/SubmitOrderRequest.py
+
+commit 28c3b37cbe823c4fbb4c51d11c820eb085fbfe7e
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 20:19:24 +0800
+
+    改为自动候补+下单
+
+26	24	TickerConfig.py
+5	0	Update.md
+5	4	init/select_ticket_info.py
+3	3	inter/GetPassengerDTOs.py
+34	13	inter/Query.py
+
+commit d31171ea29239320c353211330f76fd742b206d6
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 17:20:00 +0800
+
+    fix 3.7 email host
+
+1	1	config/emailConf.py
+
+commit 36e60d6082b200adb496a0dc96e0ba02c1573157
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 17:04:12 +0800
+
+    候补人脸核验校验
+
+9	10	TickerConfig.py
+7	0	inter/ChechFace.py
+
+commit ae830e7a1e4dc73284e3963a9973ff848cf3b287
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 15:27:09 +0800
+
+    .
+
+16	12	TickerConfig.py
+
+commit 689e018f543529783d26a1067ef6f19f9f864d95
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 15:21:06 +0800
+
+    pushbear conf fix
+
+1	1	README.md
+2	2	config/pushbearConf.py
+
+commit 66b43cfc1db78a8f4388b927735791356963e248
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 11:21:04 +0800
+
+    fix to_station
+
+1	1	init/select_ticket_info.py
+
+commit 07b34141ae99736c204004bde549d71a1b5c348f
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 11:10:36 +0800
+
+    ==
+
+1	1	requirements.txt
+
+commit a651c44f381512a36fe6e78828b15ae0f8683088
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-02 11:04:03 +0800
+
+    win selenium config
+
+1	0	README.md
+
+commit ed3433b4738e618ba30cb777207d303ea2b96b98
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-01 21:15:28 +0800
+
+    add requirements
+
+2	1	requirements.txt
+
+commit 45f511231c6b8df8d4cc92fc6b2edf8ca48f801e
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-01 14:45:32 +0800
+
+    fix
+
+9	9	TickerConfig.py
+
+commit 7f711d02a69da1e04d66a680a9390d1a9b7185ec
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-01 14:41:37 +0800
+
+    fix login 302
+
+4	5	README.md
+14	11	TickerConfig.py
+22	0	config/getCookie.py
+3	19	init/login.py
+2	1	init/select_ticket_info.py
+4	3	myUrllib/httpUtils.py
+
+commit 363bce660e723ecef31b44ee60f6f1d4dfce7c66
+Merge: 808c302 4cd6cdc
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-01 12:41:43 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 808c30208865ee23521c812057449456766b7d1a
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-01 12:41:25 +0800
+
+    新增候补功能
+
+1	0	.gitignore
+3	3	README.md
+119	0	TickerConfig.py
+0	1	UnitTest/TestAll.py
+6	0	Update.md
+2	1	config/TicketEnmu.py
+25	31	config/emailConf.py
+3	7	config/pushbearConf.py
+0	23	config/ticketConf.py
+0	142	config/ticket_config.yaml
+62	1	config/urlConf.py
+3	4	init/login.py
+61	114	init/select_ticket_info.py
+1	2	inter/AutoSubmitOrderRequest.py
+37	0	inter/ChechFace.py
+43	0	inter/ConfirmHB.py
+1	2	inter/ConfirmSingleForQueue.py
+30	22	inter/GetPassengerDTOs.py
+31	4	inter/GetQueueCount.py
+4	4	inter/GetQueueCountAsync.py
+1	8	inter/GetRandCode.py
+41	0	inter/GetSuccessRate.py
+71	94	inter/Query.py
+42	3	inter/SubmitOrderRequest.py
+-	-	tkcode.png
+
+commit 4cd6cdc1d9077398bcfdaaa9e89b1b3585187826
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-09-01 09:00:06 +0800
+
+    修复下单过期问题
+
+1	1	init/select_ticket_info.py
+
+commit c5c9450ef58b56998510b9cedec21e6edadc3461
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-08-31 15:51:09 +0800
+
+    fix 下单失败问题 #288
+
+0	33	GuiHelp.md
+4	9	README.md
+5	0	Update.md
+2	3	init/login.py
+1	1	init/select_ticket_info.py
+-	-	tkcode.png
+-	-	uml/mac1.png
+-	-	uml/mac2.png
+
+commit 1d585f53ef1e3f9e5a470469a0bed4a17eee6c07
+Merge: 94e1414 fe2d38b
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-08-31 15:39:04 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       config/ticket_config.yaml
+
+commit 94e141429324c989f2b1d77dbd6dcc116dc119ed
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-08-31 15:38:02 +0800
+
+    fix 不能下单问题
+
+1	0	.gitignore
+26	17	config/ticket_config.yaml
+8	6	init/login.py
+3	3	inter/CheckOrderInfo.py
+2	2	inter/GetPassengerDTOs.py
+1	1	inter/GetQueueCountAsync.py
+
+commit fe2d38bda89a9060a53231b9fa20618ce0b70437
+Merge: 43991c4 22dde67
+Author: wenxianping <931128603@qq.com>
+Date:   2019-08-31 15:33:17 +0800
+
+    Merge pull request #290 from fuergaosi233/patch-1
+    
+    Update README.md
+
+commit 43991c4ce4f54a74baffc82f86bf74664574a17b
+Merge: 5e378c8 48a3344
+Author: wenxianping <931128603@qq.com>
+Date:   2019-08-31 15:32:57 +0800
+
+    Merge pull request #286 from BlancRay/master
+    
+    更新ReadMe和config/ticket_config.yaml
+
+commit 22dde676df2edf319d102f216708098852e3c4a4
+Author: Holegots <www3631655@outlook.com>
+Date:   2019-08-22 13:42:17 +0800
+
+    Update README.md
+    
+    修复错别字
+
+1	1	README.md
+
+commit 48a3344c63a808457c19c2f4b9cd38f8edba643d
+Author: Blanc Ray <9410067+BlancRay@users.noreply.github.com>
+Date:   2019-08-15 10:41:13 +0800
+
+    update readme
+
+5	6	README.md
+
+commit c4c5fe0f59c1805f5ccb12d19a475f7b175512d7
+Author: Blanc Ray <9410067+BlancRay@users.noreply.github.com>
+Date:   2019-08-15 10:24:43 +0800
+
+    remove ruokuai, use AI model instead
+
+1	3	config/ticket_config.yaml
+
+commit d47c83aaa65cfb21627d2f62cec099be5afd39ab
+Author: Blanc Ray <9410067+BlancRay@users.noreply.github.com>
+Date:   2019-08-15 10:21:26 +0800
+
+    Update readme
+
+11	11	README.md
+
+commit 5e378c80488882d6a315e7fd014fa5d03f0b2b16
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-06-17 13:40:50 +0800
+
+    fix python3 requirement.txt yaml version error
+
+2	2	requirements.txt
+
+commit f50e5971929f843616a002d2ab96721665030a2e
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-06-13 11:37:16 +0800
+
+    1. fix yaml error
+    2. fix model load path error
+
+2	4	README.md
+2	4	config/ticketConf.py
+2	2	requirements.txt
+7	2	verify/localVerifyCode.py
+
+commit 6fa4020593497555321bac9e89b963edbdbcf830
+Merge: 1f503cb a3bdb1c
+Author: wenxianping <931128603@qq.com>
+Date:   2019-06-11 19:51:27 +0800
+
+    Merge pull request #271 from taochenlove/master
+    
+    fix warning:YAMLLoadWarning: calling yaml.load() without Loader=... i…
+
+commit 1f503cb2d9a29a724ec04fd73daa7998a4050937
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-06-11 19:24:01 +0800
+
+    requ add
+
+7	0	requirements.txt
+
+commit d0d552a5af7152651e9a524fa73c6b4bb414b698
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-06-11 19:22:45 +0800
+
+    add verify code
+
+-	-	uml/REIL_DEVICEID.png
+75	0	verify/localVerifyCode.py
+92	0	verify/mlearn_for_image.py
+100	0	verify/pretreatment.py
+
+commit bd30d7e4570f33223aae11f37095025149da03e4
+Author: 文贤平 <jim.wen@huolala.cn>
+Date:   2019-06-11 19:21:11 +0800
+
+    更新浏览器标识
+    新增本地识别
+
+0	51	.idea/inspectionProfiles/Project_Default.xml
+0	14	.idea/workspace.xml
+29	23	README.md
+3	0	Update.md
+1	1	config/urlConf.py
+2	12	init/login.py
+4	4	inter/CheckUser.py
+9	13	inter/GetRandCode.py
+0	1	myUrllib/httpUtils.py
+1	1	requirements.txt
+-	-	tkcode.png
+0	0	{damatuCode => verify}/__init__.py
+0	0	{damatuCode => verify}/ruokuai.py
+
+commit a3bdb1c96cafe094b9179dd2fd4ccc3c6d18d121
+Author: mlhl <447181856@qq.com>
+Date:   2019-05-07 11:06:34 +0800
+
+    fix warning:YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe
+
+2	2	config/ticketConf.py
+
+commit fd2f691ce3a539c460ecbabc79f4f7af8591f43b
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-23 20:20:19 +0800
+
+    更新登录302问题 # 263 # 264
+
+1	1	README.md
+3	0	Update.md
+1	1	config/urlConf.py
+
+commit 986db2386c577fbcd31b596bc634701d325a4642
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-15 21:28:54 +0800
+
+    fix md
+    打印重试日志
+
+0	12	.idea/12306.iml
+0	7	.idea/misc.xml
+5	930	.idea/workspace.xml
+3	4	README.md
+1	0	myUrllib/httpUtils.py
+
+commit 5f4f5d0fd55b5c41a215b8bcc4f9195041a6d01b
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-07 22:30:28 +0800
+
+    修复跨天时间计算问题 #256
+
+17	10	inter/Query.py
+
+commit 370bc161eca653270c01b3bb168ea6c12f0bf29f
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-07 22:02:19 +0800
+
+    CVE-2017-18342
+
+1	1	requirements.txt
+
+commit 2a7c84f210e9e46a16f9ee72508d0d044af71356
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-04 22:52:00 +0800
+
+    修复python3保存图片编码问题
+
+1	2	config/urlConf.py
+3	2	init/login.py
+2	1	inter/GetPassCodeNewOrderAndLogin.py
+
+commit 7674929eef7f345fd7534640ea5aeca76f343e5b
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-03 23:31:48 +0800
+
+    LICENSE
+
+21	0	LICENSE
+
+commit ccde952432d5dd1f25f46c2ff01a8ff5ded52cf8
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-03 23:29:50 +0800
+
+    修复登录失效问题 #253
+
+3	3	README.md
+1	1	UnitTest/TestAll.py
+66	6	config/urlConf.py
+19	0	damatuCode/ruokuai.py
+50	20	init/login.py
+38	1	inter/GetPassCodeNewOrderAndLogin.py
+2	1	inter/GetRandCode.py
+1	1	myUrllib/MySocketUtils.py
+2	0	myUrllib/httpUtils.py
+
+commit 8a39a1753c92bec88d3a80b8da41562b6b1f2980
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-01 22:04:43 +0800
+
+    update REAME.md
+
+41	34	README.md
+3	0	Update.md
+
+commit b4c6c4f85888eb3ef1eb205b087037183fd24489
+Author: wenxianping <931128603@qq.com>
+Date:   2019-04-01 21:29:44 +0800
+
+    增加无需验证码登录接口
+
+89	13	config/urlConf.py
+20	11	init/login.py
+20	0	inter/LoginAysnSuggest.py
+22	0	inter/LoginConf.py
+
+commit 85b2e48330c14419e50bca63ca2eeaa233afe522
+Author: wenxianping <931128603@qq.com>
+Date:   2019-03-27 14:40:04 +0800
+
+    query url fix
+
+0	0	damatuCode/ruokuai.py
+1	1	init/select_ticket_info.py
+
+commit aa546ac692cc9348affaf5c8e192c16a093b0446
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-24 17:59:21 +0800
+
+    修改时间兼容性
+
+30	21	config/configCommon.py
+3	3	init/select_ticket_info.py
+1	1	inter/Query.py
+
+commit 35ec27b7d733eb3ad939761c42af1ffb0356470d
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-24 09:38:43 +0800
+
+    改为7点运行
+
+3	3	config/configCommon.py
+
+commit e2c645f7f724fd1f11044aceda2848f1af90d3bb
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-23 12:28:41 +0800
+
+    自动切换ip说明
+
+2	2	README.md
+2	2	init/select_ticket_info.py
+2	2	inter/GetPassCodeNewOrderAndLogin.py
+3	2	myUrllib/httpUtils.py
+
+commit ed4e4dc688ee649f0a1e46cfe22f9fe0bb7b9835
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-21 16:25:30 +0800
+
+    自动切换ip说明
+
+2	1	README.md
+
+commit 598c4e2a912636af90e89048dfc69d61e7094fbc
+Merge: 27b0b84 934e5ff
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-21 15:56:20 +0800
+
+    Merge pull request #191 from RoboticPA/fix-testEmail
+    
+    修复测试代码运行时，测试代码运行报编码错误
+
+commit 27b0b84e29da0d058448e0aedc39b9532318705d
+Merge: ae91368 5e80ddd
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-20 21:04:11 +0800
+
+    Merge pull request #214 from zunsthy/patch-1
+    
+    fix spelling error
+
+commit 5e80ddd5b911c9c8c2da7e1f3e67903b0ea2bd0b
+Author: ZunSThy <zunsthy@users.noreply.github.com>
+Date:   2019-01-17 19:51:40 +0800
+
+    fix spelling error
+
+1	1	README.md
+
+commit ae91368a261558ef4d572d825161fc011797c045
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-17 17:37:36 +0800
+
+    fix
+
+1	1	config/pushbearConf.py
+4	4	init/login.py
+
+commit 8458017498b05fdfe78f003e26e04b02bf0c6402
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-17 15:33:10 +0800
+
+    fix
+
+1	1	agency/agency_tools.py
+1	1	agency/cdn_utils.py
+1	1	config/ticketConf.py
+1	1	init/select_ticket_info.py
+1	1	inter/GetPassCodeNewOrderAndLogin.py
+
+commit 33322cc47289289f73b8839c8ec94b3cff99e594
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-17 10:06:23 +0800
+
+    fix
+
+1	1	config/ticket_config.yaml
+
+commit 1b42e74e35b4b8c19c721dab94a81d660e522f00
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 22:28:49 +0800
+
+    fix
+
+4	4	config/ticket_config.yaml
+
+commit 3b70cdf0b7be6f4571463ac176c70bbdb95c8236
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 22:15:19 +0800
+
+    fix
+
+1	1	README.md
+0	1	init/login.py
+
+commit 89ae08d130131ce06a7f4ab905b3750087783bd9
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 21:20:56 +0800
+
+    修改gbk编码错误
+
+13	6	agency/agency_tools.py
+15	6	agency/cdn_utils.py
+15	0	config/configCommon.py
+8	3	config/ticketConf.py
+7	9	config/ticket_config.yaml
+0	123	damatuCode/damatuWeb.py
+6	2	init/select_ticket_info.py
+6	1	inter/GetPassCodeNewOrderAndLogin.py
+
+commit 034681619d5656f393d6b895d8b15109df9e9a40
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 14:37:46 +0800
+
+    readme
+
+4	1	README.md
+
+commit 311708026b6ddc151bb60e12b3c7d1a74f9f3cce
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 14:01:34 +0800
+
+    help
+
+-	-	uml/mac1.png
+-	-	uml/mac2.png
+-	-	"uml/\347\231\273\345\275\225.png"
+-	-	"uml/\347\250\213\345\272\217\344\270\273\347\225\214\351\235\242.png"
+
+commit 810dbfadeaa66db35372071c2b5b0deae22e8f6f
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 13:48:27 +0800
+
+    增加server酱测试方法
+
+7	1	run.py
+
+commit 6e78ccdb6eade427d878dd94d4e80acd5a2bb8d9
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 13:24:56 +0800
+
+    fix
+
+243	138	.idea/workspace.xml
+33	0	GuiHelp.md
+1	1	README.md
+1	1	Update.md
+12	0	config/urlConf.py
+1	1	inter/GetPassengerDTOs.py
+1	1	inter/Query.py
+
+commit ba7e9f59064cec93835e699dbea33a40bf848022
+Merge: e736b0f e0fee69
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 11:19:41 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit e736b0fd23f51046f454989ed5b34bbeac830861
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-16 11:19:32 +0800
+
+    fix
+
+358	129	.idea/workspace.xml
+4	3	README.md
+6	0	Update.md
+8	1	config/emailConf.py
+18	4	config/pushbearConf.py
+3	3	init/select_ticket_info.py
+1	1	myUrllib/httpUtils.py
+
+commit 934e5ffd6a47f189babf2f0eb458661a812ad18d
+Author: fbigun <olutyo@gmail.com>
+Date:   2019-01-14 22:35:36 +0800
+
+    修复测试代码运行时，测试代码运行报编码错误
+
+1	1	UnitTest/TestAll.py
+
+commit e0fee69e52befb0c98b1a874784b71afe48c90af
+Merge: 524c48a 0ecd1bd
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-15 17:16:11 +0800
+
+    Merge pull request #195 from MonsterTan/master
+    
+    docker update
+
+commit 0ecd1bdfe36b5dbd0ba94dbaed7a368cb9894321
+Author: tan <447542994@qq.com>
+Date:   2019-01-15 16:39:02 +0800
+
+    update readme
+
+6	8	README.md
+
+commit 77b6e327d47ad81f12716284dfc93baf2339bbc5
+Author: tan <447542994@qq.com>
+Date:   2019-01-15 16:38:38 +0800
+
+    根据一些使用者反馈，修改权限参数。修改时间配置
+
+2	1	docker-compose.yml
+
+commit c9bdc8cd14a016e630fafd5a83a0cab54b1e0270
+Author: tan <447542994@qq.com>
+Date:   2019-01-15 16:36:58 +0800
+
+    add docker install script
+
+45	0	docker_install_centos.sh
+
+commit 1fa7d11187d2effa403af48f589a6a0c8a158e72
+Merge: 1deb2b2 524c48a
+Author: MonsterTan <447542994@qq.com>
+Date:   2019-01-15 16:18:26 +0800
+
+    Merge pull request #4 from testerSunshine/master
+    
+    merge
+
+commit 524c48a496ad9fd510108b02c53efc8759257b86
+Merge: c27f3c5 734b555
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-14 18:21:32 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       .idea/12306.iml
+    #       .idea/inspectionProfiles/Project_Default.xml
+    #       .idea/misc.xml
+    #       .idea/workspace.xml
+
+commit c27f3c57c3eef6227cf78a08e2cc45015e3f48f2
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-14 18:20:34 +0800
+
+    rm idea
+
+1	1	.idea/12306.iml
+3	1	.idea/inspectionProfiles/Project_Default.xml
+1	1	.idea/misc.xml
+97	534	.idea/workspace.xml
+
+commit 2327d4e32331905f59b5651a9d2f126a58070591
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-14 18:13:00 +0800
+
+    更新群号
+
+3	1	README.md
+8	1	init/select_ticket_info.py
+
+commit 734b555b01ad0674ccd10144f327fc6164e7d488
+Merge: 3fd25c3 c7ca150
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-14 17:17:12 +0800
+
+    Merge pull request #187 from ferried/master
+    
+    remove settings of Interlij Idea
+
+commit c7ca1507325939830c320cd7c25d9f127f69857c
+Author: ferried <harlancui@outlook.com>
+Date:   2019-01-14 11:27:09 +0800
+
+    remove settings of Interlij Idea
+
+0	12	.idea/12306.iml
+0	49	.idea/inspectionProfiles/Project_Default.xml
+0	8	.idea/markdown-exported-files.xml
+0	72	.idea/markdown-navigator.xml
+0	3	.idea/markdown-navigator/profiles_settings.xml
+0	7	.idea/misc.xml
+0	8	.idea/modules.xml
+0	6	.idea/vcs.xml
+0	1042	.idea/workspace.xml
+
+commit 2f071287a49ea30ff72c446f0d13c6500c01b1d5
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-14 09:46:33 +0800
+
+    修改已知bug
+    issues：https://github.com/testerSunshine/12306/issues/177
+
+2	0	README.md
+3	2	config/configCommon.py
+13	12	config/ticket_config.yaml
+5	0	init/select_ticket_info.py
+1	1	inter/Query.py
+
+commit 3fd25c39259abd1ef2bc6adaf46363f5de3ffab0
+Merge: 941cbe6 6c78809
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-14 09:21:43 +0800
+
+    Merge pull request #152 from stormeyes/master
+    
+    添加 pushbear 微信通知的能力
+
+commit 941cbe6831f2ce6af7fbb19b9411929ef4f4f3d9
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-12 21:28:46 +0800
+
+    修复循环断掉的bug
+
+1	0	README.md
+118	118	init/select_ticket_info.py
+
+commit 419c07409b3ec3047cecc3b4fbb5cf8c333533d3
+Merge: 271beb0 856a4de
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-12 17:49:10 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 271beb01700070e0342fc35588f4492fb881c49a
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-12 17:47:37 +0800
+
+    readme
+
+6	1	README.md
+1	1	init/select_ticket_info.py
+1	1	inter/ConfirmSingleForQueue.py
+
+commit 856a4de2f15d11577a8eb28fab74519c0f32487a
+Merge: c68cc01 ced815e
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-12 15:44:37 +0800
+
+    Merge pull request #167 from fbigun/Feature-dockerignore
+    
+    增加docker忽略文件，减少不必要的文件打包
+
+commit c68cc016e04259d2bba36d96bc74377df071e66e
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-12 15:26:02 +0800
+
+    增加余票不足优先提交功能
+
+3	2	README.md
+3	0	Update.md
+1	1	agency/cdn_utils.py
+7	7	config/AutoSynchroTime.py
+22	10	config/urlConf.py
+4	1	damatuCode/ruokuai.py
+129	125	init/select_ticket_info.py
+4	1	inter/AutoSubmitOrderRequest.py
+11	6	inter/GetPassengerDTOs.py
+5	1	inter/GetQueueCount.py
+5	1	inter/GetQueueCountAsync.py
+1	1	inter/Query.py
+5	2	inter/SubmitOrderRequest.py
+
+commit ced815e7c236d998c469df8f13c615443e51903d
+Author: fbigun <olutyo@gmail.com>
+Date:   2019-01-12 14:54:22 +0800
+
+    增加docker忽略文件，减少不必要的文件打包
+
+9	0	.dockerignore
+
+commit 6c78809b4fef4d0fba4fd0a4690c9832cd3a5a49
+Author: kongkongyzt <kongkongyzt@gmail.com>
+Date:   2019-01-11 01:14:48 +0800
+
+    remove tail whitespace
+
+1	1	UnitTest/TestAll.py
+
+commit 3da74df99c8c1548ff90a9a488c19e9253d71c7c
+Author: kongkongyzt <kongkongyzt@gmail.com>
+Date:   2019-01-11 01:11:18 +0800
+
+    remove tail whitespace
+
+1	1	config/pushbearConf.py
+
+commit 1c5ba95ff879154e9e8d75a6e54b3a02099be5a5
+Author: kongkongyzt <kongkongyzt@gmail.com>
+Date:   2019-01-11 00:41:41 +0800
+
+    添加测试用例， 完善pushbear代码
+
+8	0	UnitTest/TestAll.py
+26	0	config/pushbearConf.py
+5	0	config/ticket_config.yaml
+3	0	inter/QueryOrderWaitTime.py
+-	-	tkcode.png
+
+commit bc88a9e067c67a6efc68d8e349d1a8206773da21
+Author: kongkongyzt <kongkongyzt@gmail.com>
+Date:   2019-01-11 00:24:45 +0800
+
+    添加pushbear微信通知推送
+
+0	0	config/pushbearConf.py
+
+commit 109967ca70884e85b926605e94e50bf5d6df1b59
+Merge: d933e07 1deb2b2
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-10 12:39:19 +0800
+
+    Merge pull request #142 from MonsterTan/master
+    
+    新增docker-compose功能模块
+
+commit 1deb2b2d8aca030d44e927ee7807a32e26a38628
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 11:25:14 +0800
+
+    update readme
+
+5	5	README.md
+
+commit 543cbe34dd129bc01958f264ffe9d72e5d5431e8
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 11:22:43 +0800
+
+    update
+
+1	1	README.md
+
+commit f59eb0ab0c1fa5933f403b53b7e3abb8d9bf484c
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 11:21:42 +0800
+
+    update readme
+
+3	3	README.md
+
+commit a699ff49c99a207fa52df6658ed4dddfc688f6b3
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 11:18:18 +0800
+
+    add docker.sh logs function
+
+4	2	docker.sh
+
+commit 8fbb53c6738958c35fc5f01d6383765437004f35
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 11:17:54 +0800
+
+    modified readme file for adding docker-compose profile
+
+12	3	README.md
+
+commit f4eb73585afdb13cfbcaace5349b498312e3ec0f
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 10:55:35 +0800
+
+    update docker-compose files
+
+1	0	docker-compose.yml
+
+commit 9fa568e93b84a16ac043d518cd9bf593963580f1
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 10:55:20 +0800
+
+    update Dockerfile file
+
+14	3	Dockerfile
+
+commit 5eac8415aa5f0eb7e201dc36df3f5020fcb6f9b9
+Merge: 221d9e2 cf2c6bf
+Author: tan <447542994@qq.com>
+Date:   2019-01-10 10:06:10 +0800
+
+    Merge branch 'master' of github.com:MonsterTan/12306
+
+commit cf2c6bf4864dbd8b6cd2e93e0f476154028b17e0
+Merge: 5e501a2 d933e07
+Author: MonsterTan <447542994@qq.com>
+Date:   2019-01-10 10:04:49 +0800
+
+    Merge pull request #3 from testerSunshine/master
+    
+    update
+
+commit d933e07dc46855e14e53a7e869a526eb40c25392
+Merge: fc675d5 c7f0861
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-10 09:52:46 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit fc675d57e82fdf02f82d30f3d69effd76e7ee3fd
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-10 09:52:19 +0800
+
+    增加cdn
+
+1350	1	cdn_list
+
+commit c7f0861d3807369118e72e10c6f7d90e3c4e747f
+Merge: f2c0839 f4f0e7d
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-09 19:15:43 +0800
+
+    Merge pull request #134 from wosenbo/master
+    
+    添加新的座位类型和配置说明
+
+commit 221d9e25a4d4945109448057a4ae0d800fdec694
+Merge: 0d56103 5e501a2
+Author: tan <447542994@qq.com>
+Date:   2019-01-09 17:40:08 +0800
+
+    Merge branch 'master' of github.com:MonsterTan/12306
+
+commit 0d561034eb5c8b52495b75823a7c590c3133bfd3
+Merge: 99ec619 fe1ea37
+Author: tan <447542994@qq.com>
+Date:   2019-01-09 17:38:30 +0800
+
+    update docker-compose
+
+commit 5e501a2423aa7185f82cfd6300ea0f437fb4ae6a
+Merge: 99ec619 f2c0839
+Author: MonsterTan <447542994@qq.com>
+Date:   2019-01-09 17:37:31 +0800
+
+    Merge pull request #2 from testerSunshine/master
+    
+    update
+
+commit f4f0e7dfb3ac617c5148ccfd1558a01d5d706c68
+Author: paul <>
+Date:   2019-01-09 16:45:49 +0800
+
+    完善动卧座位相关判断
+
+1	0	config/configCommon.py
+1	0	inter/GetPassengerDTOs.py
+
+commit 25c33e413ed95ab4778f52638fcab3e17946cff5
+Author: paul <>
+Date:   2019-01-09 15:18:59 +0800
+
+    增加座位类型：动卧
+
+1	0	config/ticket_config.yaml
+1	0	inter/Query.py
+
+commit 500139ae596f767ff980cc4431a8eee7f6bc6555
+Author: paul <>
+Date:   2019-01-09 14:14:40 +0800
+
+    添加可选座位提示，方便用户填写
+
+7	1	config/ticket_config.yaml
+
+commit f2c083997d1ec9e312838f81b46b72852ca6d13b
+Merge: ad80669 542db36
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-08 18:38:10 +0800
+
+    Merge pull request #120 from AaronJny/fix-requirements-install-doc
+    
+    对linux的安装依赖做了特别说明。
+
+commit ad8066972bafdd23890cb989d89c6d4e9cad8e0f
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-08 17:04:40 +0800
+
+    增加代理ip口子
+
+2	1	README.md
+50	0	UnitTest/TestAll.py
+0	0	UnitTest/__init__.py
+1	0	Update.md
+31	13	agency/agency_tools.py
+1	0	agency/proxy_list
+2	2	config/TicketEnmu.py
+1	1	config/emailConf.py
+10	21	config/ticket_config.yaml
+10	6	init/select_ticket_info.py
+1	1	inter/GetPassCodeNewOrderAndLogin.py
+1	0	inter/GetPassengerDTOs.py
+1	0	inter/GetRandCode.py
+1	1	inter/Query.py
+8	1	myUrllib/httpUtils.py
+
+commit 99ec619f2cfe0639ca846178b2d6b6eb3f9ea07d
+Merge: 0cc8576 8e97d1d
+Author: MonsterTan <447542994@qq.com>
+Date:   2019-01-08 16:41:58 +0800
+
+    Merge pull request #1 from testerSunshine/master
+    
+    update
+
+commit 542db361b227d56b40484772600031d4977d22d7
+Author: AaronJny <Aaron__7@163.com>
+Date:   2019-01-08 14:18:37 +0800
+
+    对linux的安装依赖做了特别说明。
+    1.使用 `python2 -m pip install ...`的形式安装依赖可以避免多版本python、pip下的冲突问题，否则有可能会出现将依赖安装到python3上，项目无法运行的情况。
+    2.对root用户和非root用户做了区分。当非root用户直接使用`pip install ...`命令安装时，依赖会安装到当前用户目录下，但运行项目使用的是`sudo python run.py`，读取的是root用户目录下的依赖，可能会导致项目运行失败。
+
+4	1	README.md
+
+commit 8e97d1d1606a687b184faa476e7ce5578b749fcb
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-08 10:22:46 +0800
+
+    优化提示
+
+3	2	README.md
+1	0	inter/GetRandCode.py
+
+commit f76371ba72f975e1b1fe4098cee85e6d4f78d626
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-08 10:16:24 +0800
+
+    readme update
+
+6	2	README.md
+
+commit a9cf9c6c6ca7000b55ce914dc13f4c411d55a949
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-08 09:48:18 +0800
+
+    删除cdn提示
+
+0	48	agency/cdn_utils.py
+1	1	init/select_ticket_info.py
+6	1	myUrllib/httpUtils.py
+
+commit ac69e2c9e04e64fe60c7751cd37b9bd0ddcad293
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 22:54:46 +0800
+
+    删除加入cdn提示
+
+1	1	myUrllib/httpUtils.py
+
+commit 37f20eda21b68dea8509107e1d69b66bf855564d
+Merge: 15491c8 4371b0b
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 22:47:08 +0800
+
+    Merge pull request #101 from cclauss/patch-4
+    
+    Use feature detection instead of version detection
+
+commit 15491c8aa63f6a49f5a0954dd390bd7da0630974
+Merge: 34789a5 252ca40
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 22:34:20 +0800
+
+    Merge pull request #100 from cclauss/patch-3
+    
+    Define xrange() in Python 3
+
+commit 34789a5a3ebfe87ed650d6997b8a97914fd28f8c
+Merge: b241645 4c1ab61
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 22:34:07 +0800
+
+    Merge pull request #99 from cclauss/patch-2
+    
+    Define raw_input() in Python 3
+
+commit b2416455f471752fb1b91bb9468769b5f724784d
+Merge: e6ce310 dedc491
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 20:56:11 +0800
+
+    Merge pull request #103 from pyfaith/master
+    
+    修正查询余票时，不显示当前cdn轮询IP问题
+
+commit dedc49120396f3ff19ae9600afcd18cca631ba3f
+Author: pyfaith <pyfaith@foxmail.com>
+Date:   2019-01-07 18:51:27 +0800
+
+    修正查询余票时，不显示当前cdn轮询IP问题
+
+1	1	inter/Query.py
+
+commit e6ce310eca63bf0652101ef1e8509f179b785e62
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 17:48:41 +0800
+
+    验证码图片改后缀
+
+10	10	config/configCommon.py
+5	1	config/ticketConf.py
+2	2	inter/GetPassCodeNewOrderAndLogin.py
+2	2	inter/GetRandCode.py
+-	-	tkcode
+
+commit fe1ea37a7eb5646e54a77cdee711abf0b5da4da7
+Author: tan <447542994@qq.com>
+Date:   2019-01-07 17:02:35 +0800
+
+    complete docker script
+
+7	4	docker.sh
+
+commit 4c1ab61b7b43c19a6c995cecc4c41b379328a124
+Author: cclauss <cclauss@me.com>
+Date:   2019-01-07 09:45:38 +0100
+
+    Trailing whitespace
+
+1	1	inter/GetRandCode.py
+
+commit 8c2686273232f30a6206644c2a8a531ff48cb211
+Author: tan <447542994@qq.com>
+Date:   2019-01-07 16:44:36 +0800
+
+    add docker.sh file to control compose file
+
+32	0	docker.sh
+
+commit 8c548f13de7c880de066e4ecfff8e9b1dec6d911
+Author: tan <447542994@qq.com>
+Date:   2019-01-07 16:44:12 +0800
+
+    modify some config about compose file.
+
+1	1	docker-compose.yml
+
+commit 3ca6f13d06344d36c6f6aebcaf65ca4c87af15a7
+Author: cclauss <cclauss@me.com>
+Date:   2019-01-07 09:34:44 +0100
+
+    Fix typo
+
+1	1	inter/GetRandCode.py
+
+commit 4371b0b3b013cffb570e9226da12b53cada92ef1
+Author: cclauss <cclauss@me.com>
+Date:   2019-01-07 09:11:31 +0100
+
+    Use feature detection instead of version detection
+
+4	2	agency/cdn_utils.py
+
+commit 378bb75bf8ca2d80a35e243bffefa8bb56e539be
+Author: cclauss <cclauss@me.com>
+Date:   2019-01-07 09:09:26 +0100
+
+    Use feature detection instead of version detection
+    
+    Follows the Python porting best practice [__use feature detection instead of version detection__](https://docs.python.org/3/howto/pyporting.html#use-feature-detection-instead-of-version-detection).
+
+4	1	init/select_ticket_info.py
+
+commit 252ca4002c4378e8935048362a89b48f1a2ddcdf
+Author: cclauss <cclauss@me.com>
+Date:   2019-01-07 09:04:01 +0100
+
+    Define xrange() in Python 3
+    
+    __xrange()__ was removed in Python 3 in favor of a reworked version of __range()__.  This change ensures equivalent functionality in both Python 2 and Python 3.
+
+5	0	inter/GetPassengerDTOs.py
+
+commit 342bebc7330d532d499b54726798845f2e36f850
+Author: cclauss <cclauss@me.com>
+Date:   2019-01-07 08:58:43 +0100
+
+    Define raw_input() in Python 3
+    
+    __raw_input()__ was removed in Python 3 in favor of a reworked version of __input()__.  This change ensures equivalent functionality in both Python 2 and Python 3.
+
+5	0	inter/GetRandCode.py
+
+commit 7518d21c60ec6c9af19ed4672f38817c7184aca0
+Author: tan <447542994@qq.com>
+Date:   2019-01-07 15:21:42 +0800
+
+    update docker files
+
+1	1	Dockerfile
+1	1	docker-compose.yml
+
+commit ec38172b3dcba2ae15ebc0a5b5528619e89824bf
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 11:57:53 +0800
+
+    readme update
+
+2	1	README.md
+508	28536	cdn_list
+1	1	init/select_ticket_info.py
+
+commit 2df57447d3a809d9458c172529daa4f0c9d39296
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 11:54:47 +0800
+
+    优化cdn。
+
+13	4	agency/cdn_utils.py
+0	27	inter/GetRandCode.py
+
+commit 2cb98db4025b4f6f8b68f3472bb6ae423bc8747f
+Merge: a78683b 94410cb
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 11:44:12 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit a78683bad29e67af19b16cb497b627c31eea1ce2
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 11:44:06 +0800
+
+    修改cpu占用过高问题
+
+1	1	README.md
+1	1	init/select_ticket_info.py
+2	1	inter/CheckUser.py
+
+commit 94410cbbd8e57ec823c6ab740b0f02ad594cf124
+Merge: cfebf48 41a7820
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-07 11:43:08 +0800
+
+    Merge pull request #89 from HousqLove/master
+    
+    优化手动识别时的坐标_v2
+
+commit 41a78209c80a44f5b52e5fd2903bac2261e151f0
+Author: housq <houshaoqiong@163.com>
+Date:   2019-01-06 12:26:08 +0800
+
+    优化手动识别时的坐标
+
+41	14	inter/GetRandCode.py
+
+commit cfebf48646f9cd75eb447a0ce3ed87064d7ac30d
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-06 12:16:45 +0800
+
+    修改休眠bug
+    增加软卧功能
+
+13	1	config/configCommon.py
+14	10	config/ticket_config.yaml
+2	8	init/select_ticket_info.py
+2	0	inter/CheckUser.py
+1	0	inter/GetPassengerDTOs.py
+
+commit fb03acd46f1c984863f0e91a9e6048671823d386
+Merge: 4b844fb cf90407
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-05 16:29:40 +0800
+
+    Merge pull request #73 from ttdevs/master
+    
+    修改配置文件的加载方式
+
+commit 4b844fbd4acc60daad1d5f6d727bc0f4b40cd018
+Merge: fa85652 9b11f95
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-05 16:17:50 +0800
+
+    Merge pull request #75 from PKzhilong/feature/ticket-run-docker
+    
+    修改Dockerfile启动不能直接启动，而是需要docker run dockerticket  python run.py &, 实现…
+
+commit 9b11f95715dea618efcab743e88742b9b508a154
+Author: xingzhilong <haichenglouzhu@gmail.com>
+Date:   2019-01-04 17:57:37 +0800
+
+    修改Dockerfile启动不能直接启动，而是需要docker run dockerticket  python run.py &, 实现在container启动时候就运行
+
+2	1	Dockerfile
+3	2	README.md
+
+commit cf904073c46a6253d79b1bd4484ccaf2f8a4e57f
+Author: ttdevs <ttdevs@gmail.com>
+Date:   2019-01-04 11:00:10 +0800
+
+    change config file(cdn_list, station_name.txt) load manage
+
+3	1	agency/cdn_utils.py
+3	1	init/select_ticket_info.py
+
+commit fa85652febd8e7a58dfedee82aa6dc35aefbc238
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-04 09:38:40 +0800
+
+    优化登录掉线
+
+1	1	agency/cdn_utils.py
+1	0	config/urlConf.py
+16	15	init/select_ticket_info.py
+16	15	inter/CheckUser.py
+6	3	myUrllib/httpUtils.py
+
+commit 43799d3b565d2a3798b2d7d618fcb6616774c44d
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-03 20:38:08 +0800
+
+    优化查询
+
+4	3	agency/cdn_utils.py
+6	1	config/configCommon.py
+1	1	config/ticketConf.py
+6	4	config/ticket_config.yaml
+1	1	damatuCode/ruokuai.py
+0	10	init/login.py
+27	25	init/select_ticket_info.py
+2	2	inter/CheckOrderInfo.py
+1	1	inter/GetRandCode.py
+2	2	inter/Query.py
+2	2	inter/QueryOrderWaitTime.py
+0	63	myUrllib/myurllib2.py
+
+commit 73d7ae3588b8b0645f636cb99e6468cd2705dca9
+Author: tan <447542994@qq.com>
+Date:   2019-01-03 17:02:09 +0800
+
+    add docker-compose file
+
+12	0	docker-compose.yml
+
+commit 0cc85766a4778167542f3ab90f6739937099a37b
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-03 11:23:53 +0800
+
+    修改win对时功能
+
+8	24	config/AutoSynchroTime.py
+1	1	inter/GetPassCodeNewOrderAndLogin.py
+1	1	inter/Query.py
+
+commit 6b1f575c64c171cfef9dad7c5bda60d2819ae93b
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-03 11:04:26 +0800
+
+    关闭win对时功能
+
+24	23	config/AutoSynchroTime.py
+
+commit 0afa64ac07be8b4679c2e69b6898ee45ff5e802c
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-03 10:41:57 +0800
+
+    ntp改成阿里云的
+
+18	17	config/AutoSynchroTime.py
+
+commit 11d7da04ce0a69d10ed29da405250b3e3a7a83f3
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-03 09:35:41 +0800
+
+    fix
+
+5	4	init/select_ticket_info.py
+
+commit af5ece8c3e887ccd202927d8a7ca05caed721f73
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-03 09:25:54 +0800
+
+    修复autoSynchroTime文件未提交问题
+
+53	0	config/AutoSynchroTime.py
+9	12	init/select_ticket_info.py
+
+commit 4d07e5369a27b689ade0997efe5ec354c279154c
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-02 23:10:54 +0800
+
+    redeme
+
+1	1	Update.md
+
+commit 57f223126e4bc3be9f41c6b66a725ae561c12332
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-02 23:10:01 +0800
+
+    优化预售查询
+
+4	3	README.md
+5	0	Update.md
+18	10	config/ticket_config.yaml
+29	9	init/select_ticket_info.py
+2	1	requirements.txt
+
+commit 3d199a0a2144596022b652230b8144458800e021
+Author: wenxianping <931128603@qq.com>
+Date:   2019-01-02 09:54:14 +0800
+
+    fix
+
+1	1	README.md
+1	1	init/select_ticket_info.py
+
+commit 0e6f2ceee2c4e588ec491202fc59a43249270158
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-31 12:22:37 +0800
+
+    优化查询逻辑
+
+13	13	config/urlConf.py
+3	3	init/select_ticket_info.py
+1	1	inter/CheckUser.py
+1	2	inter/Query.py
+0	1	inter/SubmitOrderRequest.py
+
+commit 2465d61554850a310732f14a006dc36e0ee9502e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-29 09:37:54 +0800
+
+    更新站点
+
+2	2	config/urlConf.py
+1	1	inter/CheckUser.py
+2	2	inter/GetQueueCount.py
+8	10	inter/GetQueueCountAsync.py
+1	1	station_name.txt
+
+commit 46b6a72577ae7c51604dc52e5a53d5c7efee71c5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-27 14:38:19 +0800
+
+    打印cdn
+
+1	0	myUrllib/httpUtils.py
+
+commit 9a9647665ff383bd171b3c31f56e53eb66b69493
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-27 14:32:46 +0800
+
+    排队时间增加
+
+1	1	config/TicketEnmu.py
+4	16	inter/Query.py
+
+commit 8c7804dd4cc1cfa98a39c03a6b63023d2eebb131
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-27 14:05:53 +0800
+
+    优化订票逻辑
+
+1	1	init/select_ticket_info.py
+11	13	inter/GetQueueCount.py
+2	1	inter/Query.py
+
+commit 69a3b44236a2acb099a468c3d2b8999bd7eca8ed
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 20:12:17 +0800
+
+    1
+
+-	-	uml/wx.jpeg
+-	-	uml/zfb.jpeg
+
+commit a21eb9827f510c6957b7e1aaf81a665ccdfc6f34
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 20:05:27 +0800
+
+    1
+
+2	2	README.md
+-	-	uml/wx.jpeg
+-	-	uml/wx.jpg
+-	-	uml/zfb.jpeg
+-	-	uml/zfb.jpg
+
+commit 84e6350c95195614cbfd6b1e3576eb44404c26aa
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 19:51:01 +0800
+
+    1
+
+1	0	README.md
+
+commit 5a706961e9cfa2a60fdd756f97a340bef9ffdec9
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 19:49:49 +0800
+
+    1
+
+2	2	README.md
+
+commit f92650d32a1bc81bebef1370152d156903ea17bf
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 19:49:11 +0800
+
+    增加余票不足优先提交功能
+
+-	-	uml/WechatIMG67.jpeg
+-	-	uml/WechatIMG68.jpeg
+-	-	uml/wx.jpg
+-	-	uml/zfb.jpg
+
+commit b4be95b290bfd15f61b360bd298d2c0a44fa31ff
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 19:45:08 +0800
+
+    1
+
+2	2	README.md
+
+commit 11e2b84dcac61b84f5425ad03bc6a9cbe71a6d42
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 19:40:51 +0800
+
+    增加余票不足优先提交功能
+
+-	-	uml/WechatIMG67.jpeg
+-	-	uml/WechatIMG68.jpeg
+
+commit 66e380bfc557d1b8ef436bc6632d1a59dda7034b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 19:40:26 +0800
+
+    readme
+
+3	1	README.md
+6	3	inter/Query.py
+
+commit dda809d92e975bc119fe35d9e2c0c8860b7de3a9
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 18:09:30 +0800
+
+    setDaemon
+
+1	0	init/select_ticket_info.py
+1	0	inter/Query.py
+
+commit cf2e8f8ef68db2e7b0a0f6da20e9e6de00039631
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-26 16:05:51 +0800
+
+    - 优化已知bug
+    - 开启cdn查询
+    - 自动识别查询接口
+
+3	0	README.md
+5	0	Update.md
+10	6	agency/cdn_utils.py
+28536	914	cdn_list
+13	1	config/urlConf.py
+27	31	init/select_ticket_info.py
+26	3	inter/Query.py
+3	4	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit 75f88a4c1a0d6af8477c37921089a010864fb302
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 15:02:28 +0800
+
+    1
+
+1	0	damatuCode/ruokuai.py
+
+commit de76b2c8aba972129d860993a084bf266857fbc6
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 14:40:49 +0800
+
+    增加错误信息打印
+
+1	1	Dockerfile
+2	2	inter/GetRandCode.py
+
+commit 42cba656e76d3922918cad622fed02dc76a504aa
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 11:54:55 +0800
+
+    1
+
+0	1	inter/GetRandCode.py
+
+commit 806be00d3dd7baacade348dc1c4702571a34bae8
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 11:47:20 +0800
+
+    修改登录验证码权限问题
+
+1	1	Dockerfile
+2	2	README.md
+3	2	init/login.py
+1	1	inter/GetPassCodeNewOrderAndLogin.py
+4	3	inter/GetRandCode.py
+
+commit 19de91af55763bda1f130c5ce1ffa4fed3ae614e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 10:41:25 +0800
+
+    1
+
+5	5	config/ticket_config.yaml
+
+commit 8bd487201aa8342d42cbee93eaf07b350c6ced3a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 10:38:39 +0800
+
+    docker文件提交
+
+13	0	Dockerfile
+
+commit ce0b5cff84c433cba621601645f129332f687bc3
+Author: wenxianping <931128603@qq.com>
+Date:   2018-12-25 10:34:56 +0800
+
+    docker启动
+
+7	2	README.md
+11	4	agency/agency_tools.py
+20	17	config/emailConf.py
+33	19	config/ticket_config.yaml
+2	2	config/urlConf.py
+19	20	inter/Query.py
+1	3	inter/QueryOrderWaitTime.py
+-	-	tkcode
+
+commit 650f0106e3e16821bf9799c7484c9c1f739f9e49
+Author: wenxianping <931128603@qq.com>
+Date:   2018-10-23 16:12:30 +0800
+
+    1
+
+528	263	.idea/workspace.xml
+
+commit c19be06bab48a7a2da6e7c664dd05305137e663b
+Merge: 532e774 f512684
+Author: wenxianping <931128603@qq.com>
+Date:   2018-10-23 16:08:53 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 532e774f0b1d3e6bea67ccd149baadf7f5770498
+Author: wenxianping <931128603@qq.com>
+Date:   2018-10-23 16:08:42 +0800
+
+    1、修改提交订单逻辑问题，感谢群里小伙伴发现
+    2、查询接口修改
+
+3	2	config/urlConf.py
+0	1	inter/AutoSubmitOrderRequest.py
+
+commit f5126849a3dabd58c57fb742b9f44248ebedd747
+Merge: ea84e82 978ca34
+Author: wenxianping <931128603@qq.com>
+Date:   2018-10-09 15:47:19 +0800
+
+    Merge pull request #51 from x-falcon/master
+    
+    添加根据时间区间购票功能
+
+commit 978ca34df22d9120eccc9dbfe1d2befab98c69c5
+Author: xfalcon <tbig858@gmail.com>
+Date:   2018-10-02 20:31:11 +0800
+
+    添加根据时间区间购票功能
+
+10	0	config/configCommon.py
+25	6	config/ticket_config.yaml
+31	10	init/select_ticket_info.py
+39	7	inter/Query.py
+0	0	utils/__init__.py
+14	0	utils/timeUtil.py
+
+commit ea84e826b7d4f09ba87b07c60fd5f44ab787c639
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-30 14:39:56 +0800
+
+    update readme
+
+4	1	README.md
+0	1	inter/GetPassengerDTOs.py
+
+commit c9de32463a7eb1a21dc097a64bd16ff6fcbbf1b0
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-30 14:35:27 +0800
+
+    1、优化查询策略
+    2、快读下单修复
+    3、关闭cdn功能
+
+10	11	init/select_ticket_info.py
+2	2	inter/AutoSubmitOrderRequest.py
+5	4	inter/CheckUser.py
+11	3	inter/Query.py
+11	5	myUrllib/httpUtils.py
+
+commit 2f2d62af19ceaa78fb1295a254334759d61fbe45
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-21 14:40:46 +0800
+
+    增加余票不足优先提交功能
+
+7	0	Update.md
+11	10	config/ticket_config.yaml
+11	14	init/select_ticket_info.py
+14	4	inter/GetPassengerDTOs.py
+5	8	inter/GetQueueCount.py
+8	11	inter/GetQueueCountAsync.py
+14	4	inter/Query.py
+0	1	inter/SubmitOrderRequest.py
+
+commit cce998d0be8380da7e029739191e13d76b611fa2
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-20 09:57:48 +0800
+
+    fix
+
+2	1	init/select_ticket_info.py
+3	2	inter/Query.py
+
+commit 2d85ef1994d7f661dd0997e9f185ffa900c69f98
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-19 17:20:51 +0800
+
+    修正余票小于乘客人数，则不提交
+
+2	1	init/select_ticket_info.py
+2	1	inter/CheckOrderInfo.py
+6	2	inter/Query.py
+
+commit 2e023aebbafe1627f674140692be82a7253a173f
+Merge: 1097517 a5c6f73
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-19 15:43:05 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 1097517604b3c5fb37ea6a2db93e79e65655743e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-19 15:42:39 +0800
+
+    多人下单参数修正
+
+6	5	init/select_ticket_info.py
+3	4	inter/Query.py
+
+commit a5c6f739e6e8e14f695657d355b3477c986757c2
+Merge: 7f14474 3a5ef7e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-12 17:05:13 +0800
+
+    Merge pull request #45 from Gittry/master
+    
+    添加香港西九龙站
+
+commit 3a5ef7e4058a34797eecd0e7d6cae56d47c60253
+Author: caowencai <caowencai@icarbonx.com>
+Date:   2018-09-12 16:56:14 +0800
+
+    添加香港西九龙站
+
+1	1	station_name.txt
+
+commit 7f14474fc1ee3a1aa6f689b462bfb535f0894499
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-04 19:05:27 +0800
+
+    优化配置文件说明
+
+14	6	config/ticket_config.yaml
+
+commit 01f728c47e212c9091c334f3ee0348653ff526dc
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-04 19:02:28 +0800
+
+    登录验证码增加随机数
+
+1	1	config/urlConf.py
+2	1	init/login.py
+5	3	init/select_ticket_info.py
+2	2	inter/AutoSubmitOrderRequest.py
+14	4	inter/GetPassCodeNewOrderAndLogin.py
+
+commit 41695e1d555bbbcb9bd6f738a6bf59134b7ce2d1
+Merge: ef7d6a9 a24fe57
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-01 14:30:27 +0800
+
+    Merge pull request #42 from BackTrackCRoot/patch-1
+    
+    修复单词拼写错误
+
+commit ef7d6a98b8fe149e98543c158da2089cbfb4464c
+Merge: 4920a01 6d97087
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-01 14:28:23 +0800
+
+    Merge pull request #43 from mythace/master
+    
+    修复12306接口变更查询不到票务信息
+
+commit 6d9708768ec4c6e3918c6c7be83287baecf351af
+Author: zhongxiaojun <zxj@bogon>
+Date:   2018-09-01 14:09:44 +0800
+
+    修复12306接口变更查询不到票务信息
+
+1	1	config/urlConf.py
+
+commit a24fe57901d77d527b05e5765990410bce75291f
+Author: CRoot <BackTrackCRoot@gmail.com>
+Date:   2018-09-01 11:26:26 +0800
+
+    修复单词拼写错误
+    
+    手动狗头一下 装作参与了开源项目
+
+2	2	Update.md
+
+commit 4920a01fa257f37bd7365c2c3f7acd90c4e39727
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-01 00:28:48 +0800
+
+    fix
+
+1	1	init/select_ticket_info.py
+4	3	inter/GetRandCode.py
+-	-	tkcode
+
+commit b88834cdfc7be976ae5e1c5fab4eb57d3e3e76bf
+Author: wenxianping <931128603@qq.com>
+Date:   2018-09-01 00:24:40 +0800
+
+    恢复cdn功能，优化显示
+
+4	1	agency/cdn_utils.py
+8	9	config/ticket_config.yaml
+0	8	init/login.py
+54	12	init/select_ticket_info.py
+2	2	inter/GetPassCodeNewOrderAndLogin.py
+9	2	inter/GetRandCode.py
+3	6	inter/Query.py
+1	1	myUrllib/httpUtils.py
+
+commit bbee85ff1b0e62f709fa189e1a705e375962bd3a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-31 10:26:59 +0800
+
+    fix
+
+1	1	inter/GetRandCode.py
+
+commit a3d4fed532b8abea7d60e6ec35b0861796bd7bdd
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-31 10:15:04 +0800
+
+    fix
+
+1	1	.gitignore
+1	1	README.md
+2	2	config/ticket_config.yaml
+2	2	init/login.py
+2	2	run.py
+
+commit cbec16c5096e6d8d1ccb7574c538d9cd52ad7f9b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-29 19:29:14 +0800
+
+    马上国庆了，购票小助手希望大家抢到票票
+
+3	6	init/select_ticket_info.py
+
+commit 9c95cc03c1522d086fff2e136ad6829275842209
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-29 19:19:58 +0800
+
+    优化代码结构
+    新增双下单方法
+    修复一直bug
+
+5	7	agency/agency_tools.py
+2	4	agency/cdn_utils.py
+-	-	tkcode
+
+commit c0d88bc8b75fa660c0d83535a8da2bbf6bc167cd
+Merge: 6b849c1 ec7ab85
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-29 19:19:45 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       config/ticket_config.yaml
+    #       config/urlConf.py
+    #       init/login.py
+    #       init/select_ticket_info.py
+    #       myUrllib/httpUtils.py
+    #       tkcode
+
+commit 6b849c1201b97448bfd3c0b8def06a1f9e2310a7
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-29 19:19:13 +0800
+
+    优化代码结构
+    新增双下单方法
+    修复一直bug
+
+3	2	.idea/12306.iml
+0	11	.idea/12306login.iml
+0	14	.idea/codeStyleSettings.xml
+0	3	.idea/dictionaries/wenxianping.xml
+44	5	.idea/inspectionProfiles/Project_Default.xml
+0	7	.idea/inspectionProfiles/profiles_settings.xml
+4	1	.idea/misc.xml
+335	1271	.idea/workspace.xml
+5	161	README.md
+118	0	Update.md
+5	0	config/TicketEnmu.py
+1	16	config/ticketConf.py
+47	59	config/ticket_config.yaml
+2	2	config/urlConf.py
+0	292	init/SelectTicketInfoFast.py
+24	126	init/login.py
+116	655	init/select_ticket_info.py
+44	30	inter/AutoSubmitOrderRequest.py
+73	0	inter/CheckOrderInfo.py
+27	0	inter/CheckRandCodeAnsyn.py
+33	0	inter/CheckUser.py
+96	0	inter/ConfirmSingleForQueue.py
+4	10	inter/ConfirmSingleForQueueAsys.py
+22	0	inter/GetPassCodeNewOrderAndLogin.py
+2	1	inter/GetPassengerDTOs.py
+109	0	inter/GetQueueCount.py
+39	20	inter/GetQueueCountAsync.py
+79	0	inter/GetRandCode.py
+36	0	inter/GetRepeatSubmitToken.py
+13	27	inter/Query.py
+2	1	inter/QueryOrderWaitTime.py
+69	0	inter/SubmitOrderRequest.py
+202	0	myUrllib/MySocketUtils.py
+15	63	myUrllib/httpUtils.py
+2	1	requirements.txt
+9	5	run.py
+
+commit ec7ab85ff13264b2876364ffc377f57a9478a720
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-23 12:23:12 +0800
+
+    fix
+
+5	5	init/select_ticket_info.py
+-	-	tkcode
+
+commit 975e808823177d5022090e97c9eefd3b5acc1b58
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-23 11:53:01 +0800
+
+    兼容时间格式
+
+3	3	init/select_ticket_info.py
+
+commit 4e2d9427f2a761a47b704328a154572fc9b7c32e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-22 17:07:04 +0800
+
+    1
+
+6	8	config/ticket_config.yaml
+
+commit 7d263baa5694aa1737b68c2a1452e37156df048b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-08-22 17:03:25 +0800
+
+    解决慢排队
+
+36	19	config/ticket_config.yaml
+0	4	init/login.py
+101	67	init/select_ticket_info.py
+11	12	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit ff4b397d39c13060730870603f5b193085d56641
+Merge: f86f7b9 dcdf875
+Author: wenxianping <931128603@qq.com>
+Date:   2018-06-26 15:48:51 +0800
+
+    Merge pull request #41 from sjfkai/master
+    
+    查询接口更新
+
+commit dcdf875e77f50a5cc09546419d58df90936421c3
+Author: sjfkai <sjfkai@163.com>
+Date:   2018-06-26 15:40:25 +0800
+
+    update url
+
+1	1	config/urlConf.py
+
+commit 009b989a6468e49e0622ef4b58c2b1b78b380c8d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-06-11 23:14:28 +0800
+
+    1、修改小黑屋逻辑
+
+0	0	.idea/inspectionProfiles/profiles_settings.xml
+5	6	init/SelectTicketInfoFast.py
+2	4	inter/Query.py
+
+commit b88d541f93c802b2d793ce743562f02eaee818ed
+Author: wenxianping <931128603@qq.com>
+Date:   2018-06-11 23:03:23 +0800
+
+    1、增加快速订票流程接口
+    2、尝试解决慢排队
+
+0	0	.gitignore
+0	0	.idea/dictionaries/wenxianping.xml
+0	0	README.md
+0	0	__init__.py
+0	0	agency/__init__.py
+0	0	agency/agency_tools.py
+0	0	agency/cdn_utils.py
+0	0	cdn_list
+35	0	config/TicketEnmu.py
+0	0	config/__init__.py
+0	0	config/configCommon.py
+0	0	config/emailConf.py
+0	0	config/logger.py
+0	0	config/ticketConf.py
+4	4	config/ticket_config.yaml
+55	33	config/urlConf.py
+0	0	damatuCode/__init__.py
+0	0	damatuCode/damatuWeb.py
+0	0	damatuCode/ruokuai.py
+293	0	init/SelectTicketInfoFast.py
+0	0	init/__init__.py
+8	4	init/login.py
+6	4	init/select_ticket_info.py
+108	0	inter/AutoSubmitOrderRequest.py
+78	0	inter/ConfirmSingleForQueueAsys.py
+92	0	inter/GetPassengerDTOs.py
+102	0	inter/GetQueueCountAsync.py
+17	0	inter/LiftTicketInit.py
+119	0	inter/Query.py
+123	0	inter/QueryOrderWaitTime.py
+0	0	inter/__init__.py
+0	0	myException/PassengerUserException.py
+0	0	myException/UserPasswordException.py
+0	0	myException/__init__.py
+0	0	myException/balanceException.py
+0	0	myException/ticketConfigException.py
+0	0	myException/ticketIsExitsException.py
+0	0	myException/ticketNumOutException.py
+0	0	myUrllib/__init__.py
+73	25	myUrllib/httpUtils.py
+0	0	myUrllib/myurllib2.py
+0	0	requirements.txt
+3	2	run.py
+0	0	station_name.txt
+-	-	tkcode
+0	0	tmp/__init__.py
+0	0	tmp/log/__init__.py
+-	-	uml/uml.png
+
+commit f86f7b9c336d2890dbbd5936715aa3e4d91acc74
+Author: wenxianping <931128603@qq.com>
+Date:   2018-03-28 12:26:15 +0800
+
+    查询接口更新
+
+11	13	config/ticket_config.yaml
+
+commit 29e0816711ecb92529223e17916101b9d292bdea
+Author: wenxianping <931128603@qq.com>
+Date:   2018-03-21 08:39:33 +0800
+
+    1、查询接口更新
+    2、bug fix
+
+27	27	config/urlConf.py
+0	4	init/login.py
+1	1	init/select_ticket_info.py
+-	-	tkcode
+
+commit f07ec4d332c0411c1c826404b9e596b18377480a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-03-01 11:10:36 +0800
+
+    fix
+
+3	2	init/select_ticket_info.py
+2	1	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit 520c8a528d4c6edfc512d98fb06823b5b0ea7e99
+Author: wenxianping <931128603@qq.com>
+Date:   2018-02-28 18:40:03 +0800
+
+    fix
+
+5	1	README.md
+77	0	config/urlConf.py
+4	1	init/login.py
+45	30	init/select_ticket_info.py
+15	2	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit d7b381e7a694b41f004024566b12ea805bc4b49e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-29 23:09:45 +0800
+
+    删除pyqt
+
+0	1	config/ticketConf.py
+-	-	tkcode
+
+commit 0db5c26040a84eeb69283ba255fe5b21f17d3290
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-29 22:38:09 +0800
+
+    合并dev
+
+348	2	.idea/workspace.xml
+11	0	README.md
+0	611	agency/cdn_list
+0	1	cdn_list
+8	22	config/ticket_config.yaml
+2	1	init/select_ticket_info.py
+0	400	proxy_list
+-	-	tkcode
+
+commit 24f3cf564dab69b637de69b138f853a8d79e1660
+Merge: 987ed97 bd1a0fc
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-29 22:04:39 +0800
+
+    Merge branch 'dev'
+    
+    # Conflicts:
+    #       config/ticket_config.yaml
+    #       init/login.py
+    #       init/select_ticket_info.py
+    #       tkcode
+
+commit bd1a0fcaa371b5321ea2d9e8091d5e2fc08aed91
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-29 21:59:01 +0800
+
+    1、增加cdn轮训功能
+    2、兼容Windows cmd命令乱码问题
+    3、规范接口提交参数
+    4、修改已知bug
+
+11	19	agency/cdn_utils.py
+891	587	cdn_list
+9	20	config/ticket_config.yaml
+26	26	config/urlConf.py
+17	16	init/login.py
+91	63	init/select_ticket_info.py
+2	3	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit 004b82831dbdbd2abcca0d37b22e67d80a04e7c0
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-29 11:19:25 +0800
+
+    cdn
+
+85	102	.idea/workspace.xml
+611	89	agency/cdn_list
+20	4	agency/cdn_utils.py
+611	99	cdn_list
+5	5	config/ticket_config.yaml
+2	2	config/urlConf.py
+11	12	init/select_ticket_info.py
+4	5	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit 987ed97d89a8b732dff7901b10363a98104e7b3b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-28 14:47:14 +0800
+
+    fix
+
+8	6	init/select_ticket_info.py
+
+commit da86591e65d09d1b9c12a4108a149513ad1b409a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-28 14:37:44 +0800
+
+    修改学生票订票bug
+
+-	-	tkcode
+
+commit f0fea7cba7e213df4c7c94ddf4b3b61c3d8dc5db
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-28 14:27:24 +0800
+
+    margen
+
+8	0	.idea/markdown-exported-files.xml
+431	198	.idea/workspace.xml
+89	0	agency/cdn_list
+100	0	agency/cdn_utils.py
+99	0	cdn_list
+8	6	config/ticket_config.yaml
+186	45	config/urlConf.py
+1	1	damatuCode/ruokuai.py
+9	8	init/login.py
+61	60	init/select_ticket_info.py
+24	6	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit ec88dffe4fea711c7165fb2da8d5b66dd8849645
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-25 21:39:19 +0800
+
+    修正下载验证码失败问题
+
+25	22	init/login.py
+
+commit b1ab0360261e7c11adcfdac2564c4a8181e93c67
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-25 21:36:18 +0800
+
+    加速需要验证码订票的速度
+
+16	37	config/ticket_config.yaml
+21	17	init/login.py
+49	31	init/select_ticket_info.py
+-	-	tkcode
+
+commit 4c5c036286b815e843c48c30241589c3fb25e549
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-25 16:37:37 +0800
+
+    更新
+
+1	0	README.md
+
+commit b7ad725416d4d57d3c5baf84a64438ace1d061cd
+Merge: 0bdccd4 c28899e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-25 15:59:32 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       config/ticket_config.yaml
+
+commit 0bdccd45266e2c0fdf459d250460d318052246c1
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-25 15:52:36 +0800
+
+    删除 expect_refresh_interval 无用字段，优化代码
+
+2	0	README.md
+16	20	config/ticket_config.yaml
+3	6	init/select_ticket_info.py
+-	-	tkcode
+
+commit c1ce4e44692b8440ccbb577e77375e36f3f85509
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-25 14:15:47 +0800
+
+    test version
+
+32	14	config/ticket_config.yaml
+25	20	init/login.py
+27	2	init/select_ticket_info.py
+1	0	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit b056211587f61dd879ebe6f5d3b25b8f490d7b2e
+Merge: 1411824 01d54be
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-24 22:50:22 +0800
+
+    Merge branch 'master' into dev
+
+commit 01d54be85a733a9a5bcc91839929f347a5a3ce85
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-24 22:35:24 +0800
+
+    fix
+
+1	0	.gitignore
+10	1	config/ticket_config.yaml
+2	2	init/select_ticket_info.py
+3	2	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit c28899e47a771a0607572604aace9a6967bf3911
+Author: jinhongbo <jhbpxx@163.com>
+Date:   2018-01-24 15:00:10 +0800
+
+    验证码识别字段增加
+
+8	9	config/ticket_config.yaml
+
+commit 632a971606f07e0fb0dc9cadb23bc3a8302fd20b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-24 12:57:43 +0800
+
+    fix
+
+0	0	tmp/log/__init__.py
+
+commit 133606f1701b85a55d971c220e24c94d1561edaa
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-24 12:56:18 +0800
+
+    增加日志
+
+1	0	.gitignore
+82	0	config/configCommon.py
+61	0	config/logger.py
+12	12	config/ticket_config.yaml
+1	1	init/login.py
+14	5	myUrllib/httpUtils.py
+-	-	tkcode
+0	0	tmp/__init__.py
+
+commit 0b3d04ace4aa0702d5dd66060478f75cfcc13438
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-24 10:06:25 +0800
+
+    1、增加若快打码
+    2、优化提示语
+    3、修改若干bug
+
+6	0	README.md
+8	5	config/ticket_config.yaml
+5	8	damatuCode/damatuWeb.py
+55	0	damatuCode/ruokuai.py
+33	12	init/login.py
+8	9	init/select_ticket_info.py
+-	-	tkcode
+
+commit 829ec1163e50fb60a1121c910be34ce717394616
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-23 21:29:06 +0800
+
+    修改请求超时问题
+    修改检查登录心跳方式
+
+9	11	init/select_ticket_info.py
+18	20	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit 7d402239735fa994acc5c998436fa0661b7291b5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-23 17:58:17 +0800
+
+    fix
+
+2	1	myUrllib/httpUtils.py
+
+commit 34456df15140dc7602a16b30d3e45df8ec2777e9
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-23 17:48:09 +0800
+
+    先发一beta版本 解决返回为空的问题
+
+22	31	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit d2148925250a9e259c1eb9312342f9366a859735
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-23 12:59:47 +0800
+
+    1、修改乘车人如果未设置好，返回默认值有误
+    2、优化登录回调，设置为五分钟一次
+    3、修改type为null的问题
+    4、增加请求超时
+
+18	13	init/select_ticket_info.py
+12	8	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit b36595aeadb807ed2abdeb8113c5bfb6a417dcc2
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-22 22:01:57 +0800
+
+    1、修改登录接口逻辑，暂定办法
+    2、修改邮箱554 bug
+
+1	1	config/emailConf.py
+11	6	init/login.py
+-	-	tkcode
+
+commit b37aadfc9360a7aaaac5a0b9abe571a17ce2c4ad
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-21 20:35:56 +0800
+
+    yaml fix
+
+10	7	config/ticket_config.yaml
+
+commit 235b0000c9f9bb12f7bb571419d16289e4a9e8a1
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-21 13:47:38 +0800
+
+    增加多日期查询，请严格按照yaml格式添加 即可
+    增加如果排队时间超过一分钟，自动取消订单
+
+9	1	README.md
+6	0	config/urlConf.py
+1	1	init/login.py
+78	54	init/select_ticket_info.py
+19	1	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit d7c5c7215c5db070492a25098288e2cb7620ec2f
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-21 09:12:15 +0800
+
+    实现 新版登录逻辑
+    优化 订票逻辑
+
+6	0	README.md
+0	1	config/ticketConf.py
+0	1	config/urlConf.py
+3	1	init/login.py
+2	7	init/select_ticket_info.py
+-	-	tkcode
+
+commit 141182401615f8d1b5a0ecc2ab3a5c07a3ad484a
+Merge: 0d4846e aa6d628
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-20 23:31:13 +0800
+
+    test version
+
+commit 0d4846e9baf6c82d1f7a68ddd383b2b9c69d2ff7
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-20 23:27:24 +0800
+
+    margen
+
+3	0	.idea/codeStyleSettings.xml
+72	0	.idea/markdown-navigator.xml
+3	0	.idea/markdown-navigator/profiles_settings.xml
+35	162	.idea/workspace.xml
+2	0	config/ticketConf.py
+
+commit aa6d628c8294ec401eeb311e29419d659ddd5f53
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-20 23:23:51 +0800
+
+    1、更新新版登录
+    2、优化代码
+
+6	0	README.md
+89	0	config/urlConf.py
+184	188	init/login.py
+38	40	init/select_ticket_info.py
+2	0	myException/UserPasswordException.py
+76	34	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit 501fd388bd52729fa88ffa61cdef69958972925d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-15 23:30:15 +0800
+
+    增加捡漏自动检测用户登录功能
+    修改自动刷票的时间为早上6点
+
+5	0	README.md
+13	6	init/login.py
+29	16	init/select_ticket_info.py
+6	6	myUrllib/myurllib2.py
+1	1	run.py
+
+commit cd65eeb963d0233b44e5ec411cf510cbc6de58a9
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-15 23:00:20 +0800
+
+    修改排队时间超长问题
+
+4	28	init/select_ticket_info.py
+-	-	tkcode
+
+commit a3ba39c757e7fa3b1bf51e5d61c1d5440b54f7f9
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 20:30:59 +0800
+
+    修改排队时间很长的问题
+
+5	3	init/select_ticket_info.py
+-	-	tkcode
+
+commit 44a41f9131b22ad44ec180f371261458afd00bd4
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 17:35:42 +0800
+
+    fix
+
+1	1	config/ticket_config.yaml
+
+commit 35918e1dd868f623cb4afdff798f08f0158a8f4b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 17:34:59 +0800
+
+    fix
+
+46	1	README.md
+0	1	config/ticketConf.py
+11	11	config/ticket_config.yaml
+-	-	tkcode
+
+commit 4c2b435407a1f8f4d3d1555a5222671f3115ce52
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 15:33:02 +0800
+
+    fix
+
+1	1	config/ticket_config.yaml
+
+commit 5f7b4df19b17abc9897c473a05b500be74e4253d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 15:27:07 +0800
+
+    邮箱设置升级
+
+241	150	.idea/workspace.xml
+1	1	config/emailConf.py
+27	19	config/ticket_config.yaml
+
+commit d1be6833bb3fe1068f4f598027e2387518ce48c4
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 14:07:06 +0800
+
+    修改早上7点自动刷票功能
+
+7	0	README.md
+5	2	init/select_ticket_info.py
+
+commit 4cc4205d863b5bf54f8f4a6e2b46de13a2b9fe8b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 13:47:40 +0800
+
+    readme
+
+21	0	README.md
+-	-	tkcode
+
+commit 46ecb662eb849443b63277ef6a83fcbb96307c42
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-14 08:58:02 +0800
+
+    验证码识别字段增加
+
+1	1	init/select_ticket_info.py
+
+commit f669690a707683d852b647612157cc95882ec6b5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 23:13:00 +0800
+
+    优化订票速度
+
+1	0	README.md
+2	1	init/select_ticket_info.py
+
+commit fb92dbaece5ef0f9343b6ade9494e9c4191780bc
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 23:08:03 +0800
+
+    验证码识别字段增加
+    增加邮箱功能
+
+12	0	README.md
+42	0	config/emailConf.py
+31	16	config/ticket_config.yaml
+10	6	init/select_ticket_info.py
+-	-	tkcode
+
+commit ac1a03834e77ce0963c935db182d5fcad8802969
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 11:45:39 +0800
+
+    验证码识别字段增加
+
+3	0	init/select_ticket_info.py
+-	-	tkcode
+
+commit a3f88212d0c4bcf7ea648f0e21a3d26c310a3e9d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 10:08:59 +0800
+
+    捕获异常
+
+2	0	init/select_ticket_info.py
+-	-	tkcode
+
+commit 1ce2f7719e6493d9db170e337e074f3e9e457c41
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 09:53:36 +0800
+
+    fix
+
+3	1	run.py
+-	-	tkcode
+
+commit 6ffdaa00481e8e3cfb04e8f9d73436a91f5589af
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 09:45:41 +0800
+
+    master margin test
+
+15	10	.idea/workspace.xml
+
+commit 4febb67ac2a8b1d0305fb812097aee0a265b77e8
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 09:44:57 +0800
+
+    fix
+
+54	36	.idea/workspace.xml
+3	0	README.md
+3	0	init/select_ticket_info.py
+
+commit 9170177769a6a4ca3c95362347ad79ae5ba46874
+Merge: 507910d b84c5fa
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 09:39:33 +0800
+
+    Merge branch 'test'
+
+commit b84c5faf8f6928a2e8d2aff0ee12d3cc4d5916a8
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 09:38:06 +0800
+
+    fix
+
+118	66	.idea/workspace.xml
+2	2	init/select_ticket_info.py
+
+commit 91b0c471eef2e638ba57699eee7efd7a618d6549
+Merge: a6983a0 339c22b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-13 09:32:10 +0800
+
+    Merge branch 'dev' into test
+    
+    # Conflicts:
+    #       .idea/workspace.xml
+    #       config/ticket_config.yaml
+    #       init/select_ticket_info.py
+    #       tkcode
+
+commit a6983a0422768824311a84207f1f131e1aa5a873
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-12 23:38:50 +0800
+
+    转义
+
+1	1	init/select_ticket_info.py
+
+commit 2ed291639746c2e57f6122b84013c19cd8fa10ce
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-12 23:16:02 +0800
+
+    排队提交订单规范加强，依赖减弱
+    测试版本
+
+40	54	init/select_ticket_info.py
+-	-	tkcode
+
+commit 507910d1dd13ba99227090eca38d54d5538ddee9
+Merge: d8a91c1 26ee65c
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-12 20:55:22 +0800
+
+    Merge pull request #4 from hawkli-1994/hawkli-optimization
+    
+    规范run文件的写法
+
+commit 26ee65c48e0a6e49d246ca94be81712e85e05525
+Author: hawkli <hawkli@yespowering.com>
+Date:   2018-01-12 19:30:38 +0800
+
+    规范run文件的写法
+
+2	2	run.py
+
+commit d8a91c1fc99e50213263a99c89affbd24802bbb2
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-12 17:40:40 +0800
+
+    fix
+
+2	2	config/ticket_config.yaml
+
+commit bd5bebac3aa61731e39c35d3f538734a6a797370
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-12 14:42:30 +0800
+
+    跳出下单循环
+
+90	249	.idea/workspace.xml
+3	3	config/ticket_config.yaml
+54	77	init/select_ticket_info.py
+
+commit 6a07fd4739e58ee1b21c30e6bb5625e037d8a935
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-12 12:35:02 +0800
+
+    fix
+
+228	67	.idea/workspace.xml
+7	5	config/ticket_config.yaml
+77	52	init/select_ticket_info.py
+-	-	tkcode
+
+commit 339c22b5e2fc9d04525aaa5ad76e865634082cd9
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 21:49:10 +0800
+
+    fix
+
+27	18	.idea/workspace.xml
+5	5	config/ticket_config.yaml
+
+commit 488fd0186438095719b06ac514c8a15bdecadf6a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 21:45:53 +0800
+
+    限制队列线程买票大小
+
+240	189	.idea/workspace.xml
+
+commit 66413c9acc4c231d475ad7391af84fe5fa75346a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 21:44:02 +0800
+
+    fix
+
+2	2	damatuCode/damatuWeb.py
+62	62	init/select_ticket_info.py
+-	-	tkcode
+
+commit 39b10e05c0d790dc6714841de427f655b9dce6c0
+Merge: e5b16fe 27d3c8f
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 18:40:20 +0800
+
+    Merge remote-tracking branch 'origin/dev' into dev
+    
+    # Conflicts:
+    #       init/select_ticket_info.py
+
+commit 264351d7276d26429bde2d2862fc886f8616739b
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 17:27:56 +0800
+
+    fix
+
+15	8	.idea/workspace.xml
+1	0	init/select_ticket_info.py
+
+commit 977af7fd662bbf0b191fbef8724263a831a2fd7f
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 17:26:54 +0800
+
+    跳出下单循环
+
+132	51	.idea/workspace.xml
+20	19	config/ticket_config.yaml
+1	0	init/select_ticket_info.py
+
+commit 27d3c8f216700acd2e8df1116bbdf3a27a7cc737
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 16:17:16 +0800
+
+    更改队列大小
+
+1	1	init/select_ticket_info.py
+
+commit 943ca94b9c17774cd0f211ee3ad0faa2438abac5
+Merge: 9865021 1d1237e
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 16:11:06 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 1d1237e1a4a58ef9ab1e6e3c26ba590bc54b2693
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 16:01:37 +0800
+
+    增加提交订单验证码校验
+
+31	18	init/select_ticket_info.py
+
+commit 53f030537d4cf891ec7db69b619201d82a1b0f95
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 15:43:00 +0800
+
+    提交验证码拉去类别问题
+
+1	1	init/select_ticket_info.py
+-	-	tkcode
+
+commit 9865021f8148e886154b27039043ae52bcb71258
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 15:39:42 +0800
+
+    .
+
+0	1	damatuCode/damatuWeb.py
+
+commit ebcd2a7997bc40d9485f548d6681f890eb7a6419
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 15:34:15 +0800
+
+    命令测试
+
+2	2	damatuCode/damatuWeb.py
+
+commit 4383d31878a55c43a73e041c22d8032b41cf3fbd
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 15:26:12 +0800
+
+    队列循环提交
+
+0	1	init/select_ticket_info.py
+
+commit 1d3a7867d524f5eb26ef6fba25639f53025d82d7
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 15:25:31 +0800
+
+    修改提交需要验证码逻辑
+
+37	59	init/select_ticket_info.py
+-	-	tkcode
+
+commit f07b33d099be5ddace45b2e94b75d057b20763ef
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 15:23:50 +0800
+
+    优化睡眠时间,队列循环提交
+
+11	8	init/select_ticket_info.py
+
+commit dffc307b55162ce92399acba3539caf7da4c7782
+Merge: e532066 162a7ce
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 15:09:28 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 162a7cefe55e2efc155e9194b4b3495ff47a9862
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 13:34:35 +0800
+
+    更改车次提示不间断
+
+1	2	init/select_ticket_info.py
+-	-	tkcode
+
+commit e5b16fe778cca2e4535a01a91d5093fadfc659e5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 13:20:39 +0800
+
+    test
+
+228	58	.idea/workspace.xml
+17	18	config/ticket_config.yaml
+206	97	init/select_ticket_info.py
+
+commit e5320663e8248b4c4416b16ba1f11fd745a77a24
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-11 12:43:25 +0800
+
+    增加配置
+
+59	35	init/select_ticket_info.py
+
+commit 246b364a5222bd60fa69d7211f0b557cfc5d4d6e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 11:15:16 +0800
+
+    fix
+
+20	20	init/select_ticket_info.py
+
+commit 947c33cd6bf70cfb331e53404a29e41bd2c19d1d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-11 11:06:41 +0800
+
+    排队订单sleep逻辑修改
+    判断联系人不在列表给出提示
+
+66	19	init/select_ticket_info.py
+-	-	tkcode
+
+commit 4604fd7d3b86eef6bfec39afce56ac4d611ad903
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 22:36:51 +0800
+
+    优化排队效率
+
+2	2	init/select_ticket_info.py
+-	-	tkcode
+
+commit 85ae1b9f6b566d1568906b60a1576f913255f3c5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 21:58:39 +0800
+
+    test
+
+10	8	init/select_ticket_info.py
+-	-	tkcode
+
+commit c4806e6306252724ed67e784a9ec2694a731c361
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 21:32:11 +0800
+
+    优化查询逻辑
+
+12	12	init/select_ticket_info.py
+-	-	tkcode
+
+commit f53270c1512a0efeb159aa986abea1e5c1618074
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 19:36:22 +0800
+
+    优化登录订票流程
+
+81	77	init/select_ticket_info.py
+-	-	tkcode
+
+commit bebdcfaf316245ec26f0c8e124be37087657818d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 17:30:01 +0800
+
+    gix
+
+1	1	README.md
+
+commit 43783612da79cea2d284fa4e8808a902666af429
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 17:29:05 +0800
+
+    转码
+
+1	1	README.md
+
+commit fdba481ee5f46d00ca00ad45a3297e21dcbaae5f
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 17:25:48 +0800
+
+    fix
+
+3	0	README.md
+6	8	init/select_ticket_info.py
+-	-	tkcode
+-	-	uml/uml.png
+
+commit b4c536dcf2e1ffcb0c2696e7dec42cc215759343
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 15:23:53 +0800
+
+    优化查询速度
+
+3	3	init/select_ticket_info.py
+-	-	tkcode
+
+commit fecc657d35dcc04f9e52adc582f25f04b7cda30d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 13:41:05 +0800
+
+    转码
+
+67	167	.idea/workspace.xml
+1	1	init/select_ticket_info.py
+
+commit 0735431cd9f3f9f2f173c842daccceb918a8fcda
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 13:36:50 +0800
+
+    fix
+
+0	1	README.md
+5	3	config/ticket_config.yaml
+4	4	damatuCode/damatuWeb.py
+8	14	init/select_ticket_info.py
+
+commit 2a46ccddb4c7ecdd5952f90e09346890861fb05b
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-10 12:20:57 +0800
+
+    test push
+
+1	0	README.md
+
+commit 18c8d9666477536099dd485a470bcb5d3814adda
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-10 12:18:21 +0800
+
+    测试push
+
+4	4	damatuCode/damatuWeb.py
+
+commit 66a9965afd1e6df1e3c3845ff80ec16201e498b1
+Merge: 8a17c48 83c4c92
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-10 10:44:02 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       init/select_ticket_info.py
+
+commit 8a17c48f40ed14700cd9e976bb70107190e28f3e
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-10 10:36:02 +0800
+
+    优化睡眠时间,去除没用的Print
+
+6	4	init/select_ticket_info.py
+
+commit 83c4c925b6f60a7761bd4879c28bbb8d10dbf741
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 10:35:09 +0800
+
+    fix
+
+2	2	init/select_ticket_info.py
+
+commit b8ed4ae7322bdd1150072f2ff9eafd6d358754cc
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 10:31:43 +0800
+
+    fix
+
+5	0	README.md
+6	2	init/select_ticket_info.py
+
+commit eac67ea1e5b75b63aab7be40c84b52cbd58c95ba
+Author: 79277490@qq.com <prCHU123>
+Date:   2018-01-10 10:27:31 +0800
+
+    优化睡眠时间,去除没用的信息
+
+13	9	init/select_ticket_info.py
+
+commit d7f48500715245963ce8770fd6cf00e916b1780e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 09:47:13 +0800
+
+    优化查票流程
+
+1	1	agency/agency_tools.py
+1	1	config/ticketConf.py
+12	3	init/select_ticket_info.py
+
+commit 4430cd6ff871f1cdffc968a8e3e290a3e1b6c477
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-10 09:42:25 +0800
+
+    修改二等座的余票数返回为字符串的问题
+    优化订单查询bug
+
+9	9	init/select_ticket_info.py
+54	0	myUrllib/httpUtils.py
+-	-	tkcode
+
+commit c5af54f8c4bc95fb46c7c730d81cec636a2b3874
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-09 23:12:22 +0800
+
+    修改小黑屋时间计算bug
+
+1	0	README.md
+1	1	init/login.py
+3	3	init/select_ticket_info.py
+0	0	agency/proxy_list => proxy_list
+-	-	tkcode
+
+commit 7dc56be116a1a79c0cc72c6e49e6a40915c2341d
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-09 21:54:10 +0800
+
+    readme
+
+3	1	README.md
+
+commit 6dc0df05e9e83a44c1c0d1bb853a25a41b72f235
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-09 21:50:52 +0800
+
+    1、增加校验下单需要验证码功能
+    2、增加下单成功判断接口校验
+
+399	0	agency/proxy_list
+42	26	init/select_ticket_info.py
+-	-	tkcode
+
+commit 34dbcdb97ab6a869f8174fa2f99b4f8f77eeac85
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-09 15:05:56 +0800
+
+    优化查询速度
+
+88	76	init/select_ticket_info.py
+
+commit 3c9bf71b0f546ce09d041f322cb735326b5f2483
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-09 14:16:29 +0800
+
+    fix
+
+1	1	README.md
+
+commit 1dee0ad03362d1c8a34bb77471218aee00691c20
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-09 13:40:27 +0800
+
+    增加登录手动打码
+    修改硬座不能订票的问题
+    判断如果剩余票数为0，自动跳过
+
+24	13	README.md
+3	3	agency/agency_tools.py
+1	900	agency/proxy_list
+1	1	config/ticketConf.py
+13	12	config/ticket_config.yaml
+59	44	init/login.py
+12	7	init/select_ticket_info.py
+2	0	requirements.txt
+-	-	tkcode
+
+commit 94571217cc7a5714e1074e0e07d7d48daf7a3c8e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 22:16:35 +0800
+
+    fix
+
+1	1	config/ticket_config.yaml
+2	2	init/select_ticket_info.py
+
+commit 52397bfc50c559632b02936fbaf966b6de5f37d7
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 22:14:30 +0800
+
+    update redeme
+
+28	23	README.md
+0	793	yixing/.idea/workspace.xml
+
+commit e99e3609907a3381cb56ab297b433cec761525b4
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 22:09:33 +0800
+
+    fix
+
+14	1	README.md
+4	1	config/ticket_config.yaml
+
+commit e9a532fc2258542c11ecfa88a4e0d6cfb2d7e2e1
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 21:59:10 +0800
+
+    修改单人提交订单bug，增加区别僵尸票功能
+
+53	35	init/select_ticket_info.py
+-	-	tkcode
+0	7	yixing/.idea/inspectionProfiles/profiles_settings.xml
+0	33	yixing/.idea/misc.xml
+0	8	yixing/.idea/modules.xml
+180	335	yixing/.idea/workspace.xml
+
+commit 60fb33c903f4b848630dbfe447a00313c52348cf
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 18:46:23 +0800
+
+    优化读取站内文件次数
+
+3	3	init/select_ticket_info.py
+
+commit 982ede537398a1c89786825c590a1ed2e680a557
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 18:38:17 +0800
+
+    fix
+
+1	0	.gitignore
+248	142	.idea/workspace.xml
+2	1	damatuCode/damatuWeb.py
+2	5	init/select_ticket_info.py
+-	-	tkcode
+
+commit 346b8d2e988721c9258e4943338acb34a3597a62
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 15:44:02 +0800
+
+    fix
+
+4	4	config/ticket_config.yaml
+2	0	myException/ticketNumOutException.py
+
+commit 03fe7a9ba9e9a9f3fcc55b1ecc9c29233b71b7b4
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 15:28:10 +0800
+
+    更改冗余目录结构
+
+1	1	{yixing/.idea => .idea}/12306login.iml
+0	0	{yixing/.idea => .idea}/codeStyleSettings.xml
+0	0	{yixing/.idea => .idea}/dictionaries/wenxianping.xml
+0	0	{yixing/.idea => .idea}/inspectionProfiles/Project_Default.xml
+0	0	{yixing => agency}/__init__.py
+0	0	{yixing/agency => agency}/agency_tools.py
+0	0	{yixing/agency => agency}/proxy_list
+0	0	{yixing/agency => config}/__init__.py
+0	0	{yixing/config => config}/ticketConf.py
+4	4	{yixing/config => config}/ticket_config.yaml
+0	0	{yixing/config => damatuCode}/__init__.py
+2	1	{yixing/damatuCode => damatuCode}/damatuWeb.py
+0	0	{yixing/damatuCode => init}/__init__.py
+3	4	{yixing/init => init}/login.py
+20	20	{yixing/init => init}/select_ticket_info.py
+0	0	{yixing/myException => myException}/PassengerUserException.py
+0	0	{yixing/init => myException}/__init__.py
+0	0	{yixing/myException => myException}/balanceException.py
+0	0	{yixing/myException => myException}/ticketConfigException.py
+0	0	{yixing/myException => myException}/ticketIsExitsException.py
+0	0	{yixing/myException => myUrllib}/__init__.py
+0	0	{yixing/myUrllib => myUrllib}/myurllib2.py
+0	0	yixing/requirements.txt => requirements.txt
+0	0	yixing/run.py => run.py
+0	0	yixing/station_name.txt => station_name.txt
+-	-	tkcode
+0	0	yixing/myUrllib/__init__.py
+
+commit 59da8020af3f969ea7e7286a8814630bc9a82977
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 14:16:49 +0800
+
+    1、12306接口无响应的时候给出合理提示
+    2、优化订票排队时间
+
+8	3	yixing/init/select_ticket_info.py
+
+commit ea32a545118f4ce974431790428f5e485c1b5ce4
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 13:52:24 +0800
+
+    优化订购车票流程
+
+25	19	.idea/workspace.xml
+
+commit e4e42718cc9a972849f40af6fdba919e56fda80e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 13:52:15 +0800
+
+    优化订购车票流程
+
+84	29	.idea/workspace.xml
+2	2	yixing/init/login.py
+17	10	yixing/init/select_ticket_info.py
+
+commit 9c55556a3cc1c79a918ac879b47782bc752b61d5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 10:26:03 +0800
+
+    1、fix
+
+3	3	yixing/config/ticket_config.yaml
+
+commit 42704fe911ec77d9627ae8ba65ba02399455f05a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-08 10:22:20 +0800
+
+    1、增加多人订票规则，目前无问题
+
+177	116	.idea/workspace.xml
+8	7	yixing/config/ticket_config.yaml
+63	20	yixing/init/select_ticket_info.py
+
+commit 551bbfc003a02f0a1a9671198368868c782b90fc
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 14:19:32 +0800
+
+    打开登录开关
+
+4	4	yixing/init/select_ticket_info.py
+1	1	yixing/run.py
+
+commit d165bb4cf54491d475aa8b2bf138127bdb4d0083
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 14:06:48 +0800
+
+    修改不能提交订票的bug
+
+8	5	yixing/init/select_ticket_info.py
+
+commit 5bbc55ca4f6f8abc759eabe56575e3a170eec4c5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 13:21:25 +0800
+
+    增加预售车次订票休眠时间配置
+
+5	3	yixing/config/ticket_config.yaml
+11	8	yixing/init/select_ticket_info.py
+
+commit 6528b65ac291f9d870eb3eb31dccecb95a69527e
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 13:04:25 +0800
+
+    增加配置
+
+19	12	yixing/init/select_ticket_info.py
+
+commit f3a0135d939907941c29b4c634b20e2c34f014d2
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 12:36:44 +0800
+
+    增加过滤车次配置
+
+0	1	.gitignore
+23	1	yixing/config/ticket_config.yaml
+10	6	yixing/init/select_ticket_info.py
+1	1	yixing/run.py
+
+commit 9d82578d3a46394c39933215ba2068a1ce66f02a
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 11:12:35 +0800
+
+    修改查询接口配置有误
+
+1	0	.gitignore
+53	100	.idea/workspace.xml
+1	1	yixing/init/select_ticket_info.py
+
+commit 652cebfd5729a793a4b4ec72819a86f98e1feac5
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 09:56:25 +0800
+
+    常规更新
+
+31	35	.idea/workspace.xml
+
+commit 4d6cebf74ba7ae75f8b6a34cea0cd3ee3a792886
+Merge: 54887b6 c00aa96
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 09:55:49 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       .idea/workspace.xml
+    #       yixing/12306.py
+    #       yixing/test.py
+    #       yixing/tiket.py
+    #       yixing/tiket.ui
+
+commit 54887b6755682a4fc13ca4ec49560047c8b168e0
+Author: wenxianping <931128603@qq.com>
+Date:   2018-01-07 09:54:36 +0800
+
+    常规更新
+
+1	1	.idea/12306.iml
+1	1	.idea/misc.xml
+414	415	.idea/workspace.xml
+33	6	README.md
+0	108	yixing/12306.py
+0	0	yixing/config/__init__.py
+32	0	yixing/config/ticketConf.py
+31	0	yixing/config/ticket_config.yaml
+1	1	yixing/damatuCode/damatuWeb.py
+0	17	yixing/haha.py
+8	6	yixing/init/login.py
+228	78	yixing/init/select_ticket_info.py
+2	0	yixing/myException/PassengerUserException.py
+2	0	yixing/myException/ticketConfigException.py
+2	0	yixing/myException/ticketIsExitsException.py
+0	10	yixing/myUrllib/12306test.py
+9	5	yixing/myUrllib/myurllib2.py
+4	0	yixing/requirements.txt
+1	1	yixing/run.py
+0	107	yixing/test.py
+0	199	yixing/test.ui
+0	140	yixing/tiket.py
+0	298	yixing/tiket.ui
+
+commit c00aa9693558193fb9798dc044373f3dc44b29ee
+Author: wen <931128603@qq.com>
+Date:   2017-06-09 20:30:06 +0800
+
+    pull code
+
+216	290	.idea/workspace.xml
+86	15	yixing/12306.py
+10	10	yixing/test.py
+32	10	yixing/tiket.py
+79	10	yixing/tiket.ui
+
+commit 33946508ace1e5758fb3a19d347e8f71b1fe11ba
+Author: wenxianping <931128603@qq.com>
+Date:   2017-06-01 15:10:56 +0800
+
+    update pyqt5
+
+546	98	.idea/workspace.xml
+-	-	12306login/damatuCode/__init__.pyc
+-	-	12306login/damatuCode/damatuWeb.pyc
+0	49	12306login/haha.py
+-	-	12306login/init/__init__.pyc
+-	-	12306login/init/login.pyc
+-	-	12306login/myException/__init__.pyc
+-	-	12306login/myException/balanceException.pyc
+-	-	12306login/myUrllib/__init__.pyc
+-	-	12306login/myUrllib/myurllib2.pyc
+0	0	12306login/agency/__init__.py => __init__.py
+0	0	{12306login => yixing}/.idea/12306login.iml
+0	0	{12306login => yixing}/.idea/codeStyleSettings.xml
+0	0	{12306login => yixing}/.idea/dictionaries/wenxianping.xml
+0	0	{12306login => yixing}/.idea/inspectionProfiles/Project_Default.xml
+0	0	{12306login => yixing}/.idea/inspectionProfiles/profiles_settings.xml
+0	0	{12306login => yixing}/.idea/misc.xml
+0	0	{12306login => yixing}/.idea/modules.xml
+0	0	{12306login => yixing}/.idea/workspace.xml
+108	0	yixing/12306.py
+0	0	{12306login/damatuCode => yixing}/__init__.py
+0	0	{12306login/init => yixing/agency}/__init__.py
+0	0	{12306login => yixing}/agency/agency_tools.py
+0	0	{12306login => yixing}/agency/proxy_list
+0	0	{12306login/myException => yixing/damatuCode}/__init__.py
+0	0	{12306login => yixing}/damatuCode/damatuWeb.py
+17	0	yixing/haha.py
+0	0	{12306login/myUrllib => yixing/init}/__init__.py
+0	0	{12306login => yixing}/init/login.py
+0	0	{12306login => yixing}/init/select_ticket_info.py
+0	0	yixing/myException/__init__.py
+0	0	{12306login => yixing}/myException/balanceException.py
+10	0	yixing/myUrllib/12306test.py
+0	0	yixing/myUrllib/__init__.py
+2	2	{12306login => yixing}/myUrllib/myurllib2.py
+0	0	{12306login => yixing}/run.py
+0	0	{12306login => yixing}/station_name.txt
+107	0	yixing/test.py
+199	0	yixing/test.ui
+140	0	yixing/tiket.py
+298	0	yixing/tiket.ui
+
+commit 020500ca124475590e6e89657b595e60d257e9ac
+Author: wenxianping <931128603@qq.com>
+Date:   2017-05-24 18:50:17 +0800
+
+    -submitOrderRequest 方法优化，urllib2 方法优化
+
+11	0	.idea/12306.iml
+7	0	.idea/inspectionProfiles/profiles_settings.xml
+4	0	.idea/misc.xml
+8	0	.idea/modules.xml
+6	0	.idea/vcs.xml
+516	0	.idea/workspace.xml
+-	-	12306login/damatuCode/__init__.pyc
+-	-	12306login/damatuCode/damatuWeb.pyc
+-	-	12306login/init/__init__.pyc
+-	-	12306login/init/login.pyc
+2	2	12306login/init/select_ticket_info.py
+-	-	12306login/myException/__init__.pyc
+-	-	12306login/myException/balanceException.pyc
+-	-	12306login/myUrllib/__init__.pyc
+-	-	12306login/myUrllib/myurllib2.pyc
+
+commit 072bca48c2f7936f3e20f38abd939d02fea00a0b
+Author: MR.wen <931128603@qq.com>
+Date:   2017-05-23 23:09:51 +0800
+
+    增加代理ip，修改登录逻辑
+
+152	139	12306login/.idea/workspace.xml
+0	0	12306login/agency/__init__.py
+77	0	12306login/agency/agency_tools.py
+900	0	12306login/agency/proxy_list
+3	1	12306login/haha.py
+55	47	12306login/init/login.py
+-	-	12306login/init/login.pyc
+19	11	12306login/init/select_ticket_info.py
+5	0	README.md
+
+commit 8d8b5ab1fbabddbcf34ade76a70bb5454a36130b
+Author: MR.wen <931128603@qq.com>
+Date:   2017-05-22 22:11:12 +0800
+
+    增加提交订单方法，增加订单排队方法
+
+56	63	12306login/.idea/workspace.xml
+15	10	12306login/haha.py
+75	11	12306login/init/select_ticket_info.py
+
+commit c43dc1bab4b9ab423837ed5f2dcbe91c9d083930
+Author: MR.wen <931128603@qq.com>
+Date:   2017-05-21 21:39:31 +0800
+
+    优化车票提交订单信息增加检查排队人数方法
+
+0	3	12306login/.idea/misc.xml
+120	61	12306login/.idea/workspace.xml
+3	4	12306login/damatuCode/damatuWeb.py
+-	-	12306login/damatuCode/damatuWeb.pyc
+40	30	12306login/haha.py
+8	4	12306login/init/login.py
+-	-	12306login/init/login.pyc
+33	33	12306login/init/select_ticket_info.py
+-	-	12306login/myException/balanceException.pyc
+-	-	12306login/myUrllib/__init__.pyc
+
+commit c59d1cf8d32e1b202f1cd1445f39c8db7b3079db
+Author: MR.wen <931128603@qq.com>
+Date:   2017-05-21 16:48:34 +0800
+
+    create select num people
+
+42	87	12306login/.idea/workspace.xml
+16	1	12306login/haha.py
+128	34	12306login/init/select_ticket_info.py
+-	-	12306login/init/select_ticket_info.pyc
+
+commit 150a2440fe96365e797dbf4f5dab44f06f74a5de
+Author: MR.wen <931128603@qq.com>
+Date:   2017-05-17 20:37:45 +0800
+
+    create .gitignore
+
+2	0	.gitignore
+
+commit 5cd50a7fe0df08495fc29901bcb3d7681ec78e83
+Author: MR.wen <931128603@qq.com>
+Date:   2017-05-17 20:32:37 +0800
+
+    first pull
+
+11	0	12306login/.idea/12306login.iml
+11	0	12306login/.idea/codeStyleSettings.xml
+3	0	12306login/.idea/dictionaries/wenxianping.xml
+10	0	12306login/.idea/inspectionProfiles/Project_Default.xml
+7	0	12306login/.idea/inspectionProfiles/profiles_settings.xml
+36	0	12306login/.idea/misc.xml
+8	0	12306login/.idea/modules.xml
+928	0	12306login/.idea/workspace.xml
+0	0	12306login/damatuCode/__init__.py
+-	-	12306login/damatuCode/__init__.pyc
+126	0	12306login/damatuCode/damatuWeb.py
+-	-	12306login/damatuCode/damatuWeb.pyc
+17	0	12306login/haha.py
+0	0	12306login/init/__init__.py
+-	-	12306login/init/__init__.pyc
+176	0	12306login/init/login.py
+-	-	12306login/init/login.pyc
+177	0	12306login/init/select_ticket_info.py
+-	-	12306login/init/select_ticket_info.pyc
+0	0	12306login/myException/__init__.py
+-	-	12306login/myException/__init__.pyc
+2	0	12306login/myException/balanceException.py
+-	-	12306login/myException/balanceException.pyc
+0	0	12306login/myUrllib/__init__.py
+-	-	12306login/myUrllib/__init__.pyc
+59	0	12306login/myUrllib/myurllib2.py
+-	-	12306login/myUrllib/myurllib2.pyc
+9	0	12306login/run.py
+1	0	12306login/station_name.txt
+1	0	README.md

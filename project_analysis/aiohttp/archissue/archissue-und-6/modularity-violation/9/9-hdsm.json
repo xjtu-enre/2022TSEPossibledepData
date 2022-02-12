@@ -1,0 +1,78 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "9",
+  "variables" : [ "tests/test_http_exceptions.py", "aiohttp/http_exceptions.py", "tests/test_client_exceptions.py", "tests/test_websocket_parser.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 7.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 7.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  } ]
+}

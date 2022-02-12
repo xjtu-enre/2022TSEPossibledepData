@@ -1,0 +1,12 @@
+Id,FileCount,UnstableInterface
+1,122,aiohttp/helpers.py
+2,120,aiohttp/client_reqrep.py
+3,119,aiohttp/test_utils.py
+4,118,aiohttp/abc.py
+5,117,aiohttp/streams.py
+6,108,aiohttp/typedefs.py
+7,100,aiohttp/web_request.py
+8,92,aiohttp/web_response.py
+9,87,aiohttp/http.py
+10,83,aiohttp/hdrs.py
+

@@ -1,0 +1,22 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "10",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "tests/test_formdata.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "tests/test_helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_multipart.py"
+    } ]
+  } ]
+}

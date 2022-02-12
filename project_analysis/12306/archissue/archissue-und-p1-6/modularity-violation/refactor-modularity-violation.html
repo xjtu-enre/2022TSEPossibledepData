@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Refactor Modularity Violation</title>
+    <style>
+        html {
+            font-family: arial;
+        }
+        header {
+            text-align: center;
+        }
+    </style>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <header>
+        <h1>Refactor Modularity Violation</h1>
+    </header>
+    <div>
+        <ul>
+            <li>Module violations typically manifest themselves as multiple files that do not have static dependencies changing frequently at the same time.
+                <ul>
+                    <li>DV8 can be used to detect which files have modularity violations and to what extent (i.e. the number of times the files have been modified together)</li>
+                    <li>The user can customize the threshold for modularity violation, i.e. how many times a module has been modified together can be counted as a module violation.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>Before refactoring, you should examine the code that produced the module violation and find out why it occurred, often with the following possibilities:
+                <ul>
+                    <li>Normal dynamic coupling, such as clients and servers in distributed systems, often changes at the same time due to business needs, different hardware boards need to implement the same functionality, 3rd party API changed, etc.
+                        <ul>
+                            <li>Such modularity violation is normal. The user only need to record these dependency information for future reference, and there is no need to refactor.</li>
+                            <li>Such module violation often offers the possibility of further abstraction.</li>
+                        </ul>
+                    </li>
+                    <li>Implicit dependencies: for example, multiple files share some information, e.g., access the database using similar procedures, using multiple API methods, units of time (seconds or milliseconds, etc.), similar variables, etc.</li>
+                    <li>Code cloning: A large number of similar-functional code is copied in multiple files, resulting in multiple files that need to be changed once the functionality changes.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>Refactoring methods: Encapsulation and abstraction.</li>
+        </ul>
+        <ul>
+            <li>Using DV8 to extract the file group that produced the module default, and find out the design space of these files, that is, all the files that depend on these files, put into the refactoring branch.
+                <ul>
+                    <li>Do the following in the refactoring branch:
+                        <ul>
+                            <li>If a modularity violation is caused by code clone, the cloned part should be encapsulated into a separate module and the appropriate interface should be designed for the module, so that the files that originally contained the cloned code can depend only on the interface.</li>
+                            <li>If a modularity violation is caused by implicit dependencies, then abstract them, such as similar variables and processes, into stable interfaces, make the file directly dependent on only explicit interfaces, eliminating implicit dependencies.</li>
+                            <li>Write the appropriate unit test cases to ensure that the new code is functionally correct.</li>
+                            <li>Make sure the new code doesn't have code smells.</li>
+                            <li>Using DV8 to detect:
+                                <ul>
+                                    <li>Whether the refactored code conforms to the target design.</li>
+                                    <li>Whether there is no implicit dependency between modules other than explicit dependencies on interfaces.</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

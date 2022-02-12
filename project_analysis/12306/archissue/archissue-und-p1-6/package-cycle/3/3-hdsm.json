@@ -1,0 +1,102 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "variables" : [ "init/select_ticket_info.py", "config/urlConf.py", "config/TicketEnmu.py", "config/configCommon.py", "config/getCookie.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 23.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 4.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 9.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 4,
+    "values" : {
+      "Cochange" : 4.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 23.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 3.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 1.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 4,
+    "values" : {
+      "Cochange" : 2.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 4.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 3.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 9.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 1.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 4.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 2.0
+    }
+  } ]
+}

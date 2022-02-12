@@ -1,0 +1,15 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/resolver.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_resolver.py"
+    } ]
+  } ]
+}

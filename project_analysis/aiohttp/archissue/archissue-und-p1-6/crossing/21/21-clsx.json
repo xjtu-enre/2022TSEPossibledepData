@@ -1,0 +1,47 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "21",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web_protocol.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/streams.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/abc.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/http_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_request.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web_server.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web_runner.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/worker.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_functional.py"
+    } ]
+  } ]
+}

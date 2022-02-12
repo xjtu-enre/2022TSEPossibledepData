@@ -1,0 +1,34 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "config/urlConf.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/pushbearConf.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/logger.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/getCookie.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/serverchanConf.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "myUrllib/MySocketUtils.py"
+    }, {
+      "@type" : "item",
+      "name" : "myUrllib/httpUtils.py"
+    } ]
+  } ]
+}

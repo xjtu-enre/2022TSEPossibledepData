@@ -1,0 +1,13 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "variables" : [ "init/select_ticket_info.py", "inter/GetRandCode.py", "inter/GetQueueCountAsync.py", "config/emailConf.py", "agency/agency_tools.py", "inter/GetPassCodeNewOrderAndLogin.py", "inter/GetQueueCount.py" ],
+  "cells" : [ {
+    "src" : 6,
+    "dest" : 3,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  } ]
+}

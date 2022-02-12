@@ -1,0 +1,77 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "14",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/resolver.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/http.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/abc.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/locks.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/test_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_reqrep.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/tracing.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/hdrs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_proto.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/connector.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "tests/test_connector.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_proxy.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_connection.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_session.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_proxy_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_functional.py"
+    } ]
+  } ]
+}

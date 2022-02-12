@@ -1,0 +1,18 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "variables" : [ "aiohttp/resolver.py", "tests/test_resolver.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 18.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 18.0
+    }
+  } ]
+}

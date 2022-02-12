@@ -1,0 +1,26 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "9",
+  "variables" : [ "examples/web_ws.py", "aiohttp/web.py", "tests/test_test_utils.py", "examples/legacy/tcp_protocol_parser.py", "examples/web_cookies.py", "examples/web_srv.py", "tests/test_web_websocket_functional.py", "examples/background_tasks.py", "examples/client_ws.py", "tests/test_http_parser.py", "examples/web_srv_route_deco.py", "examples/web_rewrite_headers_middleware.py", "aiohttp/client_ws.py", "tests/test_run_app.py", "aiohttp/streams.py", "tests/test_web_functional.py" ],
+  "cells" : [ {
+    "src" : 3,
+    "dest" : 14,
+    "values" : {
+      "P1" : 4.0
+    }
+  }, {
+    "src" : 9,
+    "dest" : 14,
+    "values" : {
+      "P1" : 24.0
+    }
+  }, {
+    "src" : 12,
+    "dest" : 14,
+    "values" : {
+      "Import" : 1.0,
+      "Use" : 1.0,
+      "Import From" : 1.0
+    }
+  } ]
+}

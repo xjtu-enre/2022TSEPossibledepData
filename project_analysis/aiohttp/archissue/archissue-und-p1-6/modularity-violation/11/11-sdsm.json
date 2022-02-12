@@ -1,0 +1,6 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "11",
+  "variables" : [ "examples/web_srv_route_deco.py", "examples/web_ws.py", "examples/web_srv_route_table.py" ],
+  "cells" : [ ]
+}

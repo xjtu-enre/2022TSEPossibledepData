@@ -1,0 +1,94 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "myUrllib/httpUtils.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "config/logger.py"
+    }, {
+      "@type" : "item",
+      "name" : "init/login.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/TicketEnmu.py"
+    }, {
+      "@type" : "item",
+      "name" : "myException/UserPasswordException.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/urlConf.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetQueueCountAsync.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetPassengerDTOs.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/ConfirmSingleForQueueAsys.py"
+    }, {
+      "@type" : "item",
+      "name" : "init/select_ticket_info.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetRandCode.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/getCookie.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/configCommon.py"
+    }, {
+      "@type" : "item",
+      "name" : "agency/cdn_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/emailConf.py"
+    }, {
+      "@type" : "item",
+      "name" : "agency/agency_tools.py"
+    }, {
+      "@type" : "item",
+      "name" : "myUrllib/MySocketUtils.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetPassCodeNewOrderAndLogin.py"
+    }, {
+      "@type" : "item",
+      "name" : "UnitTest/TestAll.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetQueueCount.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/CheckUser.py"
+    }, {
+      "@type" : "item",
+      "name" : "TickerConfig.py"
+    }, {
+      "@type" : "item",
+      "name" : "run.py"
+    }, {
+      "@type" : "item",
+      "name" : "tmp/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/QueryOrderWaitTime.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/Query.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/AutoSubmitOrderRequest.py"
+    } ]
+  } ]
+}

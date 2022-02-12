@@ -1,0 +1,35 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "5",
+  "variables" : [ "init/select_ticket_info.py", "init/login.py", "myUrllib/httpUtils.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "P1" : 4.0,
+      "Import" : 1.0,
+      "Import From" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0,
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "P1" : 14.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "P1" : 4.0
+    }
+  } ]
+}

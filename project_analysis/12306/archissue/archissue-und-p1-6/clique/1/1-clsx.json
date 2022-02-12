@@ -1,0 +1,51 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "config/logger.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/configCommon.py"
+    }, {
+      "@type" : "item",
+      "name" : "init/login.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetPassengerDTOs.py"
+    }, {
+      "@type" : "item",
+      "name" : "agency/cdn_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "myUrllib/httpUtils.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/Query.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/LiftTicketInit.py"
+    }, {
+      "@type" : "item",
+      "name" : "init/select_ticket_info.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/AutoSubmitOrderRequest.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetQueueCountAsync.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/ConfirmSingleForQueueAsys.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/QueryOrderWaitTime.py"
+    }, {
+      "@type" : "item",
+      "name" : "config/serverchanConf.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,91 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "7",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "setup.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_response.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_request.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_response.py"
+    }, {
+      "@type" : "item",
+      "name" : "docs/conf.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_request.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_urldispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/worker.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_connector.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_worker.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_protocol.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_reqrep.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_http_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_session.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/connector.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_websocket.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/streams.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/test_utils.py"
+    } ]
+  } ]
+}

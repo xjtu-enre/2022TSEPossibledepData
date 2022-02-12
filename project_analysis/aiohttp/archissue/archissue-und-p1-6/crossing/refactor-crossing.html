@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Refactor Crossing</title>
+    <style>
+        html {
+            font-family: arial;
+        }
+        header {
+            text-align: center;
+        }
+    </style>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <header>
+        <h1>Refactor Crossing</h1>
+    </header>
+    <div>
+        <ul>
+            <li>The crossing anti-pattern file group usually has a central file with the following characteristics:
+                <ul>
+                    <li>It has both high fan-in and high fan-out.</li>
+                    <li>The files it depends on or the files that depend on it are frequently modified together.</li>
+                    <li>DV8 locates these central files and quantifies their impact.</li>
+                    <li>The user can customize the threshold of the crossing, i.e. the number of files the central file depends on or depended by, or how many times they have been modified together can be counted as a crossing anti-pattern mode.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>Before refactoring, you should look at the causes of the crossing anti-patterns, often with the following possibilities:
+                <ul>
+                    <li>High fan-out files are depended by other files, such as a system UI file or portal file usually have a high fan out. If such files are relied on by many other files, will produce cross anti-pattern.</li>
+                    <li>High-impact files rely on multiple other files, similar to unstable interfaces.</li>
+                    <li>These file are often changed together often because of the violation of the principle of a single responsibility.</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>If the crossing is caused by the above reasons, it can be decoupled in the following way:
+                <ul>
+                    <li>Make high-impact files follow the principle of single responsibility and interface segregation, similar to refactoring unstable interfaces.</li>
+                    <li>Avoid other files relying on high-fan out files.
+                        <ul>
+                            <li>Decoupling high-fan out files into small files, so that each small file can form separate modules with files that need to depend on them.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

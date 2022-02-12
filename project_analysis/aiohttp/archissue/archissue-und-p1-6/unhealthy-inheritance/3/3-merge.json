@@ -1,0 +1,147 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "3",
+  "variables" : [ "aiohttp/abc.py", "aiohttp/cookiejar.py", "aiohttp/client.py", "tests/test_cookiejar.py", "aiohttp/client_reqrep.py" ],
+  "cells" : [ {
+    "src" : 0,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 10.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 11.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 4,
+    "values" : {
+      "Cochange" : 12.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Cochange" : 10.0,
+      "Import" : 1.0,
+      "Inherit" : 1.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 16.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 20.0
+    }
+  }, {
+    "src" : 1,
+    "dest" : 4,
+    "values" : {
+      "Cochange" : 16.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "P1" : 4.0,
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Cochange" : 11.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "P1" : 2.0,
+      "Import From" : 1.0,
+      "Call" : 1.0,
+      "Cochange" : 16.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 4,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0,
+      "Cochange" : 78.0,
+      "P1" : 4.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 0,
+    "values" : {
+      "Cochange" : 6.0,
+      "P1" : 41.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 20.0,
+      "P1" : 14.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 2,
+    "values" : {
+      "Cochange" : 6.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 4,
+    "values" : {
+      "Cochange" : 8.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "P1" : 4.0,
+      "Cochange" : 12.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 1,
+    "values" : {
+      "Cochange" : 16.0,
+      "P1" : 5.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 2,
+    "values" : {
+      "Import From" : 1.0,
+      "Cochange" : 78.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 3,
+    "values" : {
+      "Cochange" : 8.0
+    }
+  } ]
+}

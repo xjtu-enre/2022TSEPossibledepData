@@ -1,0 +1,22 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "11",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "examples/web_srv_route_deco.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "examples/web_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/web_srv_route_table.py"
+    } ]
+  } ]
+}

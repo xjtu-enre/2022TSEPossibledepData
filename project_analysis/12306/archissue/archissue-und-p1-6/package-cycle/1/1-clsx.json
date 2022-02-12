@@ -1,0 +1,52 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "1",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "inter/GetRandCode.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetPassCodeNewOrderAndLogin.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/GetPassengerDTOs.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/ChechFace.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/AutoSubmitOrderRequest.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/Query.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/LoginConf.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/LoginAysnSuggest.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/LiftTicketInit.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/SubmitOrderRequest.py"
+    }, {
+      "@type" : "item",
+      "name" : "inter/CheckUser.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "init/select_ticket_info.py"
+    }, {
+      "@type" : "item",
+      "name" : "init/login.py"
+    } ]
+  } ]
+}

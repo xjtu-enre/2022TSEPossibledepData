@@ -1,0 +1,20 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "variables" : [ "inter/Query.py", "inter/GetRandCode.py", "inter/AutoSubmitOrderRequest.py", "inter/GetPassengerDTOs.py", "inter/SubmitOrderRequest.py", "init/login.py", "agency/cdn_utils.py" ],
+  "cells" : [ {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Import From" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 5,
+    "dest" : 1,
+    "values" : {
+      "Import" : 1.0,
+      "Import From" : 1.0
+    }
+  } ]
+}

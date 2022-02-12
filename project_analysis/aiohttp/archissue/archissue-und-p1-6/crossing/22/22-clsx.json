@@ -1,0 +1,47 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "22",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/typedefs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_response.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/hdrs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/abc.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_urldispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_request.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web_routedef.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "tests/test_route_def.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_app.py"
+    } ]
+  } ]
+}

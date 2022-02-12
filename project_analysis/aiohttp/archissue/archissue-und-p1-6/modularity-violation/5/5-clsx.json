@@ -1,0 +1,160 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "5",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/worker.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/abc.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_test_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_runner.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/http_writer.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_proto.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/payload.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_request.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_resolver.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_response.py"
+    }, {
+      "@type" : "item",
+      "name" : "setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/web_cookies.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_request.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/http_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/connector.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_urldispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_run_app.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/locks.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_helpers.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/pytest_plugin.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_multipart.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_connector.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/resolver.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/formdata.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/http_websocket.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_fileresponse.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_exceptions.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/typedefs.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_protocol.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_reqrep.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_http_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_client_session.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/log.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/conftest.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_routedef.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_websocket.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/multipart.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/streams.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/test_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/cookiejar.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_streams.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_middlewares.py"
+    } ]
+  } ]
+}

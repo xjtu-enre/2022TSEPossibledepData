@@ -1,0 +1,67 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "8",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "examples/web_ws.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/web.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_test_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/legacy/tcp_protocol_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/web_cookies.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/web_urldispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/web_srv.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_websocket_functional.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/background_tasks.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/client_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_http_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/web_srv_route_deco.py"
+    }, {
+      "@type" : "item",
+      "name" : "examples/web_rewrite_headers_middleware.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_ws.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_run_app.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/streams.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_web_functional.py"
+    } ]
+  } ]
+}

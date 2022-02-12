@@ -1,0 +1,5 @@
+Type,InstanceCount,DistinctFileCount
+UnstableInterface,1,20
+ModularityViolation,4,17
+PackageCycle,2,8
+Total,7,27

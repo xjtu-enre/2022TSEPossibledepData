@@ -1,0 +1,35 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "2",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/payload.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "aiohttp/multipart.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "examples/legacy/tcp_protocol_parser.py"
+    }, {
+      "@type" : "item",
+      "name" : "tests/test_multipart.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/formdata.py"
+    }, {
+      "@type" : "item",
+      "name" : "aiohttp/client_reqrep.py"
+    } ]
+  } ]
+}

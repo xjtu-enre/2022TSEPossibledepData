@@ -1,0 +1,30 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "4",
+  "variables" : [ "aiohttp/streams.py", "aiohttp/client_proto.py", "aiohttp/client.py" ],
+  "cells" : [ {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "Use" : 1.0,
+      "Import" : 1.0,
+      "Call" : 1.0,
+      "Inherit" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 0,
+    "values" : {
+      "Import From" : 1.0,
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "P1" : 2.0
+    }
+  } ]
+}
