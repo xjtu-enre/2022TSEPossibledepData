@@ -3,6 +3,10 @@ This dataset corresponds to our **TSE work (Under review)**. We provided the ben
 
 We extended our previous tool **ENRE** to extract *possible dependencies* from source code. The version supporting posisble dependency extraction is [**ENRE2.0**](https://github.com/xjtu-enre/ENRE-go-python/tree/v2.0)
 
+**Due to the large size of our data,  we have put the whole dataset of 499 projects on OneDrive, you can download it [here](https://1drv.ms/u/s!AoXM5AoG1Law1TWnRm8vlMxuGlaL?e=IfaJNl)**
+In the current repository in GutHUb, except for *project_analysis* folder, the other folders contains the whole data used in our work.  *project_analysis* folder contains the tool analysis results of the first 20 projects (in alphabetical order) out of 499 projects. You can download the whole set from the above [link](https://1drv.ms/u/s!AoXM5AoG1Law1TWnRm8vlMxuGlaL?e=IfaJNl) 
+
+Now we introduce the dataset as follows.
 
 ## 1. project_list 
 
@@ -23,7 +27,7 @@ To analyze the domain of these 499 projects, we recruited five research voluntee
 
 ## 2. project_analysis
 
-Each folder under this directory corresponds to  the raw data of  an individual project. The data are obtained from analyzing the source code and revision history by employing diverse tools (i.e., **[SCITool Understand](https://scitools.com/)**, **[ENRE](https://github.com/xjtu-enre/ENRE-go-python/)**, **[DV8](https://archdia.com)**) used in our study. Since the entire size of all 499 projects' analysis results is more than 200G. We upload the data of 10 projects. You can email us to obtain all the raw data if you are interested. Or, you can obtain these raw data by deploying and employing the tools we used in our study. 
+Each folder under this directory corresponds to  the raw data of  an individual project. The data are obtained from analyzing the source code and revision history by employing diverse tools (i.e., **[SCITool Understand](https://scitools.com/)**, **[ENRE](https://github.com/xjtu-enre/ENRE-go-python/)**, **[DV8](https://archdia.com)**) used in our study. Since the entire size of all 499 projects' analysis results is large, we upload the data of the first 20 projects in this github repository. You can obtain all of the 499 projects from our onedrive share [link](https://1drv.ms/u/s!AoXM5AoG1Law1TWnRm8vlMxuGlaL?e=IfaJNl))
 
 Under each sub-folder,
 
