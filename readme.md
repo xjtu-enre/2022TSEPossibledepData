@@ -30,8 +30,51 @@ To analyze the domain of these 499 projects, we recruited five research voluntee
 Each folder under this directory corresponds to  the raw data of  an individual project. The data are obtained from analyzing the source code and revision history by employing diverse tools (i.e., **[SCITool Understand](https://scitools.com/)**, **[ENRE](https://github.com/xjtu-enre/ENRE-go-python/)**, **[DV8](https://archdia.com)**) used in our study. Since the entire size of all 499 projects' analysis results is large, we upload the data of the first 20 projects in this github repository. You can obtain all of the 499 projects from our onedrive share [link](https://1drv.ms/u/s!AoXM5AoG1Law1TWnRm8vlMxuGlaL?e=IfaJNl))
 
 Under each sub-folder,
+### 2.1 *dsm* and *new_dsm*folders
+ 
+*dsm* contains the file-level dependencies in DSM using Json file. In this folder:
 
-**
+--*$projectname$_his.json* is the dependency results (**co-change relations**) from revision history.
+
+--*$projectname$_und_XX* is the dependencies results (i.e., **explicit dependencies**) by using Understand.
+
+--*$projectname$_und_P1_XX$* is the dependencies results (i.e., **P1 possible  dependencies**) by using ENRE 2.0.
+
+*new_dsm* folder contains the dependency results by merging two dependency files from $dsm$ folder.
+
+### 2.2 maintenance measurements based on DL and PC metrics
+
+*$projectname$_PC.json* is the PC (Propagation Cost)measurement of this $projectname$ based on explicit file-level dependencies only.
+
+*$projectname$_P1_PC.json* is the PC measurement of this $projectname$ based on explicit file-level dependencies and possible (P1) file-level dependencies.
+
+*$projectname$_DL.json* is the DL (Decoupling Level) measurement of this $projectname$ based on explicit file-level dependencies only.
+
+*$projectname$_P1_DL.json* is the DL measurement of this $projectname$ based on explicit file-level dependencies and possible (P1) file-level dependencies.
+
+### 2.3 *mc* folder: maintenance costs computed based on mining revision history.
+
+*file-loc.csv* is the size information
+
+*file-mc.csv* is the maintenance cost of each source file of a project.
+
+*gitlog* is the git log exported from git of a project.
+
+*history-py.csv* contains the changed file set and issue-fixed related information for each revision commit of a prpject.
+
+*changecost* is the change cost of a project.
+
+### 2.4  *archissue* folder: architecture anti-pattern detection results 
+
+*archissue-und-6* contains the anti-patter instances detected based on explicit dependencies only.
+
+*archissue-und-p1-6* contains the anti-patter instances detected based on explicit dependencies and possible dependencies (the union of them).
+
+each subfolder inside *archissue-und-6* or *archissue-und-p1-6* corresponds to the instances of each anti-pattern.  
+
+Our work studied the six kinds of anti-patterns, i.e., clique (CLQ), modularity-violation (MVG), packgae-cycle (PKG), unhealthy-inheritance (UHI), unstable-interface (UIF), and crossing (CRS). If a corresponding folder of an anti-pattern is missing, it means that this project does not present this anti-pattern when using the experimental settings.
+
+
 
 
 ## 3. analysis_results
