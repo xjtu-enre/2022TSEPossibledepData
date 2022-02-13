@@ -1,7 +1,7 @@
 # Dataset
 This dataset corresponds to our **TSE work (Under review)**. We provided the benchmarks collected from 499 open source projects for continued research of possible dependencies due to dynamic typing in Python software.
 
-We extended our previous tool **ENRE** to extract *possible dependencies* from source code. The version supporting posisble dependency extraction is [**ENRE2.0**](https://github.com/xjtu-enre/ENRE-go-python/tree/v2.0]). 
+We extended our previous tool **ENRE** to extract *possible dependencies* from source code. The version supporting posisble dependency extraction is [**ENRE2.0**](https://github.com/xjtu-enre/ENRE-go-python/tree/v2\.0]). 
 
 
 ## 1. project_list 
